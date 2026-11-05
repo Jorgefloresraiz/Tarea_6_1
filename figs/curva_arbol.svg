@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600"><rect width="1200" height="600" fill="white"/><g font-family="Arial,sans-serif" font-size="22" fill="#222">
+<text x="100" y="40">Curva de aprendizaje del árbol sin límite de profundidad</text>
+<path d="M100 490.0H1100" stroke="#ddd"/><text x="35" y="497.0">0.4</text>
+<path d="M100 431.53846153846155H1100" stroke="#ddd"/><text x="35" y="438.53846153846155">0.5</text>
+<path d="M100 373.07692307692304H1100" stroke="#ddd"/><text x="35" y="380.07692307692304">0.6</text>
+<path d="M100 314.61538461538464H1100" stroke="#ddd"/><text x="35" y="321.61538461538464">0.7</text>
+<path d="M100 256.15384615384613H1100" stroke="#ddd"/><text x="35" y="263.15384615384613">0.8</text>
+<path d="M100 197.69230769230774H1100" stroke="#ddd"/><text x="35" y="204.69230769230774">0.9</text>
+<path d="M100 139.23076923076923H1100" stroke="#ddd"/><text x="35" y="146.23076923076923">1.0</text>
+<polyline points="100.0,139.23076923076923 298.52941176470586,139.23076923076923 500.0,139.23076923076923 700.0,139.23076923076923 900.0,139.23076923076923 1100.0,139.23076923076923" fill="none" stroke="#205b8f" stroke-width="4"/>
+<circle cx="100.0" cy="139.23076923076923" r="6" fill="#205b8f"/>
+<circle cx="298.52941176470586" cy="139.23076923076923" r="6" fill="#205b8f"/>
+<circle cx="500.0" cy="139.23076923076923" r="6" fill="#205b8f"/>
+<circle cx="700.0" cy="139.23076923076923" r="6" fill="#205b8f"/>
+<circle cx="900.0" cy="139.23076923076923" r="6" fill="#205b8f"/>
+<circle cx="1100.0" cy="139.23076923076923" r="6" fill="#205b8f"/>
+<polyline points="100.0,344.4307692307692 298.52941176470586,336.24615384615385 500.0,332.15384615384613 700.0,336.83076923076925 900.0,337.4153846153847 1100.0,315.78461538461534" fill="none" stroke="#b24d16" stroke-width="4"/>
+<circle cx="100.0" cy="344.4307692307692" r="6" fill="#b24d16"/>
+<circle cx="298.52941176470586" cy="336.24615384615385" r="6" fill="#b24d16"/>
+<circle cx="500.0" cy="332.15384615384613" r="6" fill="#b24d16"/>
+<circle cx="700.0" cy="336.83076923076925" r="6" fill="#b24d16"/>
+<circle cx="900.0" cy="337.4153846153847" r="6" fill="#b24d16"/>
+<circle cx="1100.0" cy="315.78461538461534" r="6" fill="#b24d16"/>
+<text x="80.0" y="525">120</text>
+<text x="278.52941176470586" y="525">255</text>
+<text x="480.0" y="525">392</text>
+<text x="680.0" y="525">528</text>
+<text x="880.0" y="525">664</text>
+<text x="1080.0" y="525">800</text>
+<text x="400" y="565">Casos de entrenamiento por pliegue</text>
+<text x="100" y="85" fill="#205b8f">Entrenamiento</text><text x="400" y="85" fill="#b24d16">Validación</text><text x="680" y="85">Accuracy media de 5 pliegues</text>
+</g></svg>
