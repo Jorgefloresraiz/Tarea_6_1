@@ -1,0 +1,528 @@
+{
+  "created_utc": "2026-11-05T01:41:46.783681+00:00",
+  "input_path": "/Users/yero/Downloads/credit_g.csv",
+  "input_sha256": "82b9757965557e2318d267100d13283da961497a36938d1a384dea716a68f6f2",
+  "input_bytes": 139016,
+  "python_executable": "/Users/yero/Downloads/Tarea_5_1/.venv/bin/python",
+  "python_version": "3.14.4 (v3.14.4:23116f998f6, Apr  7 2026, 09:45:22) [Clang 17.0.0 (clang-1700.6.4.2)]",
+  "pandas_version": "2.3.3",
+  "analysis_command": "/Users/yero/Downloads/Tarea_5_1/.venv/bin/python - <<'PY'\nimport pandas as pd, io\nfrom pathlib import Path\ninput_path = '/Users/yero/Downloads/credit_g.csv'\nraw = Path(input_path).read_bytes()\ndf = pd.read_csv(io.BytesIO(raw))\nliteral = pd.read_csv(io.BytesIO(raw), keep_default_na=False)\ncat = list(df.select_dtypes(include=['object']).columns)\nx = df.drop(columns=['clase'])\nfindings = {\n 'rows':len(df), 'columns':len(df.columns), 'predictors':len(x.columns),\n 'column_names':list(df.columns), 'dtypes':df.dtypes.astype(str).to_dict(),\n 'null_counts':df.isna().sum().to_dict(),\n 'empty_or_whitespace_counts':{c:int(literal[c].astype(str).str.strip().eq('').sum()) for c in literal},\n 'edge_whitespace_counts':{c:int((df[c]!=df[c].str.strip()).sum()) for c in cat},\n 'duplicate_rows':int(df.duplicated().sum()),\n 'duplicate_predictor_rows':int(x.duplicated().sum()),\n 'predictor_groups_with_conflicting_labels':int((df.groupby(list(x.columns),dropna=False)['clase'].nunique()>1).sum()),\n 'unique_counts':df.nunique().to_dict(),\n 'categorical_counts':{c:df[c].value_counts(dropna=False).to_dict() for c in cat},\n 'numeric_summary':df.describe().to_dict(),\n 'constant_columns':[c for c in df if df[c].nunique(dropna=False)==1],\n 'rare_categories_under_20':{c:{str(k):int(v) for k,v in df[c].value_counts().items() if v<20} for c in cat},\n 'categorical_class_tables':{c:pd.crosstab(df[c],df['clase']).to_dict() for c in cat if c!='clase'},\n 'majority_baseline':{'prediction':'good','accuracy':float(df['clase'].eq('good').mean()),'bad_recall':0.0,'balanced_accuracy':0.5}\n}\n\nprint(findings)\nPY",
+  "findings": {
+    "rows": 1000,
+    "columns": 21,
+    "predictors": 20,
+    "column_names": [
+      "checking_status",
+      "duration",
+      "credit_history",
+      "purpose",
+      "credit_amount",
+      "savings_status",
+      "employment",
+      "installment_commitment",
+      "personal_status",
+      "other_parties",
+      "residence_since",
+      "property_magnitude",
+      "age",
+      "other_payment_plans",
+      "housing",
+      "existing_credits",
+      "job",
+      "num_dependents",
+      "own_telephone",
+      "foreign_worker",
+      "clase"
+    ],
+    "dtypes": {
+      "checking_status": "object",
+      "duration": "int64",
+      "credit_history": "object",
+      "purpose": "object",
+      "credit_amount": "int64",
+      "savings_status": "object",
+      "employment": "object",
+      "installment_commitment": "int64",
+      "personal_status": "object",
+      "other_parties": "object",
+      "residence_since": "int64",
+      "property_magnitude": "object",
+      "age": "int64",
+      "other_payment_plans": "object",
+      "housing": "object",
+      "existing_credits": "int64",
+      "job": "object",
+      "num_dependents": "int64",
+      "own_telephone": "object",
+      "foreign_worker": "object",
+      "clase": "object"
+    },
+    "null_counts": {
+      "checking_status": 0,
+      "duration": 0,
+      "credit_history": 0,
+      "purpose": 0,
+      "credit_amount": 0,
+      "savings_status": 0,
+      "employment": 0,
+      "installment_commitment": 0,
+      "personal_status": 0,
+      "other_parties": 0,
+      "residence_since": 0,
+      "property_magnitude": 0,
+      "age": 0,
+      "other_payment_plans": 0,
+      "housing": 0,
+      "existing_credits": 0,
+      "job": 0,
+      "num_dependents": 0,
+      "own_telephone": 0,
+      "foreign_worker": 0,
+      "clase": 0
+    },
+    "empty_or_whitespace_counts": {
+      "checking_status": 0,
+      "duration": 0,
+      "credit_history": 0,
+      "purpose": 0,
+      "credit_amount": 0,
+      "savings_status": 0,
+      "employment": 0,
+      "installment_commitment": 0,
+      "personal_status": 0,
+      "other_parties": 0,
+      "residence_since": 0,
+      "property_magnitude": 0,
+      "age": 0,
+      "other_payment_plans": 0,
+      "housing": 0,
+      "existing_credits": 0,
+      "job": 0,
+      "num_dependents": 0,
+      "own_telephone": 0,
+      "foreign_worker": 0,
+      "clase": 0
+    },
+    "edge_whitespace_counts": {
+      "checking_status": 0,
+      "credit_history": 0,
+      "purpose": 0,
+      "savings_status": 0,
+      "employment": 0,
+      "personal_status": 0,
+      "other_parties": 0,
+      "property_magnitude": 0,
+      "other_payment_plans": 0,
+      "housing": 0,
+      "job": 0,
+      "own_telephone": 0,
+      "foreign_worker": 0,
+      "clase": 0
+    },
+    "duplicate_rows": 0,
+    "duplicate_predictor_rows": 0,
+    "predictor_groups_with_conflicting_labels": 0,
+    "unique_counts": {
+      "checking_status": 4,
+      "duration": 33,
+      "credit_history": 5,
+      "purpose": 10,
+      "credit_amount": 921,
+      "savings_status": 5,
+      "employment": 5,
+      "installment_commitment": 4,
+      "personal_status": 4,
+      "other_parties": 3,
+      "residence_since": 4,
+      "property_magnitude": 4,
+      "age": 53,
+      "other_payment_plans": 3,
+      "housing": 3,
+      "existing_credits": 4,
+      "job": 4,
+      "num_dependents": 2,
+      "own_telephone": 2,
+      "foreign_worker": 2,
+      "clase": 2
+    },
+    "categorical_counts": {
+      "checking_status": {
+        "no checking": 394,
+        "<0": 274,
+        "0<=X<200": 269,
+        ">=200": 63
+      },
+      "credit_history": {
+        "existing paid": 530,
+        "critical/other existing credit": 293,
+        "delayed previously": 88,
+        "all paid": 49,
+        "no credits/all paid": 40
+      },
+      "purpose": {
+        "radio/tv": 280,
+        "new car": 234,
+        "furniture/equipment": 181,
+        "used car": 103,
+        "business": 97,
+        "education": 50,
+        "repairs": 22,
+        "domestic appliance": 12,
+        "other": 12,
+        "retraining": 9
+      },
+      "savings_status": {
+        "<100": 603,
+        "no known savings": 183,
+        "100<=X<500": 103,
+        "500<=X<1000": 63,
+        ">=1000": 48
+      },
+      "employment": {
+        "1<=X<4": 339,
+        ">=7": 253,
+        "4<=X<7": 174,
+        "<1": 172,
+        "unemployed": 62
+      },
+      "personal_status": {
+        "male single": 548,
+        "female div/dep/mar": 310,
+        "male mar/wid": 92,
+        "male div/sep": 50
+      },
+      "other_parties": {
+        "none": 907,
+        "guarantor": 52,
+        "co applicant": 41
+      },
+      "property_magnitude": {
+        "car": 332,
+        "real estate": 282,
+        "life insurance": 232,
+        "no known property": 154
+      },
+      "other_payment_plans": {
+        "none": 814,
+        "bank": 139,
+        "stores": 47
+      },
+      "housing": {
+        "own": 713,
+        "rent": 179,
+        "for free": 108
+      },
+      "job": {
+        "skilled": 630,
+        "unskilled resident": 200,
+        "high qualif/self emp/mgmt": 148,
+        "unemp/unskilled non res": 22
+      },
+      "own_telephone": {
+        "none": 596,
+        "yes": 404
+      },
+      "foreign_worker": {
+        "yes": 963,
+        "no": 37
+      },
+      "clase": {
+        "good": 700,
+        "bad": 300
+      }
+    },
+    "numeric_summary": {
+      "duration": {
+        "count": 1000.0,
+        "mean": 20.903,
+        "std": 12.058814452756375,
+        "min": 4.0,
+        "25%": 12.0,
+        "50%": 18.0,
+        "75%": 24.0,
+        "max": 72.0
+      },
+      "credit_amount": {
+        "count": 1000.0,
+        "mean": 3271.258,
+        "std": 2822.7368759604406,
+        "min": 250.0,
+        "25%": 1365.5,
+        "50%": 2319.5,
+        "75%": 3972.25,
+        "max": 18424.0
+      },
+      "installment_commitment": {
+        "count": 1000.0,
+        "mean": 2.973,
+        "std": 1.1187146743126786,
+        "min": 1.0,
+        "25%": 2.0,
+        "50%": 3.0,
+        "75%": 4.0,
+        "max": 4.0
+      },
+      "residence_since": {
+        "count": 1000.0,
+        "mean": 2.845,
+        "std": 1.1037178956568536,
+        "min": 1.0,
+        "25%": 2.0,
+        "50%": 3.0,
+        "75%": 4.0,
+        "max": 4.0
+      },
+      "age": {
+        "count": 1000.0,
+        "mean": 35.546,
+        "std": 11.375468574317512,
+        "min": 19.0,
+        "25%": 27.0,
+        "50%": 33.0,
+        "75%": 42.0,
+        "max": 75.0
+      },
+      "existing_credits": {
+        "count": 1000.0,
+        "mean": 1.407,
+        "std": 0.5776544682461002,
+        "min": 1.0,
+        "25%": 1.0,
+        "50%": 1.0,
+        "75%": 2.0,
+        "max": 4.0
+      },
+      "num_dependents": {
+        "count": 1000.0,
+        "mean": 1.155,
+        "std": 0.36208577175319395,
+        "min": 1.0,
+        "25%": 1.0,
+        "50%": 1.0,
+        "75%": 1.0,
+        "max": 2.0
+      }
+    },
+    "constant_columns": [],
+    "rare_categories_under_20": {
+      "checking_status": {},
+      "credit_history": {},
+      "purpose": {
+        "domestic appliance": 12,
+        "other": 12,
+        "retraining": 9
+      },
+      "savings_status": {},
+      "employment": {},
+      "personal_status": {},
+      "other_parties": {},
+      "property_magnitude": {},
+      "other_payment_plans": {},
+      "housing": {},
+      "job": {},
+      "own_telephone": {},
+      "foreign_worker": {},
+      "clase": {}
+    },
+    "categorical_class_tables": {
+      "checking_status": {
+        "bad": {
+          "0<=X<200": 105,
+          "<0": 135,
+          ">=200": 14,
+          "no checking": 46
+        },
+        "good": {
+          "0<=X<200": 164,
+          "<0": 139,
+          ">=200": 49,
+          "no checking": 348
+        }
+      },
+      "credit_history": {
+        "bad": {
+          "all paid": 28,
+          "critical/other existing credit": 50,
+          "delayed previously": 28,
+          "existing paid": 169,
+          "no credits/all paid": 25
+        },
+        "good": {
+          "all paid": 21,
+          "critical/other existing credit": 243,
+          "delayed previously": 60,
+          "existing paid": 361,
+          "no credits/all paid": 15
+        }
+      },
+      "purpose": {
+        "bad": {
+          "business": 34,
+          "domestic appliance": 4,
+          "education": 22,
+          "furniture/equipment": 58,
+          "new car": 89,
+          "other": 5,
+          "radio/tv": 62,
+          "repairs": 8,
+          "retraining": 1,
+          "used car": 17
+        },
+        "good": {
+          "business": 63,
+          "domestic appliance": 8,
+          "education": 28,
+          "furniture/equipment": 123,
+          "new car": 145,
+          "other": 7,
+          "radio/tv": 218,
+          "repairs": 14,
+          "retraining": 8,
+          "used car": 86
+        }
+      },
+      "savings_status": {
+        "bad": {
+          "100<=X<500": 34,
+          "500<=X<1000": 11,
+          "<100": 217,
+          ">=1000": 6,
+          "no known savings": 32
+        },
+        "good": {
+          "100<=X<500": 69,
+          "500<=X<1000": 52,
+          "<100": 386,
+          ">=1000": 42,
+          "no known savings": 151
+        }
+      },
+      "employment": {
+        "bad": {
+          "1<=X<4": 104,
+          "4<=X<7": 39,
+          "<1": 70,
+          ">=7": 64,
+          "unemployed": 23
+        },
+        "good": {
+          "1<=X<4": 235,
+          "4<=X<7": 135,
+          "<1": 102,
+          ">=7": 189,
+          "unemployed": 39
+        }
+      },
+      "personal_status": {
+        "bad": {
+          "female div/dep/mar": 109,
+          "male div/sep": 20,
+          "male mar/wid": 25,
+          "male single": 146
+        },
+        "good": {
+          "female div/dep/mar": 201,
+          "male div/sep": 30,
+          "male mar/wid": 67,
+          "male single": 402
+        }
+      },
+      "other_parties": {
+        "bad": {
+          "co applicant": 18,
+          "guarantor": 10,
+          "none": 272
+        },
+        "good": {
+          "co applicant": 23,
+          "guarantor": 42,
+          "none": 635
+        }
+      },
+      "property_magnitude": {
+        "bad": {
+          "car": 102,
+          "life insurance": 71,
+          "no known property": 67,
+          "real estate": 60
+        },
+        "good": {
+          "car": 230,
+          "life insurance": 161,
+          "no known property": 87,
+          "real estate": 222
+        }
+      },
+      "other_payment_plans": {
+        "bad": {
+          "bank": 57,
+          "none": 224,
+          "stores": 19
+        },
+        "good": {
+          "bank": 82,
+          "none": 590,
+          "stores": 28
+        }
+      },
+      "housing": {
+        "bad": {
+          "for free": 44,
+          "own": 186,
+          "rent": 70
+        },
+        "good": {
+          "for free": 64,
+          "own": 527,
+          "rent": 109
+        }
+      },
+      "job": {
+        "bad": {
+          "high qualif/self emp/mgmt": 51,
+          "skilled": 186,
+          "unemp/unskilled non res": 7,
+          "unskilled resident": 56
+        },
+        "good": {
+          "high qualif/self emp/mgmt": 97,
+          "skilled": 444,
+          "unemp/unskilled non res": 15,
+          "unskilled resident": 144
+        }
+      },
+      "own_telephone": {
+        "bad": {
+          "none": 187,
+          "yes": 113
+        },
+        "good": {
+          "none": 409,
+          "yes": 291
+        }
+      },
+      "foreign_worker": {
+        "bad": {
+          "no": 4,
+          "yes": 296
+        },
+        "good": {
+          "no": 33,
+          "yes": 667
+        }
+      }
+    },
+    "majority_baseline": {
+      "prediction": "good",
+      "accuracy": 0.7,
+      "bad_recall": 0.0,
+      "balanced_accuracy": 0.5
+    }
+  },
+  "scope": {
+    "input_read_only": true,
+    "models_trained": false,
+    "other_tasks_reviewed": false,
+    "provenance_verified": false
+  }
+}
