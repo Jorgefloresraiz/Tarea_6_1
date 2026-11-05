@@ -18,6 +18,22 @@
       "salida": "código, RESULTADOS.md y predicciones OOF",
       "decision": "Codificador dentro de Pipeline, mismo esquema CV; conservar benchmark sin optimización",
       "transferencia": "auditor"
+    },
+    {
+      "rol": "auditor",
+      "agente_id": "01a1a95f-fb39-78e3-aff8-67a9fdaf01ba",
+      "entrada": "Código y resultados del ingeniero",
+      "salida": "AUDIT_REPORT.md y evidencia/auditor.json",
+      "verificacion": "46 comprobaciones; hallazgo de cobertura por foreign_worker",
+      "transferencia": "responsable de pruebas"
+    },
+    {
+      "rol": "responsable de pruebas",
+      "agente_id": "01a1a977-79d6-77d0-880f-0786fb5fc911",
+      "entrada": "Código, evidencia y AUDIT_REPORT.md",
+      "salida": "tests/test_modelo.py y evidencia/pruebas.txt/json",
+      "verificacion": "8 pruebas aprobadas, exitcode 0; timeout 60 segundos",
+      "transferencia": "ingeniero: cierre y documentación"
     }
   ]
 }

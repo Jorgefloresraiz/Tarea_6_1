@@ -1,0 +1,16 @@
+test_01_integridad_y_target_fuera_de_X (test_modelo.PruebasTarea61.test_01_integridad_y_target_fuera_de_X) ... ok
+test_02_disjuncion_estratificacion_cobertura (test_modelo.PruebasTarea61.test_02_disjuncion_estratificacion_cobertura) ... ok
+test_03_oof_alineacion_y_unicidad (test_modelo.PruebasTarea61.test_03_oof_alineacion_y_unicidad) ... ok
+test_04_encoder_solo_entrenamiento_categoria_exclusiva (test_modelo.PruebasTarea61.test_04_encoder_solo_entrenamiento_categoria_exclusiva) ... ok
+test_05_metricas_y_DE_recalculadas (test_modelo.PruebasTarea61.test_05_metricas_y_DE_recalculadas) ... ok
+test_06_contraejemplo_accuracy_no_es_recall (test_modelo.PruebasTarea61.test_06_contraejemplo_accuracy_no_es_recall) ... ok
+test_07_reproduccion_RF_y_validacion (test_modelo.PruebasTarea61.test_07_reproduccion_RF_y_validacion) ... ok
+test_08_subgrupos_denominadores_y_hallazgos_auditor (test_modelo.PruebasTarea61.test_08_subgrupos_denominadores_y_hallazgos_auditor) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 2.733s
+
+OK
+
+EXITCODE=0
+TIMEOUT=False
