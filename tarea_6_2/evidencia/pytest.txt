@@ -1,0 +1,17 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.14.4, pytest-9.2.0, pluggy-1.7.0 -- /Users/yero/Downloads/Tarea_5_1/.venv/bin/python
+rootdir: /private/tmp/entrega62/tarea_6_2
+collecting ... collected 8 items
+
+tests/test_modelo.py::test_variables_sensibles_y_objetivo_excluidos PASSED [ 12%]
+tests/test_modelo.py::test_particiones_internas_no_tocan_test_externo PASSED [ 25%]
+tests/test_modelo.py::test_busqueda_dentro_del_procedimiento_y_24_candidatos PASSED [ 37%]
+tests/test_modelo.py::test_encoder_no_aprende_categoria_exclusiva_de_validacion PASSED [ 50%]
+tests/test_modelo.py::test_metricas_externas_recalculadas_por_conteos PASSED [ 62%]
+tests/test_modelo.py::test_evidencia_de_busquedas_independientes PASSED  [ 75%]
+tests/test_modelo.py::test_subgrupos_con_soporte_y_alertas_sin_ocultar PASSED [ 87%]
+tests/test_modelo.py::test_seleccion_respeta_f2_y_declara_costo_en_accuracy PASSED [100%]
+
+============================== 8 passed in 2.19s ===============================
+
+EXITCODE=0

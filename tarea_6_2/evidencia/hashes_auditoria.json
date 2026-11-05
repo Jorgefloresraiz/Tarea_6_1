@@ -1,0 +1,21 @@
+{
+  "hashes_antes": {
+    "tarea_6_2/modelo.py": "ff032da65eb13672e14cd1a40a2487bb66e2b1ee30f1e3d1603777f0ea91580c",
+    "tarea_6_2/experimento.py": "0ce9dc93a72caad9d8ff72b91410f4c4f380672c4fb08a62b5308b95ca450f97",
+    "tarea_6_2/PLAN.md": "3bb3eaa74ee037385d6b94656bee6bdf70cc9936369a4373a81403dc63f5e855",
+    "datos/credit_g.csv": "82b9757965557e2318d267100d13283da961497a36938d1a384dea716a68f6f2",
+    "tarea_6_2/evidencia/predicciones_auditoria.csv": "cd682f790864072f9944f7bf880270a19f1e4c30a38e80c036cd74eff9caa42f",
+    "tarea_6_2/skill/auditoria-modelos/SKILL.md": "e6ee8400185bb623258728c156d72d436e555d6d858a16478d9d9becc15e407c"
+  },
+  "hashes_despues": {
+    "tarea_6_2/modelo.py": "ff032da65eb13672e14cd1a40a2487bb66e2b1ee30f1e3d1603777f0ea91580c",
+    "tarea_6_2/experimento.py": "0ce9dc93a72caad9d8ff72b91410f4c4f380672c4fb08a62b5308b95ca450f97",
+    "tarea_6_2/PLAN.md": "3bb3eaa74ee037385d6b94656bee6bdf70cc9936369a4373a81403dc63f5e855",
+    "datos/credit_g.csv": "82b9757965557e2318d267100d13283da961497a36938d1a384dea716a68f6f2",
+    "tarea_6_2/evidencia/predicciones_auditoria.csv": "cd682f790864072f9944f7bf880270a19f1e4c30a38e80c036cd74eff9caa42f",
+    "tarea_6_2/skill/auditoria-modelos/SKILL.md": "e6ee8400185bb623258728c156d72d436e555d6d858a16478d9d9becc15e407c"
+  },
+  "sin_cambios": true,
+  "dos_ejecuciones_identicas": true,
+  "alcance": "Estabilidad numérica del script; no estabilidad de juicio entre auditores independientes."
+}

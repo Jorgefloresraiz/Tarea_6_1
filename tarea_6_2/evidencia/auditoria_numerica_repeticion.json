@@ -1,0 +1,65 @@
+{
+  "tipo": "clasificacion",
+  "global": {
+    "n": 1000,
+    "TP": 217,
+    "FN": 83,
+    "FP": 251,
+    "TN": 449,
+    "accuracy": 0.666,
+    "precision": 0.4636752136752137,
+    "recall": 0.7233333333333334,
+    "F1": 0.5651041666666666
+  },
+  "subgrupos": [
+    {
+      "grupo": "for free",
+      "metricas": {
+        "n": 108,
+        "TP": 33,
+        "FN": 11,
+        "FP": 31,
+        "TN": 33,
+        "accuracy": 0.6111111111111112,
+        "precision": 0.515625,
+        "recall": 0.75,
+        "F1": 0.6111111111111112
+      },
+      "brecha": 0.026666666666666616,
+      "resultado": "PASA"
+    },
+    {
+      "grupo": "own",
+      "metricas": {
+        "n": 713,
+        "TP": 133,
+        "FN": 53,
+        "FP": 175,
+        "TN": 352,
+        "accuracy": 0.6802244039270687,
+        "precision": 0.4318181818181818,
+        "recall": 0.7150537634408602,
+        "F1": 0.5384615384615384
+      },
+      "brecha": 0.008279569892473138,
+      "resultado": "PASA"
+    },
+    {
+      "grupo": "rent",
+      "metricas": {
+        "n": 179,
+        "TP": 51,
+        "FN": 19,
+        "FP": 45,
+        "TN": 64,
+        "accuracy": 0.6424581005586593,
+        "precision": 0.53125,
+        "recall": 0.7285714285714285,
+        "F1": 0.6144578313253012
+      },
+      "brecha": 0.005238095238095153,
+      "resultado": "PASA"
+    }
+  ],
+  "alcance": "Solo consistencia numérica y disparidad; partición y fuga requieren revisión de código."
+}

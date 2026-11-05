@@ -1,0 +1,1001 @@
+modelo,fila,y_true,y_pred,age,personal_status,housing,foreign_worker,subgrupo
+Arbol afinado,0,0,0,67,male single,own,yes,own
+Arbol afinado,1,1,1,22,female div/dep/mar,own,yes,own
+Arbol afinado,2,0,0,49,male single,own,yes,own
+Arbol afinado,3,0,1,45,male single,for free,yes,for free
+Arbol afinado,4,1,1,53,male single,for free,yes,for free
+Arbol afinado,5,0,0,35,male single,for free,yes,for free
+Arbol afinado,6,0,0,53,male single,own,yes,own
+Arbol afinado,7,0,1,35,male single,rent,yes,rent
+Arbol afinado,8,0,0,61,male div/sep,own,yes,own
+Arbol afinado,9,1,1,28,male mar/wid,own,yes,own
+Arbol afinado,10,1,0,25,female div/dep/mar,rent,yes,rent
+Arbol afinado,11,1,1,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,12,0,1,22,female div/dep/mar,own,yes,own
+Arbol afinado,13,1,1,60,male single,own,yes,own
+Arbol afinado,14,0,1,28,female div/dep/mar,rent,yes,rent
+Arbol afinado,15,1,1,32,female div/dep/mar,own,yes,own
+Arbol afinado,16,0,0,53,male single,own,yes,own
+Arbol afinado,17,0,0,25,male single,own,yes,own
+Arbol afinado,18,1,1,44,female div/dep/mar,for free,yes,for free
+Arbol afinado,19,0,0,31,male single,own,yes,own
+Arbol afinado,20,0,0,48,male single,own,yes,own
+Arbol afinado,21,0,0,44,male single,rent,yes,rent
+Arbol afinado,22,0,0,48,male single,rent,no,rent
+Arbol afinado,23,0,1,44,male single,own,yes,own
+Arbol afinado,24,0,0,26,male mar/wid,own,no,own
+Arbol afinado,25,0,1,36,male single,own,yes,own
+Arbol afinado,26,0,0,39,male mar/wid,own,yes,own
+Arbol afinado,27,0,0,42,female div/dep/mar,rent,yes,rent
+Arbol afinado,28,0,0,34,male single,own,yes,own
+Arbol afinado,29,1,1,63,male single,own,yes,own
+Arbol afinado,30,0,1,36,male mar/wid,own,yes,own
+Arbol afinado,31,0,1,27,male single,own,yes,own
+Arbol afinado,32,0,1,30,male single,own,yes,own
+Arbol afinado,33,0,0,57,male single,rent,yes,rent
+Arbol afinado,34,0,0,33,female div/dep/mar,own,yes,own
+Arbol afinado,35,1,1,25,male single,own,yes,own
+Arbol afinado,36,0,1,31,male single,for free,yes,for free
+Arbol afinado,37,1,0,37,male single,own,yes,own
+Arbol afinado,38,0,0,37,male single,own,yes,own
+Arbol afinado,39,0,0,24,male single,own,yes,own
+Arbol afinado,40,0,1,30,male single,own,yes,own
+Arbol afinado,41,0,1,26,male div/sep,own,yes,own
+Arbol afinado,42,0,0,44,male single,own,yes,own
+Arbol afinado,43,0,1,24,male mar/wid,rent,yes,rent
+Arbol afinado,44,1,1,58,female div/dep/mar,for free,yes,for free
+Arbol afinado,45,0,0,35,female div/dep/mar,own,yes,own
+Arbol afinado,46,0,0,39,male single,own,yes,own
+Arbol afinado,47,0,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,48,0,0,39,male single,own,yes,own
+Arbol afinado,49,0,0,28,female div/dep/mar,own,yes,own
+Arbol afinado,50,0,0,29,male single,own,yes,own
+Arbol afinado,51,0,1,30,male single,own,yes,own
+Arbol afinado,52,0,0,25,male single,own,yes,own
+Arbol afinado,53,0,0,31,male single,own,yes,own
+Arbol afinado,54,1,1,57,male single,for free,yes,for free
+Arbol afinado,55,0,0,26,male single,own,yes,own
+Arbol afinado,56,1,0,52,male single,own,yes,own
+Arbol afinado,57,0,0,31,female div/dep/mar,own,yes,own
+Arbol afinado,58,0,0,23,female div/dep/mar,own,yes,own
+Arbol afinado,59,1,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,60,0,0,27,male mar/wid,own,yes,own
+Arbol afinado,61,0,1,50,male single,own,yes,own
+Arbol afinado,62,1,1,61,male single,for free,yes,for free
+Arbol afinado,63,1,1,25,male single,own,yes,own
+Arbol afinado,64,0,0,26,female div/dep/mar,own,yes,own
+Arbol afinado,65,0,0,48,male single,own,yes,own
+Arbol afinado,66,0,0,29,female div/dep/mar,own,yes,own
+Arbol afinado,67,0,1,22,male mar/wid,own,yes,own
+Arbol afinado,68,1,0,37,male single,for free,yes,for free
+Arbol afinado,69,0,0,25,female div/dep/mar,own,yes,own
+Arbol afinado,70,0,0,30,female div/dep/mar,own,yes,own
+Arbol afinado,71,0,0,46,male single,rent,yes,rent
+Arbol afinado,72,0,1,51,male single,for free,yes,for free
+Arbol afinado,73,0,1,41,female div/dep/mar,own,yes,own
+Arbol afinado,74,1,1,40,male single,own,yes,own
+Arbol afinado,75,0,1,66,male single,for free,yes,for free
+Arbol afinado,76,1,1,34,male single,own,yes,own
+Arbol afinado,77,0,1,51,male single,own,yes,own
+Arbol afinado,78,0,0,39,male single,own,yes,own
+Arbol afinado,79,0,1,22,male mar/wid,own,yes,own
+Arbol afinado,80,1,0,44,female div/dep/mar,own,yes,own
+Arbol afinado,81,0,0,47,male single,own,yes,own
+Arbol afinado,82,0,0,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,83,0,1,58,female div/dep/mar,own,yes,own
+Arbol afinado,84,0,0,52,male single,own,yes,own
+Arbol afinado,85,0,0,29,female div/dep/mar,own,yes,own
+Arbol afinado,86,0,0,27,female div/dep/mar,own,yes,own
+Arbol afinado,87,1,1,47,male single,for free,yes,for free
+Arbol afinado,88,0,1,30,male single,own,yes,own
+Arbol afinado,89,1,1,28,male single,own,yes,own
+Arbol afinado,90,0,0,56,male single,own,yes,own
+Arbol afinado,91,0,1,54,male single,own,yes,own
+Arbol afinado,92,1,0,33,female div/dep/mar,own,yes,own
+Arbol afinado,93,0,0,20,male single,rent,yes,rent
+Arbol afinado,94,0,1,54,male single,own,yes,own
+Arbol afinado,95,1,1,58,male single,rent,yes,rent
+Arbol afinado,96,0,0,61,female div/dep/mar,own,yes,own
+Arbol afinado,97,0,1,34,male single,own,yes,own
+Arbol afinado,98,0,1,36,male single,own,yes,own
+Arbol afinado,99,0,0,36,male single,rent,yes,rent
+Arbol afinado,100,0,0,41,male mar/wid,rent,yes,rent
+Arbol afinado,101,0,1,24,male single,rent,yes,rent
+Arbol afinado,102,0,0,24,female div/dep/mar,own,yes,own
+Arbol afinado,103,0,1,35,male single,rent,yes,rent
+Arbol afinado,104,0,0,26,male mar/wid,rent,yes,rent
+Arbol afinado,105,1,1,39,male single,own,yes,own
+Arbol afinado,106,1,0,39,male single,own,yes,own
+Arbol afinado,107,0,1,32,male single,own,yes,own
+Arbol afinado,108,0,1,30,female div/dep/mar,own,no,own
+Arbol afinado,109,0,1,35,male mar/wid,own,yes,own
+Arbol afinado,110,0,1,31,male div/sep,own,yes,own
+Arbol afinado,111,0,0,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,112,0,1,28,male single,rent,yes,rent
+Arbol afinado,113,1,0,25,female div/dep/mar,own,yes,own
+Arbol afinado,114,0,1,35,male mar/wid,own,yes,own
+Arbol afinado,115,0,0,47,male single,own,yes,own
+Arbol afinado,116,1,0,30,female div/dep/mar,own,yes,own
+Arbol afinado,117,0,0,27,female div/dep/mar,rent,no,rent
+Arbol afinado,118,1,1,23,female div/dep/mar,own,yes,own
+Arbol afinado,119,0,1,36,male div/sep,own,yes,own
+Arbol afinado,120,1,1,25,female div/dep/mar,own,yes,own
+Arbol afinado,121,0,0,41,female div/dep/mar,rent,yes,rent
+Arbol afinado,122,0,0,24,male single,rent,yes,rent
+Arbol afinado,123,0,0,63,male single,for free,yes,for free
+Arbol afinado,124,1,0,27,female div/dep/mar,rent,yes,rent
+Arbol afinado,125,0,1,30,male single,own,yes,own
+Arbol afinado,126,0,1,40,male mar/wid,own,yes,own
+Arbol afinado,127,1,0,30,male single,own,yes,own
+Arbol afinado,128,0,0,34,male single,own,yes,own
+Arbol afinado,129,1,1,29,female div/dep/mar,own,yes,own
+Arbol afinado,130,0,0,24,female div/dep/mar,own,yes,own
+Arbol afinado,131,1,1,29,male single,own,yes,own
+Arbol afinado,132,0,0,27,male single,own,yes,own
+Arbol afinado,133,0,1,47,male single,for free,yes,for free
+Arbol afinado,134,0,0,21,female div/dep/mar,own,yes,own
+Arbol afinado,135,0,0,38,female div/dep/mar,own,yes,own
+Arbol afinado,136,0,0,27,male single,own,yes,own
+Arbol afinado,137,1,1,66,male single,own,yes,own
+Arbol afinado,138,0,1,35,male single,own,yes,own
+Arbol afinado,139,0,0,44,female div/dep/mar,rent,yes,rent
+Arbol afinado,140,0,0,27,male mar/wid,own,no,own
+Arbol afinado,141,0,1,30,female div/dep/mar,own,yes,own
+Arbol afinado,142,0,1,27,male single,own,yes,own
+Arbol afinado,143,1,1,22,male single,own,yes,own
+Arbol afinado,144,0,0,23,female div/dep/mar,own,yes,own
+Arbol afinado,145,0,1,30,male single,own,yes,own
+Arbol afinado,146,0,1,39,female div/dep/mar,own,yes,own
+Arbol afinado,147,0,0,51,female div/dep/mar,own,yes,own
+Arbol afinado,148,0,1,28,male single,own,yes,own
+Arbol afinado,149,0,0,46,male single,own,yes,own
+Arbol afinado,150,0,0,42,male single,for free,yes,for free
+Arbol afinado,151,0,0,38,male single,own,no,own
+Arbol afinado,152,0,0,24,male single,own,yes,own
+Arbol afinado,153,0,0,29,female div/dep/mar,rent,yes,rent
+Arbol afinado,154,0,1,36,male single,rent,yes,rent
+Arbol afinado,155,1,1,20,female div/dep/mar,rent,yes,rent
+Arbol afinado,156,0,0,48,male single,own,no,own
+Arbol afinado,157,0,1,45,male mar/wid,own,yes,own
+Arbol afinado,158,0,1,38,male single,own,yes,own
+Arbol afinado,159,0,0,34,male single,own,yes,own
+Arbol afinado,160,0,0,36,male single,own,yes,own
+Arbol afinado,161,0,0,30,female div/dep/mar,own,yes,own
+Arbol afinado,162,0,0,36,male single,own,yes,own
+Arbol afinado,163,0,1,70,male single,for free,yes,for free
+Arbol afinado,164,0,0,36,male single,own,yes,own
+Arbol afinado,165,0,0,32,male single,own,yes,own
+Arbol afinado,166,1,1,33,female div/dep/mar,own,yes,own
+Arbol afinado,167,0,0,20,female div/dep/mar,own,yes,own
+Arbol afinado,168,0,0,25,female div/dep/mar,rent,yes,rent
+Arbol afinado,169,1,1,31,male div/sep,own,yes,own
+Arbol afinado,170,1,1,33,male single,rent,yes,rent
+Arbol afinado,171,0,0,26,female div/dep/mar,own,yes,own
+Arbol afinado,172,1,1,34,female div/dep/mar,own,yes,own
+Arbol afinado,173,0,0,33,male single,own,no,own
+Arbol afinado,174,1,1,26,male single,own,yes,own
+Arbol afinado,175,1,1,53,female div/dep/mar,own,yes,own
+Arbol afinado,176,0,1,42,male div/sep,own,yes,own
+Arbol afinado,177,0,1,52,male single,own,yes,own
+Arbol afinado,178,0,0,31,male single,rent,yes,rent
+Arbol afinado,179,0,1,65,male single,own,yes,own
+Arbol afinado,180,1,0,28,male div/sep,own,yes,own
+Arbol afinado,181,1,1,30,male div/sep,own,yes,own
+Arbol afinado,182,1,1,40,male single,own,yes,own
+Arbol afinado,183,0,0,50,male single,own,yes,own
+Arbol afinado,184,1,1,36,male single,own,yes,own
+Arbol afinado,185,0,0,31,male single,own,yes,own
+Arbol afinado,186,1,0,74,female div/dep/mar,for free,yes,for free
+Arbol afinado,187,0,1,68,male single,for free,yes,for free
+Arbol afinado,188,1,1,20,male mar/wid,own,yes,own
+Arbol afinado,189,0,1,33,female div/dep/mar,own,yes,own
+Arbol afinado,190,1,0,54,male single,own,yes,own
+Arbol afinado,191,1,1,34,male single,for free,yes,for free
+Arbol afinado,192,1,1,36,male single,own,yes,own
+Arbol afinado,193,0,0,29,male mar/wid,rent,yes,rent
+Arbol afinado,194,1,1,21,male single,rent,yes,rent
+Arbol afinado,195,1,0,34,female div/dep/mar,own,yes,own
+Arbol afinado,196,0,0,28,female div/dep/mar,own,yes,own
+Arbol afinado,197,1,1,27,female div/dep/mar,rent,yes,rent
+Arbol afinado,198,0,1,36,male single,for free,yes,for free
+Arbol afinado,199,1,1,40,male div/sep,own,yes,own
+Arbol afinado,200,0,0,52,male single,own,yes,own
+Arbol afinado,201,0,1,27,male mar/wid,own,yes,own
+Arbol afinado,202,0,1,26,male single,own,yes,own
+Arbol afinado,203,1,1,21,male mar/wid,rent,yes,rent
+Arbol afinado,204,0,0,38,male single,own,yes,own
+Arbol afinado,205,0,1,38,male single,for free,yes,for free
+Arbol afinado,206,0,0,43,male single,own,yes,own
+Arbol afinado,207,0,1,26,male single,own,yes,own
+Arbol afinado,208,0,1,21,male mar/wid,own,yes,own
+Arbol afinado,209,0,0,55,male single,own,no,own
+Arbol afinado,210,0,0,33,male single,own,yes,own
+Arbol afinado,211,0,0,45,female div/dep/mar,own,yes,own
+Arbol afinado,212,1,1,50,male single,own,yes,own
+Arbol afinado,213,1,0,66,male single,own,yes,own
+Arbol afinado,214,0,0,51,male single,own,yes,own
+Arbol afinado,215,0,1,39,female div/dep/mar,own,yes,own
+Arbol afinado,216,0,1,31,male single,own,yes,own
+Arbol afinado,217,0,0,23,male single,own,yes,own
+Arbol afinado,218,0,1,24,male div/sep,rent,yes,rent
+Arbol afinado,219,0,0,64,female div/dep/mar,own,yes,own
+Arbol afinado,220,0,1,26,male mar/wid,own,yes,own
+Arbol afinado,221,0,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,222,0,0,30,male single,own,yes,own
+Arbol afinado,223,0,0,32,male single,own,yes,own
+Arbol afinado,224,0,0,30,male single,own,yes,own
+Arbol afinado,225,0,0,27,male single,own,yes,own
+Arbol afinado,226,1,1,27,male single,own,yes,own
+Arbol afinado,227,1,1,53,male single,for free,yes,for free
+Arbol afinado,228,1,0,22,male single,own,yes,own
+Arbol afinado,229,0,1,22,male single,for free,yes,for free
+Arbol afinado,230,1,0,26,male single,own,yes,own
+Arbol afinado,231,0,0,51,male single,for free,yes,for free
+Arbol afinado,232,0,0,35,male single,own,yes,own
+Arbol afinado,233,0,1,25,male mar/wid,own,yes,own
+Arbol afinado,234,0,0,42,male single,own,yes,own
+Arbol afinado,235,1,1,30,male single,own,yes,own
+Arbol afinado,236,1,0,23,male single,own,yes,own
+Arbol afinado,237,1,0,61,male div/sep,rent,yes,rent
+Arbol afinado,238,0,0,35,female div/dep/mar,own,yes,own
+Arbol afinado,239,0,1,39,male single,own,yes,own
+Arbol afinado,240,1,1,29,female div/dep/mar,own,yes,own
+Arbol afinado,241,0,0,51,male single,own,yes,own
+Arbol afinado,242,1,1,24,male single,for free,yes,for free
+Arbol afinado,243,0,0,27,female div/dep/mar,own,yes,own
+Arbol afinado,244,0,0,35,female div/dep/mar,own,yes,own
+Arbol afinado,245,0,0,25,male single,own,yes,own
+Arbol afinado,246,0,0,52,male single,own,yes,own
+Arbol afinado,247,0,1,35,male single,rent,no,rent
+Arbol afinado,248,0,0,26,male single,own,yes,own
+Arbol afinado,249,1,0,22,female div/dep/mar,rent,yes,rent
+Arbol afinado,250,0,0,39,female div/dep/mar,own,yes,own
+Arbol afinado,251,0,0,46,female div/dep/mar,own,yes,own
+Arbol afinado,252,1,1,24,female div/dep/mar,own,yes,own
+Arbol afinado,253,0,0,35,male single,own,yes,own
+Arbol afinado,254,0,1,24,male single,own,yes,own
+Arbol afinado,255,0,0,27,male single,own,yes,own
+Arbol afinado,256,0,0,35,male single,own,yes,own
+Arbol afinado,257,1,1,29,male div/sep,for free,yes,for free
+Arbol afinado,258,0,0,23,female div/dep/mar,own,yes,own
+Arbol afinado,259,0,0,57,female div/dep/mar,own,yes,own
+Arbol afinado,260,0,1,27,male single,own,yes,own
+Arbol afinado,261,0,1,55,female div/dep/mar,own,yes,own
+Arbol afinado,262,0,1,36,male single,for free,yes,for free
+Arbol afinado,263,0,0,57,female div/dep/mar,for free,yes,for free
+Arbol afinado,264,0,0,32,male single,own,no,own
+Arbol afinado,265,1,1,37,male single,own,yes,own
+Arbol afinado,266,0,0,36,male single,own,yes,own
+Arbol afinado,267,0,0,38,female div/dep/mar,own,yes,own
+Arbol afinado,268,1,1,45,male div/sep,own,no,own
+Arbol afinado,269,0,0,25,male single,own,yes,own
+Arbol afinado,270,0,0,32,male single,own,no,own
+Arbol afinado,271,0,0,37,female div/dep/mar,rent,yes,rent
+Arbol afinado,272,0,1,36,male single,for free,yes,for free
+Arbol afinado,273,1,1,28,male single,own,yes,own
+Arbol afinado,274,1,1,34,male div/sep,own,yes,own
+Arbol afinado,275,0,0,32,male single,own,yes,own
+Arbol afinado,276,0,0,26,female div/dep/mar,own,yes,own
+Arbol afinado,277,0,1,49,male div/sep,own,yes,own
+Arbol afinado,278,1,0,32,female div/dep/mar,own,yes,own
+Arbol afinado,279,0,0,29,male single,rent,yes,rent
+Arbol afinado,280,0,0,23,male single,rent,yes,rent
+Arbol afinado,281,0,0,50,male single,own,yes,own
+Arbol afinado,282,0,1,49,male single,own,yes,own
+Arbol afinado,283,0,0,63,male single,own,yes,own
+Arbol afinado,284,0,1,37,male div/sep,own,yes,own
+Arbol afinado,285,0,1,35,female div/dep/mar,own,yes,own
+Arbol afinado,286,0,1,26,male single,own,yes,own
+Arbol afinado,287,0,1,31,male single,for free,yes,for free
+Arbol afinado,288,0,1,49,female div/dep/mar,own,yes,own
+Arbol afinado,289,1,1,48,male mar/wid,own,yes,own
+Arbol afinado,290,0,0,26,male mar/wid,own,no,own
+Arbol afinado,291,1,1,28,male mar/wid,rent,yes,rent
+Arbol afinado,292,0,1,44,female div/dep/mar,for free,yes,for free
+Arbol afinado,293,0,0,56,male single,for free,yes,for free
+Arbol afinado,294,0,1,46,male div/sep,own,yes,own
+Arbol afinado,295,1,1,26,female div/dep/mar,own,yes,own
+Arbol afinado,296,0,0,20,female div/dep/mar,rent,yes,rent
+Arbol afinado,297,0,0,45,male single,own,no,own
+Arbol afinado,298,0,0,43,male single,own,yes,own
+Arbol afinado,299,0,0,32,male single,own,yes,own
+Arbol afinado,300,0,0,54,female div/dep/mar,own,yes,own
+Arbol afinado,301,1,1,42,female div/dep/mar,own,yes,own
+Arbol afinado,302,1,1,37,male single,own,yes,own
+Arbol afinado,303,0,0,49,male single,own,yes,own
+Arbol afinado,304,1,0,44,male single,for free,yes,for free
+Arbol afinado,305,0,0,33,male div/sep,own,yes,own
+Arbol afinado,306,0,0,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,307,1,1,33,male mar/wid,own,yes,own
+Arbol afinado,308,1,0,24,female div/dep/mar,own,yes,own
+Arbol afinado,309,0,0,22,male mar/wid,rent,yes,rent
+Arbol afinado,310,0,1,40,male single,for free,yes,for free
+Arbol afinado,311,0,0,25,male single,own,yes,own
+Arbol afinado,312,0,0,26,female div/dep/mar,own,yes,own
+Arbol afinado,313,1,1,25,male mar/wid,own,yes,own
+Arbol afinado,314,0,0,29,male single,own,no,own
+Arbol afinado,315,1,1,31,male single,own,yes,own
+Arbol afinado,316,0,1,38,male single,own,yes,own
+Arbol afinado,317,0,0,48,female div/dep/mar,own,yes,own
+Arbol afinado,318,0,0,32,male single,own,yes,own
+Arbol afinado,319,0,1,27,female div/dep/mar,own,yes,own
+Arbol afinado,320,1,1,28,male mar/wid,own,yes,own
+Arbol afinado,321,1,1,32,male div/sep,own,yes,own
+Arbol afinado,322,0,1,34,male single,for free,yes,for free
+Arbol afinado,323,0,1,28,male single,own,yes,own
+Arbol afinado,324,0,0,36,female div/dep/mar,own,yes,own
+Arbol afinado,325,0,0,39,male single,own,no,own
+Arbol afinado,326,0,0,49,male single,rent,yes,rent
+Arbol afinado,327,0,0,34,female div/dep/mar,own,yes,own
+Arbol afinado,328,0,0,31,male single,own,yes,own
+Arbol afinado,329,0,1,28,male single,own,yes,own
+Arbol afinado,330,0,1,75,male single,for free,yes,for free
+Arbol afinado,331,1,0,30,female div/dep/mar,own,yes,own
+Arbol afinado,332,1,1,24,female div/dep/mar,own,yes,own
+Arbol afinado,333,1,0,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,334,1,1,23,male single,rent,yes,rent
+Arbol afinado,335,1,0,44,male div/sep,rent,yes,rent
+Arbol afinado,336,0,1,23,female div/dep/mar,own,yes,own
+Arbol afinado,337,1,1,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,338,0,1,28,male single,own,yes,own
+Arbol afinado,339,0,1,31,male div/sep,own,yes,own
+Arbol afinado,340,0,1,24,female div/dep/mar,for free,yes,for free
+Arbol afinado,341,0,1,26,female div/dep/mar,rent,yes,rent
+Arbol afinado,342,0,1,25,male mar/wid,rent,yes,rent
+Arbol afinado,343,0,1,33,male single,own,yes,own
+Arbol afinado,344,0,0,37,male single,own,yes,own
+Arbol afinado,345,0,0,43,female div/dep/mar,own,yes,own
+Arbol afinado,346,0,1,23,male single,own,yes,own
+Arbol afinado,347,0,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,348,0,0,34,male single,own,yes,own
+Arbol afinado,349,1,0,32,male single,for free,yes,for free
+Arbol afinado,350,0,0,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,351,1,1,29,female div/dep/mar,own,no,own
+Arbol afinado,352,0,0,38,male single,own,yes,own
+Arbol afinado,353,1,1,28,male single,rent,yes,rent
+Arbol afinado,354,0,0,46,male single,for free,yes,for free
+Arbol afinado,355,1,1,23,male single,own,yes,own
+Arbol afinado,356,0,0,49,male single,own,yes,own
+Arbol afinado,357,1,0,26,male single,own,yes,own
+Arbol afinado,358,0,0,28,male mar/wid,own,yes,own
+Arbol afinado,359,1,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,360,0,1,61,male single,for free,yes,for free
+Arbol afinado,361,0,0,37,male single,own,yes,own
+Arbol afinado,362,0,0,36,female div/dep/mar,own,yes,own
+Arbol afinado,363,0,0,21,male mar/wid,rent,yes,rent
+Arbol afinado,364,1,1,25,male single,own,yes,own
+Arbol afinado,365,0,0,36,male single,own,yes,own
+Arbol afinado,366,0,0,27,male single,own,yes,own
+Arbol afinado,367,0,1,22,female div/dep/mar,rent,yes,rent
+Arbol afinado,368,1,1,42,male single,own,yes,own
+Arbol afinado,369,0,1,40,female div/dep/mar,rent,yes,rent
+Arbol afinado,370,0,0,36,male single,own,yes,own
+Arbol afinado,371,0,0,33,male single,own,yes,own
+Arbol afinado,372,0,0,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,373,0,0,63,male single,for free,yes,for free
+Arbol afinado,374,1,1,60,female div/dep/mar,for free,yes,for free
+Arbol afinado,375,1,1,37,female div/dep/mar,rent,yes,rent
+Arbol afinado,376,0,0,34,male mar/wid,own,yes,own
+Arbol afinado,377,0,0,36,male single,for free,yes,for free
+Arbol afinado,378,1,1,57,male single,for free,yes,for free
+Arbol afinado,379,0,0,52,female div/dep/mar,own,yes,own
+Arbol afinado,380,0,1,39,male single,own,yes,own
+Arbol afinado,381,1,0,38,female div/dep/mar,for free,yes,for free
+Arbol afinado,382,0,0,25,female div/dep/mar,rent,yes,rent
+Arbol afinado,383,0,0,26,male single,own,yes,own
+Arbol afinado,384,0,0,26,male single,own,yes,own
+Arbol afinado,385,0,0,25,female div/dep/mar,own,yes,own
+Arbol afinado,386,0,0,21,female div/dep/mar,rent,yes,rent
+Arbol afinado,387,0,1,40,male single,own,yes,own
+Arbol afinado,388,0,1,27,male single,own,yes,own
+Arbol afinado,389,0,0,27,female div/dep/mar,own,yes,own
+Arbol afinado,390,0,0,30,male mar/wid,own,yes,own
+Arbol afinado,391,0,1,19,female div/dep/mar,rent,yes,rent
+Arbol afinado,392,0,1,39,male single,for free,yes,for free
+Arbol afinado,393,0,1,31,female div/dep/mar,own,yes,own
+Arbol afinado,394,0,0,31,male single,own,yes,own
+Arbol afinado,395,0,1,32,male single,rent,yes,rent
+Arbol afinado,396,0,1,55,female div/dep/mar,for free,yes,for free
+Arbol afinado,397,0,1,46,male mar/wid,own,yes,own
+Arbol afinado,398,1,1,46,male div/sep,rent,yes,rent
+Arbol afinado,399,0,0,43,female div/dep/mar,own,yes,own
+Arbol afinado,400,0,0,39,male mar/wid,own,yes,own
+Arbol afinado,401,0,0,28,male mar/wid,own,yes,own
+Arbol afinado,402,1,0,27,male single,own,yes,own
+Arbol afinado,403,0,0,27,male single,own,yes,own
+Arbol afinado,404,0,1,43,male single,own,yes,own
+Arbol afinado,405,1,1,22,male mar/wid,own,yes,own
+Arbol afinado,406,0,0,43,male single,own,yes,own
+Arbol afinado,407,0,1,27,male mar/wid,own,no,own
+Arbol afinado,408,0,0,26,male div/sep,own,yes,own
+Arbol afinado,409,1,0,28,male mar/wid,own,yes,own
+Arbol afinado,410,0,1,20,female div/dep/mar,own,yes,own
+Arbol afinado,411,0,0,35,male single,own,yes,own
+Arbol afinado,412,1,0,42,male single,own,yes,own
+Arbol afinado,413,0,0,40,male single,rent,no,rent
+Arbol afinado,414,1,1,35,female div/dep/mar,own,yes,own
+Arbol afinado,415,0,0,35,male single,own,yes,own
+Arbol afinado,416,1,1,33,male single,own,yes,own
+Arbol afinado,417,0,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,418,0,0,31,female div/dep/mar,own,yes,own
+Arbol afinado,419,1,0,33,female div/dep/mar,own,yes,own
+Arbol afinado,420,0,0,20,female div/dep/mar,rent,yes,rent
+Arbol afinado,421,0,1,30,male single,own,yes,own
+Arbol afinado,422,0,1,47,male single,own,yes,own
+Arbol afinado,423,0,0,34,male single,own,yes,own
+Arbol afinado,424,1,1,25,female div/dep/mar,own,yes,own
+Arbol afinado,425,0,1,21,male mar/wid,rent,yes,rent
+Arbol afinado,426,0,0,29,male single,own,yes,own
+Arbol afinado,427,0,0,46,male single,own,yes,own
+Arbol afinado,428,0,0,20,male single,own,yes,own
+Arbol afinado,429,1,1,55,female div/dep/mar,for free,yes,for free
+Arbol afinado,430,0,0,74,male single,own,yes,own
+Arbol afinado,431,1,1,29,male single,own,yes,own
+Arbol afinado,432,0,1,36,male single,for free,yes,for free
+Arbol afinado,433,0,0,33,male div/sep,own,yes,own
+Arbol afinado,434,0,1,25,male single,own,yes,own
+Arbol afinado,435,1,1,25,male mar/wid,own,yes,own
+Arbol afinado,436,0,0,23,male mar/wid,rent,yes,rent
+Arbol afinado,437,0,0,37,female div/dep/mar,own,yes,own
+Arbol afinado,438,0,1,65,male single,own,yes,own
+Arbol afinado,439,1,0,26,female div/dep/mar,own,yes,own
+Arbol afinado,440,0,0,39,male single,own,yes,own
+Arbol afinado,441,0,1,30,female div/dep/mar,own,yes,own
+Arbol afinado,442,0,1,29,male single,own,yes,own
+Arbol afinado,443,1,0,41,male single,own,yes,own
+Arbol afinado,444,1,1,30,female div/dep/mar,own,yes,own
+Arbol afinado,445,0,0,41,female div/dep/mar,rent,yes,rent
+Arbol afinado,446,1,1,34,female div/dep/mar,own,yes,own
+Arbol afinado,447,0,0,35,male single,own,yes,own
+Arbol afinado,448,0,0,55,female div/dep/mar,own,yes,own
+Arbol afinado,449,1,1,61,male mar/wid,own,yes,own
+Arbol afinado,450,0,0,30,male single,own,yes,own
+Arbol afinado,451,0,0,29,female div/dep/mar,own,yes,own
+Arbol afinado,452,0,0,34,male single,own,yes,own
+Arbol afinado,453,0,0,35,male single,own,yes,own
+Arbol afinado,454,1,1,31,male single,own,yes,own
+Arbol afinado,455,0,0,29,female div/dep/mar,own,yes,own
+Arbol afinado,456,0,0,36,male single,rent,yes,rent
+Arbol afinado,457,1,1,35,male single,for free,yes,for free
+Arbol afinado,458,0,1,27,female div/dep/mar,own,yes,own
+Arbol afinado,459,0,0,32,male single,own,yes,own
+Arbol afinado,460,0,1,37,male single,own,yes,own
+Arbol afinado,461,0,1,36,male single,own,yes,own
+Arbol afinado,462,0,1,34,female div/dep/mar,rent,yes,rent
+Arbol afinado,463,0,1,38,male single,own,yes,own
+Arbol afinado,464,0,0,34,male single,own,yes,own
+Arbol afinado,465,0,1,63,male single,own,yes,own
+Arbol afinado,466,1,1,29,female div/dep/mar,rent,yes,rent
+Arbol afinado,467,0,1,32,male single,own,yes,own
+Arbol afinado,468,0,0,26,female div/dep/mar,own,yes,own
+Arbol afinado,469,0,0,35,male single,own,yes,own
+Arbol afinado,470,1,1,22,male mar/wid,rent,yes,rent
+Arbol afinado,471,1,1,23,female div/dep/mar,own,yes,own
+Arbol afinado,472,1,0,28,male single,own,yes,own
+Arbol afinado,473,0,0,36,male single,own,yes,own
+Arbol afinado,474,1,0,33,male mar/wid,own,yes,own
+Arbol afinado,475,1,1,26,female div/dep/mar,rent,yes,rent
+Arbol afinado,476,0,0,24,male single,own,yes,own
+Arbol afinado,477,0,1,25,male single,own,yes,own
+Arbol afinado,478,0,1,39,male single,own,yes,own
+Arbol afinado,479,0,1,44,male single,own,yes,own
+Arbol afinado,480,0,1,23,female div/dep/mar,own,yes,own
+Arbol afinado,481,0,1,26,male single,own,yes,own
+Arbol afinado,482,0,0,57,female div/dep/mar,rent,yes,rent
+Arbol afinado,483,0,0,30,female div/dep/mar,own,yes,own
+Arbol afinado,484,0,0,44,male single,own,yes,own
+Arbol afinado,485,1,1,47,male single,own,yes,own
+Arbol afinado,486,0,0,52,male single,own,yes,own
+Arbol afinado,487,0,0,62,female div/dep/mar,for free,yes,for free
+Arbol afinado,488,0,0,35,male single,rent,no,rent
+Arbol afinado,489,0,0,26,male single,rent,yes,rent
+Arbol afinado,490,0,0,26,male single,own,yes,own
+Arbol afinado,491,1,1,42,female div/dep/mar,for free,yes,for free
+Arbol afinado,492,0,0,27,female div/dep/mar,own,yes,own
+Arbol afinado,493,0,1,38,male single,own,yes,own
+Arbol afinado,494,0,1,39,male single,rent,no,rent
+Arbol afinado,495,1,0,20,male mar/wid,own,yes,own
+Arbol afinado,496,1,1,29,male single,rent,yes,rent
+Arbol afinado,497,0,0,40,male single,own,yes,own
+Arbol afinado,498,0,1,32,male mar/wid,own,yes,own
+Arbol afinado,499,0,0,28,male div/sep,own,yes,own
+Arbol afinado,500,1,1,27,female div/dep/mar,own,yes,own
+Arbol afinado,501,0,1,42,male single,for free,yes,for free
+Arbol afinado,502,0,0,49,male div/sep,own,yes,own
+Arbol afinado,503,1,1,38,male single,own,yes,own
+Arbol afinado,504,1,1,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,505,1,0,27,male single,own,yes,own
+Arbol afinado,506,0,0,36,male single,own,yes,own
+Arbol afinado,507,1,1,34,male single,own,yes,own
+Arbol afinado,508,0,0,28,male mar/wid,own,yes,own
+Arbol afinado,509,0,0,45,male single,own,yes,own
+Arbol afinado,510,1,1,26,male single,own,yes,own
+Arbol afinado,511,0,0,32,male single,for free,yes,for free
+Arbol afinado,512,0,0,26,male single,rent,yes,rent
+Arbol afinado,513,0,1,20,male mar/wid,rent,yes,rent
+Arbol afinado,514,0,0,54,male single,own,yes,own
+Arbol afinado,515,0,1,37,female div/dep/mar,own,no,own
+Arbol afinado,516,0,0,40,male single,own,no,own
+Arbol afinado,517,1,0,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,518,0,1,43,male single,own,yes,own
+Arbol afinado,519,0,0,36,male single,for free,yes,for free
+Arbol afinado,520,0,0,44,male single,for free,yes,for free
+Arbol afinado,521,1,1,24,female div/dep/mar,own,yes,own
+Arbol afinado,522,1,1,53,male single,for free,yes,for free
+Arbol afinado,523,0,0,23,female div/dep/mar,own,yes,own
+Arbol afinado,524,0,1,26,female div/dep/mar,own,yes,own
+Arbol afinado,525,0,1,30,male single,own,yes,own
+Arbol afinado,526,0,0,31,female div/dep/mar,own,yes,own
+Arbol afinado,527,0,0,42,male single,own,yes,own
+Arbol afinado,528,1,1,31,male div/sep,rent,yes,rent
+Arbol afinado,529,0,0,41,male single,own,yes,own
+Arbol afinado,530,0,1,32,male single,own,yes,own
+Arbol afinado,531,1,0,28,female div/dep/mar,rent,yes,rent
+Arbol afinado,532,0,0,41,male mar/wid,rent,yes,rent
+Arbol afinado,533,0,0,26,male mar/wid,own,yes,own
+Arbol afinado,534,0,0,25,male single,own,yes,own
+Arbol afinado,535,1,0,33,male div/sep,rent,yes,rent
+Arbol afinado,536,0,1,75,female div/dep/mar,own,yes,own
+Arbol afinado,537,0,1,37,female div/dep/mar,own,yes,own
+Arbol afinado,538,1,1,42,male single,for free,yes,for free
+Arbol afinado,539,0,0,45,female div/dep/mar,own,yes,own
+Arbol afinado,540,1,0,23,male mar/wid,rent,yes,rent
+Arbol afinado,541,0,0,60,male single,for free,yes,for free
+Arbol afinado,542,1,0,31,male single,own,yes,own
+Arbol afinado,543,1,0,34,male single,own,yes,own
+Arbol afinado,544,0,0,61,male single,own,yes,own
+Arbol afinado,545,1,1,43,male single,for free,yes,for free
+Arbol afinado,546,0,0,37,female div/dep/mar,own,yes,own
+Arbol afinado,547,0,1,32,male single,own,yes,own
+Arbol afinado,548,1,1,24,female div/dep/mar,own,yes,own
+Arbol afinado,549,0,0,35,male single,for free,yes,for free
+Arbol afinado,550,0,0,23,female div/dep/mar,own,yes,own
+Arbol afinado,551,0,0,45,male single,own,yes,own
+Arbol afinado,552,1,1,34,male mar/wid,own,yes,own
+Arbol afinado,553,0,1,27,male single,own,yes,own
+Arbol afinado,554,0,1,67,female div/dep/mar,own,yes,own
+Arbol afinado,555,1,1,22,male single,own,yes,own
+Arbol afinado,556,1,1,28,female div/dep/mar,own,yes,own
+Arbol afinado,557,1,0,29,female div/dep/mar,own,yes,own
+Arbol afinado,558,1,1,27,male single,own,yes,own
+Arbol afinado,559,1,1,31,male single,own,yes,own
+Arbol afinado,560,0,0,49,male single,for free,yes,for free
+Arbol afinado,561,1,1,24,male single,rent,yes,rent
+Arbol afinado,562,0,0,29,female div/dep/mar,own,yes,own
+Arbol afinado,563,1,0,37,male single,for free,yes,for free
+Arbol afinado,564,0,0,37,male single,own,yes,own
+Arbol afinado,565,0,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,566,1,1,36,male div/sep,own,yes,own
+Arbol afinado,567,0,0,34,male single,own,yes,own
+Arbol afinado,568,0,0,41,male single,own,yes,own
+Arbol afinado,569,1,1,31,female div/dep/mar,own,yes,own
+Arbol afinado,570,1,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,571,0,0,38,male single,own,yes,own
+Arbol afinado,572,0,0,26,female div/dep/mar,rent,yes,rent
+Arbol afinado,573,0,1,22,female div/dep/mar,own,yes,own
+Arbol afinado,574,0,0,27,male single,own,yes,own
+Arbol afinado,575,0,1,24,female div/dep/mar,own,yes,own
+Arbol afinado,576,0,0,27,female div/dep/mar,own,yes,own
+Arbol afinado,577,0,0,33,female div/dep/mar,own,yes,own
+Arbol afinado,578,1,1,27,male div/sep,own,yes,own
+Arbol afinado,579,0,0,27,male mar/wid,own,yes,own
+Arbol afinado,580,1,1,30,male single,own,yes,own
+Arbol afinado,581,0,1,49,male single,own,yes,own
+Arbol afinado,582,0,0,26,female div/dep/mar,rent,yes,rent
+Arbol afinado,583,1,1,33,male single,rent,yes,rent
+Arbol afinado,584,0,0,52,female div/dep/mar,for free,yes,for free
+Arbol afinado,585,1,1,20,female div/dep/mar,rent,yes,rent
+Arbol afinado,586,0,1,36,male single,rent,yes,rent
+Arbol afinado,587,0,1,21,male single,own,yes,own
+Arbol afinado,588,1,1,47,male mar/wid,own,yes,own
+Arbol afinado,589,1,1,60,male single,own,yes,own
+Arbol afinado,590,0,1,58,female div/dep/mar,own,yes,own
+Arbol afinado,591,0,1,42,female div/dep/mar,rent,yes,rent
+Arbol afinado,592,0,1,36,female div/dep/mar,own,yes,own
+Arbol afinado,593,1,1,20,female div/dep/mar,rent,yes,rent
+Arbol afinado,594,1,1,40,male single,own,yes,own
+Arbol afinado,595,1,0,32,female div/dep/mar,own,yes,own
+Arbol afinado,596,1,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,597,1,1,36,male single,own,yes,own
+Arbol afinado,598,1,0,31,male single,own,yes,own
+Arbol afinado,599,0,0,32,male single,for free,yes,for free
+Arbol afinado,600,0,0,45,female div/dep/mar,own,yes,own
+Arbol afinado,601,1,1,30,female div/dep/mar,own,yes,own
+Arbol afinado,602,1,1,34,female div/dep/mar,for free,yes,for free
+Arbol afinado,603,1,0,28,female div/dep/mar,own,yes,own
+Arbol afinado,604,0,0,23,female div/dep/mar,own,yes,own
+Arbol afinado,605,0,1,22,male single,own,yes,own
+Arbol afinado,606,0,0,74,male single,own,yes,own
+Arbol afinado,607,1,1,50,female div/dep/mar,for free,yes,for free
+Arbol afinado,608,0,0,33,male single,own,yes,own
+Arbol afinado,609,0,0,45,male single,for free,yes,for free
+Arbol afinado,610,1,1,22,female div/dep/mar,own,yes,own
+Arbol afinado,611,1,0,48,female div/dep/mar,for free,yes,for free
+Arbol afinado,612,0,1,29,female div/dep/mar,own,yes,own
+Arbol afinado,613,0,1,22,female div/dep/mar,rent,no,rent
+Arbol afinado,614,1,0,22,female div/dep/mar,own,yes,own
+Arbol afinado,615,0,1,48,male single,own,yes,own
+Arbol afinado,616,0,0,27,male single,for free,yes,for free
+Arbol afinado,617,0,1,37,male single,rent,yes,rent
+Arbol afinado,618,1,1,21,female div/dep/mar,rent,yes,rent
+Arbol afinado,619,0,0,49,male div/sep,own,yes,own
+Arbol afinado,620,0,0,27,male single,own,yes,own
+Arbol afinado,621,1,0,32,male single,own,yes,own
+Arbol afinado,622,1,1,38,male div/sep,own,yes,own
+Arbol afinado,623,0,1,22,female div/dep/mar,rent,yes,rent
+Arbol afinado,624,1,1,65,male single,for free,yes,for free
+Arbol afinado,625,0,0,35,male single,own,yes,own
+Arbol afinado,626,0,0,41,male single,own,yes,own
+Arbol afinado,627,1,0,29,male single,own,yes,own
+Arbol afinado,628,0,0,36,male single,own,yes,own
+Arbol afinado,629,0,0,64,male single,own,yes,own
+Arbol afinado,630,0,1,28,female div/dep/mar,own,yes,own
+Arbol afinado,631,1,1,44,male single,own,yes,own
+Arbol afinado,632,0,1,23,male single,own,yes,own
+Arbol afinado,633,1,0,19,female div/dep/mar,rent,yes,rent
+Arbol afinado,634,1,1,25,female div/dep/mar,own,yes,own
+Arbol afinado,635,0,0,47,male single,own,yes,own
+Arbol afinado,636,0,0,28,female div/dep/mar,own,yes,own
+Arbol afinado,637,0,1,21,male single,own,yes,own
+Arbol afinado,638,0,0,34,female div/dep/mar,own,yes,own
+Arbol afinado,639,1,1,26,male single,own,yes,own
+Arbol afinado,640,1,1,27,female div/dep/mar,own,yes,own
+Arbol afinado,641,0,1,38,male single,own,yes,own
+Arbol afinado,642,1,0,40,male single,own,yes,own
+Arbol afinado,643,0,0,33,male mar/wid,own,yes,own
+Arbol afinado,644,0,1,32,male mar/wid,own,yes,own
+Arbol afinado,645,1,0,27,male single,rent,yes,rent
+Arbol afinado,646,0,1,32,male div/sep,own,yes,own
+Arbol afinado,647,1,0,26,female div/dep/mar,own,yes,own
+Arbol afinado,648,1,1,38,male single,for free,yes,for free
+Arbol afinado,649,1,1,40,male single,rent,yes,rent
+Arbol afinado,650,0,1,50,male single,for free,yes,for free
+Arbol afinado,651,1,1,37,male single,own,yes,own
+Arbol afinado,652,1,1,45,male single,own,yes,own
+Arbol afinado,653,1,1,42,male single,own,yes,own
+Arbol afinado,654,0,0,35,male single,own,yes,own
+Arbol afinado,655,0,1,22,male single,for free,yes,for free
+Arbol afinado,656,1,1,41,male single,own,yes,own
+Arbol afinado,657,0,0,37,male single,own,yes,own
+Arbol afinado,658,0,1,28,female div/dep/mar,own,yes,own
+Arbol afinado,659,0,1,41,male single,own,yes,own
+Arbol afinado,660,0,0,23,male mar/wid,rent,yes,rent
+Arbol afinado,661,1,1,23,male mar/wid,own,yes,own
+Arbol afinado,662,0,0,50,male single,own,yes,own
+Arbol afinado,663,0,0,35,male single,own,yes,own
+Arbol afinado,664,0,0,50,female div/dep/mar,own,yes,own
+Arbol afinado,665,0,1,27,male single,own,yes,own
+Arbol afinado,666,0,1,34,male single,own,yes,own
+Arbol afinado,667,0,0,27,female div/dep/mar,own,yes,own
+Arbol afinado,668,1,1,43,male single,rent,yes,rent
+Arbol afinado,669,0,0,47,male single,own,yes,own
+Arbol afinado,670,0,0,27,male single,own,yes,own
+Arbol afinado,671,0,0,31,male single,own,yes,own
+Arbol afinado,672,0,0,42,male single,own,yes,own
+Arbol afinado,673,0,0,24,male mar/wid,own,yes,own
+Arbol afinado,674,1,0,41,male single,own,yes,own
+Arbol afinado,675,0,0,26,female div/dep/mar,rent,yes,rent
+Arbol afinado,676,0,0,33,male single,own,yes,own
+Arbol afinado,677,1,1,24,male mar/wid,own,yes,own
+Arbol afinado,678,0,1,64,male single,rent,yes,rent
+Arbol afinado,679,0,0,26,female div/dep/mar,own,yes,own
+Arbol afinado,680,0,0,56,female div/dep/mar,own,yes,own
+Arbol afinado,681,0,0,37,male single,for free,yes,for free
+Arbol afinado,682,0,0,33,male mar/wid,own,yes,own
+Arbol afinado,683,0,0,47,male mar/wid,for free,yes,for free
+Arbol afinado,684,0,1,31,male single,own,yes,own
+Arbol afinado,685,0,0,34,male single,for free,yes,for free
+Arbol afinado,686,0,0,27,male single,own,yes,own
+Arbol afinado,687,0,1,30,male single,for free,yes,for free
+Arbol afinado,688,0,0,35,male single,own,yes,own
+Arbol afinado,689,0,1,31,male single,own,yes,own
+Arbol afinado,690,0,1,25,male div/sep,own,yes,own
+Arbol afinado,691,0,1,25,female div/dep/mar,own,yes,own
+Arbol afinado,692,0,1,29,male single,own,yes,own
+Arbol afinado,693,0,0,44,male single,own,yes,own
+Arbol afinado,694,0,0,28,male single,own,yes,own
+Arbol afinado,695,0,0,50,male single,rent,yes,rent
+Arbol afinado,696,0,0,29,male single,own,no,own
+Arbol afinado,697,0,0,38,female div/dep/mar,own,yes,own
+Arbol afinado,698,0,0,24,male single,own,yes,own
+Arbol afinado,699,0,0,40,male single,rent,yes,rent
+Arbol afinado,700,1,0,29,female div/dep/mar,rent,yes,rent
+Arbol afinado,701,1,1,46,male single,for free,yes,for free
+Arbol afinado,702,0,0,47,female div/dep/mar,for free,yes,for free
+Arbol afinado,703,0,1,41,male single,own,yes,own
+Arbol afinado,704,0,1,32,female div/dep/mar,own,yes,own
+Arbol afinado,705,0,0,35,female div/dep/mar,for free,yes,for free
+Arbol afinado,706,1,1,24,male single,own,yes,own
+Arbol afinado,707,1,1,25,female div/dep/mar,rent,yes,rent
+Arbol afinado,708,0,0,25,female div/dep/mar,own,yes,own
+Arbol afinado,709,0,0,37,male single,own,yes,own
+Arbol afinado,710,0,0,32,male single,own,yes,own
+Arbol afinado,711,1,0,35,female div/dep/mar,for free,yes,for free
+Arbol afinado,712,0,0,46,male single,own,yes,own
+Arbol afinado,713,0,0,25,male single,own,yes,own
+Arbol afinado,714,1,1,27,male single,own,yes,own
+Arbol afinado,715,0,0,63,male single,own,yes,own
+Arbol afinado,716,0,0,40,male single,own,yes,own
+Arbol afinado,717,0,0,32,male single,for free,yes,for free
+Arbol afinado,718,0,0,31,male single,own,yes,own
+Arbol afinado,719,0,1,31,male mar/wid,own,yes,own
+Arbol afinado,720,1,0,34,male single,own,yes,own
+Arbol afinado,721,1,1,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,722,1,1,24,female div/dep/mar,own,yes,own
+Arbol afinado,723,0,0,66,female div/dep/mar,own,yes,own
+Arbol afinado,724,1,0,21,female div/dep/mar,rent,yes,rent
+Arbol afinado,725,0,0,41,female div/dep/mar,own,yes,own
+Arbol afinado,726,0,0,47,male mar/wid,own,yes,own
+Arbol afinado,727,1,1,25,female div/dep/mar,rent,yes,rent
+Arbol afinado,728,1,1,59,female div/dep/mar,rent,yes,rent
+Arbol afinado,729,0,0,36,male div/sep,own,yes,own
+Arbol afinado,730,0,1,33,male single,own,yes,own
+Arbol afinado,731,1,1,21,male single,rent,yes,rent
+Arbol afinado,732,0,0,44,female div/dep/mar,own,yes,own
+Arbol afinado,733,0,0,28,female div/dep/mar,rent,yes,rent
+Arbol afinado,734,0,0,37,female div/dep/mar,own,yes,own
+Arbol afinado,735,0,1,29,female div/dep/mar,own,yes,own
+Arbol afinado,736,1,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,737,0,1,35,male single,own,yes,own
+Arbol afinado,738,0,0,45,male single,own,yes,own
+Arbol afinado,739,1,1,26,female div/dep/mar,rent,yes,rent
+Arbol afinado,740,0,1,32,male single,own,yes,own
+Arbol afinado,741,0,0,23,male single,own,yes,own
+Arbol afinado,742,0,0,41,male single,own,yes,own
+Arbol afinado,743,0,1,22,male single,own,yes,own
+Arbol afinado,744,0,1,30,male single,own,yes,own
+Arbol afinado,745,0,1,28,male single,own,yes,own
+Arbol afinado,746,0,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,747,1,1,37,female div/dep/mar,own,yes,own
+Arbol afinado,748,0,0,26,male single,own,yes,own
+Arbol afinado,749,0,0,33,male single,own,yes,own
+Arbol afinado,750,0,0,49,female div/dep/mar,own,yes,own
+Arbol afinado,751,1,1,23,female div/dep/mar,own,yes,own
+Arbol afinado,752,0,0,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,753,0,0,25,female div/dep/mar,own,yes,own
+Arbol afinado,754,1,0,55,male single,for free,yes,for free
+Arbol afinado,755,1,0,32,female div/dep/mar,rent,yes,rent
+Arbol afinado,756,0,0,74,male single,own,no,own
+Arbol afinado,757,1,0,39,male single,for free,yes,for free
+Arbol afinado,758,0,0,31,male single,own,yes,own
+Arbol afinado,759,1,1,35,male single,own,yes,own
+Arbol afinado,760,0,0,59,female div/dep/mar,own,yes,own
+Arbol afinado,761,1,1,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,762,0,1,24,male single,own,yes,own
+Arbol afinado,763,1,0,30,male single,for free,yes,for free
+Arbol afinado,764,0,0,27,male mar/wid,own,yes,own
+Arbol afinado,765,0,0,40,male mar/wid,own,yes,own
+Arbol afinado,766,1,1,31,male div/sep,own,yes,own
+Arbol afinado,767,0,0,31,female div/dep/mar,rent,yes,rent
+Arbol afinado,768,0,1,28,male single,rent,yes,rent
+Arbol afinado,769,0,0,63,male single,own,yes,own
+Arbol afinado,770,0,0,26,female div/dep/mar,rent,yes,rent
+Arbol afinado,771,1,1,25,female div/dep/mar,own,yes,own
+Arbol afinado,772,0,0,36,male single,own,yes,own
+Arbol afinado,773,0,1,52,male single,own,yes,own
+Arbol afinado,774,0,1,66,male single,for free,yes,for free
+Arbol afinado,775,1,0,25,female div/dep/mar,rent,yes,rent
+Arbol afinado,776,0,0,37,male single,own,yes,own
+Arbol afinado,777,0,1,25,female div/dep/mar,own,yes,own
+Arbol afinado,778,0,0,38,male single,own,yes,own
+Arbol afinado,779,0,1,67,female div/dep/mar,own,yes,own
+Arbol afinado,780,1,1,25,male single,own,yes,own
+Arbol afinado,781,0,0,60,male single,own,yes,own
+Arbol afinado,782,0,1,31,male single,own,yes,own
+Arbol afinado,783,1,1,23,female div/dep/mar,own,yes,own
+Arbol afinado,784,0,1,60,male div/sep,own,yes,own
+Arbol afinado,785,0,1,35,male single,own,yes,own
+Arbol afinado,786,0,0,40,male single,own,yes,own
+Arbol afinado,787,0,0,38,male single,own,yes,own
+Arbol afinado,788,1,1,50,male single,for free,yes,for free
+Arbol afinado,789,1,1,27,male single,own,yes,own
+Arbol afinado,790,1,1,39,female div/dep/mar,own,yes,own
+Arbol afinado,791,0,0,41,male single,own,yes,own
+Arbol afinado,792,0,0,27,male mar/wid,own,yes,own
+Arbol afinado,793,0,0,51,male div/sep,for free,yes,for free
+Arbol afinado,794,0,0,32,male single,rent,yes,rent
+Arbol afinado,795,0,0,22,female div/dep/mar,rent,yes,rent
+Arbol afinado,796,1,1,51,male single,for free,yes,for free
+Arbol afinado,797,0,0,22,female div/dep/mar,rent,yes,rent
+Arbol afinado,798,0,0,54,male mar/wid,own,yes,own
+Arbol afinado,799,0,0,35,male single,own,yes,own
+Arbol afinado,800,0,0,54,male single,for free,yes,for free
+Arbol afinado,801,0,1,48,female div/dep/mar,rent,yes,rent
+Arbol afinado,802,0,1,24,female div/dep/mar,own,yes,own
+Arbol afinado,803,0,0,35,male single,own,yes,own
+Arbol afinado,804,0,0,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,805,1,1,24,male single,own,yes,own
+Arbol afinado,806,0,0,26,male mar/wid,own,no,own
+Arbol afinado,807,0,0,65,male single,own,yes,own
+Arbol afinado,808,0,1,55,male single,for free,yes,for free
+Arbol afinado,809,1,1,26,female div/dep/mar,rent,yes,rent
+Arbol afinado,810,0,0,26,male mar/wid,own,yes,own
+Arbol afinado,811,0,0,28,male mar/wid,own,yes,own
+Arbol afinado,812,1,1,24,male single,own,yes,own
+Arbol afinado,813,1,1,54,male single,own,yes,own
+Arbol afinado,814,1,1,46,male single,for free,yes,for free
+Arbol afinado,815,0,1,54,female div/dep/mar,rent,yes,rent
+Arbol afinado,816,0,0,62,male div/sep,own,yes,own
+Arbol afinado,817,0,0,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,818,0,1,43,male div/sep,own,yes,own
+Arbol afinado,819,1,1,26,male mar/wid,own,yes,own
+Arbol afinado,820,0,0,27,male mar/wid,own,yes,own
+Arbol afinado,821,0,0,24,male mar/wid,own,yes,own
+Arbol afinado,822,1,1,41,male single,own,yes,own
+Arbol afinado,823,0,1,47,male single,own,yes,own
+Arbol afinado,824,0,0,35,male div/sep,own,yes,own
+Arbol afinado,825,0,1,30,male mar/wid,own,yes,own
+Arbol afinado,826,1,1,33,female div/dep/mar,rent,yes,rent
+Arbol afinado,827,1,0,36,male single,own,yes,own
+Arbol afinado,828,1,1,47,male single,for free,yes,for free
+Arbol afinado,829,0,0,38,male single,for free,yes,for free
+Arbol afinado,830,0,0,44,male single,own,yes,own
+Arbol afinado,831,1,1,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,832,1,1,29,male single,rent,yes,rent
+Arbol afinado,833,0,0,42,female div/dep/mar,own,yes,own
+Arbol afinado,834,1,0,25,female div/dep/mar,own,yes,own
+Arbol afinado,835,1,1,48,male single,own,yes,own
+Arbol afinado,836,0,0,21,female div/dep/mar,own,yes,own
+Arbol afinado,837,0,0,23,female div/dep/mar,rent,yes,rent
+Arbol afinado,838,0,1,63,male single,own,yes,own
+Arbol afinado,839,0,0,46,male mar/wid,own,yes,own
+Arbol afinado,840,1,1,29,male single,own,yes,own
+Arbol afinado,841,0,0,28,male single,own,yes,own
+Arbol afinado,842,1,0,23,female div/dep/mar,own,yes,own
+Arbol afinado,843,0,0,50,male single,own,yes,own
+Arbol afinado,844,0,0,47,male single,own,yes,own
+Arbol afinado,845,0,0,35,male single,own,yes,own
+Arbol afinado,846,1,0,68,male single,rent,yes,rent
+Arbol afinado,847,0,0,28,male mar/wid,own,yes,own
+Arbol afinado,848,0,0,59,male single,own,yes,own
+Arbol afinado,849,1,1,57,male single,own,yes,own
+Arbol afinado,850,1,1,33,male mar/wid,rent,no,rent
+Arbol afinado,851,0,0,43,male single,own,yes,own
+Arbol afinado,852,0,0,35,male single,for free,yes,for free
+Arbol afinado,853,1,1,32,male single,for free,yes,for free
+Arbol afinado,854,0,0,45,male single,own,yes,own
+Arbol afinado,855,0,0,33,male mar/wid,own,yes,own
+Arbol afinado,856,0,0,40,female div/dep/mar,own,yes,own
+Arbol afinado,857,0,0,28,male single,for free,yes,for free
+Arbol afinado,858,1,1,29,female div/dep/mar,own,yes,own
+Arbol afinado,859,0,0,26,male single,rent,no,rent
+Arbol afinado,860,0,0,27,male single,own,yes,own
+Arbol afinado,861,1,0,28,male mar/wid,own,yes,own
+Arbol afinado,862,1,1,35,female div/dep/mar,own,yes,own
+Arbol afinado,863,0,0,32,male single,own,yes,own
+Arbol afinado,864,1,0,25,male single,rent,yes,rent
+Arbol afinado,865,0,0,20,female div/dep/mar,rent,yes,rent
+Arbol afinado,866,0,1,27,female div/dep/mar,own,yes,own
+Arbol afinado,867,0,0,42,male single,own,yes,own
+Arbol afinado,868,0,0,37,male single,own,yes,own
+Arbol afinado,869,0,1,24,female div/dep/mar,rent,yes,rent
+Arbol afinado,870,0,0,40,female div/dep/mar,own,yes,own
+Arbol afinado,871,0,0,46,male single,own,no,own
+Arbol afinado,872,0,1,26,male single,own,yes,own
+Arbol afinado,873,0,0,24,female div/dep/mar,own,yes,own
+Arbol afinado,874,0,1,29,male single,own,yes,own
+Arbol afinado,875,0,1,40,female div/dep/mar,own,yes,own
+Arbol afinado,876,0,1,36,male single,for free,yes,for free
+Arbol afinado,877,0,0,28,male single,own,yes,own
+Arbol afinado,878,1,1,27,male single,for free,yes,for free
+Arbol afinado,879,0,0,36,male single,own,yes,own
+Arbol afinado,880,0,0,38,male single,own,yes,own
+Arbol afinado,881,0,0,48,male div/sep,for free,yes,for free
+Arbol afinado,882,0,1,36,male single,own,yes,own
+Arbol afinado,883,0,0,65,female div/dep/mar,own,yes,own
+Arbol afinado,884,1,1,43,male div/sep,own,yes,own
+Arbol afinado,885,1,1,53,female div/dep/mar,own,yes,own
+Arbol afinado,886,0,0,34,male single,own,yes,own
+Arbol afinado,887,1,1,23,male single,own,yes,own
+Arbol afinado,888,0,0,34,male single,own,yes,own
+Arbol afinado,889,0,1,40,male single,rent,yes,rent
+Arbol afinado,890,0,1,43,male single,own,yes,own
+Arbol afinado,891,0,0,46,male single,own,yes,own
+Arbol afinado,892,0,1,38,male single,own,no,own
+Arbol afinado,893,0,1,34,male single,own,yes,own
+Arbol afinado,894,0,0,29,male single,own,yes,own
+Arbol afinado,895,0,0,31,male single,own,yes,own
+Arbol afinado,896,0,1,28,female div/dep/mar,rent,yes,rent
+Arbol afinado,897,0,0,35,female div/dep/mar,own,no,own
+Arbol afinado,898,0,1,33,female div/dep/mar,rent,yes,rent
+Arbol afinado,899,1,1,42,male single,own,yes,own
+Arbol afinado,900,1,1,43,male single,rent,yes,rent
+Arbol afinado,901,0,0,44,male div/sep,own,yes,own
+Arbol afinado,902,0,0,42,male single,for free,yes,for free
+Arbol afinado,903,0,0,40,male mar/wid,rent,yes,rent
+Arbol afinado,904,0,0,36,male single,own,yes,own
+Arbol afinado,905,0,1,20,male single,rent,yes,rent
+Arbol afinado,906,0,1,24,male single,own,no,own
+Arbol afinado,907,0,1,27,male mar/wid,own,yes,own
+Arbol afinado,908,0,0,46,female div/dep/mar,own,yes,own
+Arbol afinado,909,0,0,33,female div/dep/mar,own,yes,own
+Arbol afinado,910,0,0,34,female div/dep/mar,own,yes,own
+Arbol afinado,911,1,1,25,female div/dep/mar,own,yes,own
+Arbol afinado,912,0,0,25,female div/dep/mar,own,yes,own
+Arbol afinado,913,0,0,28,male div/sep,own,yes,own
+Arbol afinado,914,1,1,31,male single,rent,yes,rent
+Arbol afinado,915,1,1,32,female div/dep/mar,own,no,own
+Arbol afinado,916,0,0,32,male single,own,yes,own
+Arbol afinado,917,1,1,68,male single,own,yes,own
+Arbol afinado,918,1,1,33,male div/sep,own,yes,own
+Arbol afinado,919,1,1,39,male single,rent,yes,rent
+Arbol afinado,920,0,0,28,female div/dep/mar,own,yes,own
+Arbol afinado,921,0,0,37,male single,own,yes,own
+Arbol afinado,922,1,0,22,female div/dep/mar,rent,yes,rent
+Arbol afinado,923,0,1,30,male single,rent,yes,rent
+Arbol afinado,924,1,1,55,male div/sep,own,yes,own
+Arbol afinado,925,1,1,46,male single,own,yes,own
+Arbol afinado,926,0,1,21,female div/dep/mar,rent,yes,rent
+Arbol afinado,927,1,1,39,male single,for free,yes,for free
+Arbol afinado,928,0,0,58,male single,own,yes,own
+Arbol afinado,929,0,1,43,male single,own,yes,own
+Arbol afinado,930,0,1,24,male single,own,no,own
+Arbol afinado,931,1,0,22,female div/dep/mar,own,yes,own
+Arbol afinado,932,0,0,30,male single,own,yes,own
+Arbol afinado,933,0,0,42,male single,own,yes,own
+Arbol afinado,934,0,1,23,female div/dep/mar,own,yes,own
+Arbol afinado,935,1,1,30,male single,own,yes,own
+Arbol afinado,936,1,0,28,female div/dep/mar,own,yes,own
+Arbol afinado,937,0,1,30,male mar/wid,rent,yes,rent
+Arbol afinado,938,1,1,42,male single,for free,yes,for free
+Arbol afinado,939,0,0,46,male single,own,yes,own
+Arbol afinado,940,0,0,45,male single,own,yes,own
+Arbol afinado,941,0,0,31,male single,own,no,own
+Arbol afinado,942,0,0,31,male single,own,yes,own
+Arbol afinado,943,0,0,42,male single,own,yes,own
+Arbol afinado,944,0,1,46,female div/dep/mar,rent,yes,rent
+Arbol afinado,945,0,1,30,female div/dep/mar,own,yes,own
+Arbol afinado,946,1,1,30,male single,for free,yes,for free
+Arbol afinado,947,0,0,38,male single,own,yes,own
+Arbol afinado,948,1,0,43,male mar/wid,own,yes,own
+Arbol afinado,949,1,0,31,male single,own,yes,own
+Arbol afinado,950,0,1,40,male mar/wid,own,yes,own
+Arbol afinado,951,1,1,24,male single,own,yes,own
+Arbol afinado,952,1,1,28,female div/dep/mar,rent,yes,rent
+Arbol afinado,953,1,0,26,female div/dep/mar,own,yes,own
+Arbol afinado,954,0,1,29,female div/dep/mar,own,yes,own
+Arbol afinado,955,0,0,57,female div/dep/mar,rent,yes,rent
+Arbol afinado,956,0,0,49,male single,own,yes,own
+Arbol afinado,957,0,0,37,male single,own,yes,own
+Arbol afinado,958,1,1,45,male single,own,yes,own
+Arbol afinado,959,0,1,30,male single,for free,yes,for free
+Arbol afinado,960,0,0,30,male mar/wid,rent,yes,rent
+Arbol afinado,961,0,1,47,male div/sep,own,yes,own
+Arbol afinado,962,0,0,29,male single,own,yes,own
+Arbol afinado,963,1,0,35,male single,own,yes,own
+Arbol afinado,964,0,0,22,male mar/wid,own,yes,own
+Arbol afinado,965,0,1,26,female div/dep/mar,own,yes,own
+Arbol afinado,966,1,1,23,male single,own,yes,own
+Arbol afinado,967,0,0,54,female div/dep/mar,rent,yes,rent
+Arbol afinado,968,0,0,29,male mar/wid,rent,yes,rent
+Arbol afinado,969,0,0,40,male single,own,yes,own
+Arbol afinado,970,0,1,22,male single,own,yes,own
+Arbol afinado,971,0,0,43,male single,own,yes,own
+Arbol afinado,972,1,1,29,female div/dep/mar,rent,yes,rent
+Arbol afinado,973,1,1,36,male single,rent,yes,rent
+Arbol afinado,974,0,0,33,female div/dep/mar,own,yes,own
+Arbol afinado,975,0,0,57,female div/dep/mar,own,yes,own
+Arbol afinado,976,0,0,64,female div/dep/mar,own,yes,own
+Arbol afinado,977,0,1,42,male single,own,yes,own
+Arbol afinado,978,1,0,47,male single,own,yes,own
+Arbol afinado,979,1,1,25,male mar/wid,rent,yes,rent
+Arbol afinado,980,1,1,49,male single,own,yes,own
+Arbol afinado,981,1,1,33,male single,rent,yes,rent
+Arbol afinado,982,0,0,28,female div/dep/mar,own,yes,own
+Arbol afinado,983,1,1,26,male single,own,yes,own
+Arbol afinado,984,0,0,30,male single,own,yes,own
+Arbol afinado,985,0,1,25,female div/dep/mar,rent,yes,rent
+Arbol afinado,986,0,0,33,male div/sep,own,yes,own
+Arbol afinado,987,0,0,64,female div/dep/mar,own,yes,own
+Arbol afinado,988,0,1,29,male single,for free,yes,for free
+Arbol afinado,989,0,1,48,male single,own,yes,own
+Arbol afinado,990,0,0,37,male single,own,yes,own
+Arbol afinado,991,0,0,34,male single,own,yes,own
+Arbol afinado,992,0,1,23,male mar/wid,rent,yes,rent
+Arbol afinado,993,0,1,30,male single,own,yes,own
+Arbol afinado,994,0,0,50,male single,own,yes,own
+Arbol afinado,995,0,0,31,female div/dep/mar,own,yes,own
+Arbol afinado,996,0,1,40,male div/sep,own,yes,own
+Arbol afinado,997,0,0,38,male single,own,yes,own
+Arbol afinado,998,1,1,23,male single,for free,yes,for free
+Arbol afinado,999,0,1,27,male single,own,yes,own

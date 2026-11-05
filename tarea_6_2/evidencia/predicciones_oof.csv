@@ -1,0 +1,4001 @@
+modelo,fila,y_true,y_pred,age,personal_status,housing,foreign_worker
+Arbol por defecto,0,0,0,67,male single,own,yes
+Arbol por defecto,1,1,0,22,female div/dep/mar,own,yes
+Arbol por defecto,2,0,0,49,male single,own,yes
+Arbol por defecto,3,0,0,45,male single,for free,yes
+Arbol por defecto,4,1,1,53,male single,for free,yes
+Arbol por defecto,5,0,1,35,male single,for free,yes
+Arbol por defecto,6,0,0,53,male single,own,yes
+Arbol por defecto,7,0,0,35,male single,rent,yes
+Arbol por defecto,8,0,0,61,male div/sep,own,yes
+Arbol por defecto,9,1,1,28,male mar/wid,own,yes
+Arbol por defecto,10,1,0,25,female div/dep/mar,rent,yes
+Arbol por defecto,11,1,1,24,female div/dep/mar,rent,yes
+Arbol por defecto,12,0,0,22,female div/dep/mar,own,yes
+Arbol por defecto,13,1,0,60,male single,own,yes
+Arbol por defecto,14,0,0,28,female div/dep/mar,rent,yes
+Arbol por defecto,15,1,1,32,female div/dep/mar,own,yes
+Arbol por defecto,16,0,0,53,male single,own,yes
+Arbol por defecto,17,0,0,25,male single,own,yes
+Arbol por defecto,18,1,1,44,female div/dep/mar,for free,yes
+Arbol por defecto,19,0,0,31,male single,own,yes
+Arbol por defecto,20,0,0,48,male single,own,yes
+Arbol por defecto,21,0,0,44,male single,rent,yes
+Arbol por defecto,22,0,0,48,male single,rent,no
+Arbol por defecto,23,0,0,44,male single,own,yes
+Arbol por defecto,24,0,0,26,male mar/wid,own,no
+Arbol por defecto,25,0,0,36,male single,own,yes
+Arbol por defecto,26,0,1,39,male mar/wid,own,yes
+Arbol por defecto,27,0,1,42,female div/dep/mar,rent,yes
+Arbol por defecto,28,0,0,34,male single,own,yes
+Arbol por defecto,29,1,1,63,male single,own,yes
+Arbol por defecto,30,0,1,36,male mar/wid,own,yes
+Arbol por defecto,31,0,0,27,male single,own,yes
+Arbol por defecto,32,0,1,30,male single,own,yes
+Arbol por defecto,33,0,0,57,male single,rent,yes
+Arbol por defecto,34,0,0,33,female div/dep/mar,own,yes
+Arbol por defecto,35,1,1,25,male single,own,yes
+Arbol por defecto,36,0,1,31,male single,for free,yes
+Arbol por defecto,37,1,0,37,male single,own,yes
+Arbol por defecto,38,0,0,37,male single,own,yes
+Arbol por defecto,39,0,0,24,male single,own,yes
+Arbol por defecto,40,0,0,30,male single,own,yes
+Arbol por defecto,41,0,0,26,male div/sep,own,yes
+Arbol por defecto,42,0,1,44,male single,own,yes
+Arbol por defecto,43,0,1,24,male mar/wid,rent,yes
+Arbol por defecto,44,1,1,58,female div/dep/mar,for free,yes
+Arbol por defecto,45,0,0,35,female div/dep/mar,own,yes
+Arbol por defecto,46,0,0,39,male single,own,yes
+Arbol por defecto,47,0,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,48,0,1,39,male single,own,yes
+Arbol por defecto,49,0,1,28,female div/dep/mar,own,yes
+Arbol por defecto,50,0,1,29,male single,own,yes
+Arbol por defecto,51,0,0,30,male single,own,yes
+Arbol por defecto,52,0,0,25,male single,own,yes
+Arbol por defecto,53,0,0,31,male single,own,yes
+Arbol por defecto,54,1,1,57,male single,for free,yes
+Arbol por defecto,55,0,0,26,male single,own,yes
+Arbol por defecto,56,1,1,52,male single,own,yes
+Arbol por defecto,57,0,0,31,female div/dep/mar,own,yes
+Arbol por defecto,58,0,0,23,female div/dep/mar,own,yes
+Arbol por defecto,59,1,1,23,female div/dep/mar,rent,yes
+Arbol por defecto,60,0,1,27,male mar/wid,own,yes
+Arbol por defecto,61,0,0,50,male single,own,yes
+Arbol por defecto,62,1,0,61,male single,for free,yes
+Arbol por defecto,63,1,1,25,male single,own,yes
+Arbol por defecto,64,0,0,26,female div/dep/mar,own,yes
+Arbol por defecto,65,0,0,48,male single,own,yes
+Arbol por defecto,66,0,0,29,female div/dep/mar,own,yes
+Arbol por defecto,67,0,0,22,male mar/wid,own,yes
+Arbol por defecto,68,1,1,37,male single,for free,yes
+Arbol por defecto,69,0,0,25,female div/dep/mar,own,yes
+Arbol por defecto,70,0,0,30,female div/dep/mar,own,yes
+Arbol por defecto,71,0,0,46,male single,rent,yes
+Arbol por defecto,72,0,0,51,male single,for free,yes
+Arbol por defecto,73,0,1,41,female div/dep/mar,own,yes
+Arbol por defecto,74,1,0,40,male single,own,yes
+Arbol por defecto,75,0,0,66,male single,for free,yes
+Arbol por defecto,76,1,0,34,male single,own,yes
+Arbol por defecto,77,0,0,51,male single,own,yes
+Arbol por defecto,78,0,0,39,male single,own,yes
+Arbol por defecto,79,0,0,22,male mar/wid,own,yes
+Arbol por defecto,80,1,0,44,female div/dep/mar,own,yes
+Arbol por defecto,81,0,0,47,male single,own,yes
+Arbol por defecto,82,0,1,24,female div/dep/mar,rent,yes
+Arbol por defecto,83,0,0,58,female div/dep/mar,own,yes
+Arbol por defecto,84,0,0,52,male single,own,yes
+Arbol por defecto,85,0,1,29,female div/dep/mar,own,yes
+Arbol por defecto,86,0,0,27,female div/dep/mar,own,yes
+Arbol por defecto,87,1,0,47,male single,for free,yes
+Arbol por defecto,88,0,0,30,male single,own,yes
+Arbol por defecto,89,1,1,28,male single,own,yes
+Arbol por defecto,90,0,0,56,male single,own,yes
+Arbol por defecto,91,0,0,54,male single,own,yes
+Arbol por defecto,92,1,0,33,female div/dep/mar,own,yes
+Arbol por defecto,93,0,0,20,male single,rent,yes
+Arbol por defecto,94,0,1,54,male single,own,yes
+Arbol por defecto,95,1,0,58,male single,rent,yes
+Arbol por defecto,96,0,0,61,female div/dep/mar,own,yes
+Arbol por defecto,97,0,1,34,male single,own,yes
+Arbol por defecto,98,0,0,36,male single,own,yes
+Arbol por defecto,99,0,1,36,male single,rent,yes
+Arbol por defecto,100,0,1,41,male mar/wid,rent,yes
+Arbol por defecto,101,0,1,24,male single,rent,yes
+Arbol por defecto,102,0,0,24,female div/dep/mar,own,yes
+Arbol por defecto,103,0,0,35,male single,rent,yes
+Arbol por defecto,104,0,0,26,male mar/wid,rent,yes
+Arbol por defecto,105,1,1,39,male single,own,yes
+Arbol por defecto,106,1,1,39,male single,own,yes
+Arbol por defecto,107,0,0,32,male single,own,yes
+Arbol por defecto,108,0,1,30,female div/dep/mar,own,no
+Arbol por defecto,109,0,1,35,male mar/wid,own,yes
+Arbol por defecto,110,0,0,31,male div/sep,own,yes
+Arbol por defecto,111,0,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,112,0,1,28,male single,rent,yes
+Arbol por defecto,113,1,0,25,female div/dep/mar,own,yes
+Arbol por defecto,114,0,0,35,male mar/wid,own,yes
+Arbol por defecto,115,0,0,47,male single,own,yes
+Arbol por defecto,116,1,0,30,female div/dep/mar,own,yes
+Arbol por defecto,117,0,0,27,female div/dep/mar,rent,no
+Arbol por defecto,118,1,1,23,female div/dep/mar,own,yes
+Arbol por defecto,119,0,0,36,male div/sep,own,yes
+Arbol por defecto,120,1,1,25,female div/dep/mar,own,yes
+Arbol por defecto,121,0,0,41,female div/dep/mar,rent,yes
+Arbol por defecto,122,0,0,24,male single,rent,yes
+Arbol por defecto,123,0,1,63,male single,for free,yes
+Arbol por defecto,124,1,0,27,female div/dep/mar,rent,yes
+Arbol por defecto,125,0,0,30,male single,own,yes
+Arbol por defecto,126,0,1,40,male mar/wid,own,yes
+Arbol por defecto,127,1,0,30,male single,own,yes
+Arbol por defecto,128,0,1,34,male single,own,yes
+Arbol por defecto,129,1,0,29,female div/dep/mar,own,yes
+Arbol por defecto,130,0,1,24,female div/dep/mar,own,yes
+Arbol por defecto,131,1,1,29,male single,own,yes
+Arbol por defecto,132,0,0,27,male single,own,yes
+Arbol por defecto,133,0,0,47,male single,for free,yes
+Arbol por defecto,134,0,0,21,female div/dep/mar,own,yes
+Arbol por defecto,135,0,0,38,female div/dep/mar,own,yes
+Arbol por defecto,136,0,0,27,male single,own,yes
+Arbol por defecto,137,1,0,66,male single,own,yes
+Arbol por defecto,138,0,0,35,male single,own,yes
+Arbol por defecto,139,0,1,44,female div/dep/mar,rent,yes
+Arbol por defecto,140,0,0,27,male mar/wid,own,no
+Arbol por defecto,141,0,1,30,female div/dep/mar,own,yes
+Arbol por defecto,142,0,1,27,male single,own,yes
+Arbol por defecto,143,1,0,22,male single,own,yes
+Arbol por defecto,144,0,0,23,female div/dep/mar,own,yes
+Arbol por defecto,145,0,1,30,male single,own,yes
+Arbol por defecto,146,0,0,39,female div/dep/mar,own,yes
+Arbol por defecto,147,0,0,51,female div/dep/mar,own,yes
+Arbol por defecto,148,0,0,28,male single,own,yes
+Arbol por defecto,149,0,0,46,male single,own,yes
+Arbol por defecto,150,0,0,42,male single,for free,yes
+Arbol por defecto,151,0,0,38,male single,own,no
+Arbol por defecto,152,0,0,24,male single,own,yes
+Arbol por defecto,153,0,0,29,female div/dep/mar,rent,yes
+Arbol por defecto,154,0,0,36,male single,rent,yes
+Arbol por defecto,155,1,0,20,female div/dep/mar,rent,yes
+Arbol por defecto,156,0,0,48,male single,own,no
+Arbol por defecto,157,0,1,45,male mar/wid,own,yes
+Arbol por defecto,158,0,1,38,male single,own,yes
+Arbol por defecto,159,0,0,34,male single,own,yes
+Arbol por defecto,160,0,0,36,male single,own,yes
+Arbol por defecto,161,0,1,30,female div/dep/mar,own,yes
+Arbol por defecto,162,0,0,36,male single,own,yes
+Arbol por defecto,163,0,0,70,male single,for free,yes
+Arbol por defecto,164,0,0,36,male single,own,yes
+Arbol por defecto,165,0,0,32,male single,own,yes
+Arbol por defecto,166,1,1,33,female div/dep/mar,own,yes
+Arbol por defecto,167,0,0,20,female div/dep/mar,own,yes
+Arbol por defecto,168,0,0,25,female div/dep/mar,rent,yes
+Arbol por defecto,169,1,1,31,male div/sep,own,yes
+Arbol por defecto,170,1,1,33,male single,rent,yes
+Arbol por defecto,171,0,0,26,female div/dep/mar,own,yes
+Arbol por defecto,172,1,0,34,female div/dep/mar,own,yes
+Arbol por defecto,173,0,0,33,male single,own,no
+Arbol por defecto,174,1,0,26,male single,own,yes
+Arbol por defecto,175,1,0,53,female div/dep/mar,own,yes
+Arbol por defecto,176,0,0,42,male div/sep,own,yes
+Arbol por defecto,177,0,0,52,male single,own,yes
+Arbol por defecto,178,0,1,31,male single,rent,yes
+Arbol por defecto,179,0,1,65,male single,own,yes
+Arbol por defecto,180,1,0,28,male div/sep,own,yes
+Arbol por defecto,181,1,1,30,male div/sep,own,yes
+Arbol por defecto,182,1,1,40,male single,own,yes
+Arbol por defecto,183,0,0,50,male single,own,yes
+Arbol por defecto,184,1,0,36,male single,own,yes
+Arbol por defecto,185,0,0,31,male single,own,yes
+Arbol por defecto,186,1,0,74,female div/dep/mar,for free,yes
+Arbol por defecto,187,0,1,68,male single,for free,yes
+Arbol por defecto,188,1,1,20,male mar/wid,own,yes
+Arbol por defecto,189,0,0,33,female div/dep/mar,own,yes
+Arbol por defecto,190,1,0,54,male single,own,yes
+Arbol por defecto,191,1,0,34,male single,for free,yes
+Arbol por defecto,192,1,0,36,male single,own,yes
+Arbol por defecto,193,0,0,29,male mar/wid,rent,yes
+Arbol por defecto,194,1,1,21,male single,rent,yes
+Arbol por defecto,195,1,0,34,female div/dep/mar,own,yes
+Arbol por defecto,196,0,0,28,female div/dep/mar,own,yes
+Arbol por defecto,197,1,1,27,female div/dep/mar,rent,yes
+Arbol por defecto,198,0,0,36,male single,for free,yes
+Arbol por defecto,199,1,0,40,male div/sep,own,yes
+Arbol por defecto,200,0,0,52,male single,own,yes
+Arbol por defecto,201,0,1,27,male mar/wid,own,yes
+Arbol por defecto,202,0,0,26,male single,own,yes
+Arbol por defecto,203,1,1,21,male mar/wid,rent,yes
+Arbol por defecto,204,0,0,38,male single,own,yes
+Arbol por defecto,205,0,1,38,male single,for free,yes
+Arbol por defecto,206,0,0,43,male single,own,yes
+Arbol por defecto,207,0,0,26,male single,own,yes
+Arbol por defecto,208,0,1,21,male mar/wid,own,yes
+Arbol por defecto,209,0,0,55,male single,own,no
+Arbol por defecto,210,0,0,33,male single,own,yes
+Arbol por defecto,211,0,0,45,female div/dep/mar,own,yes
+Arbol por defecto,212,1,0,50,male single,own,yes
+Arbol por defecto,213,1,1,66,male single,own,yes
+Arbol por defecto,214,0,0,51,male single,own,yes
+Arbol por defecto,215,0,1,39,female div/dep/mar,own,yes
+Arbol por defecto,216,0,0,31,male single,own,yes
+Arbol por defecto,217,0,1,23,male single,own,yes
+Arbol por defecto,218,0,1,24,male div/sep,rent,yes
+Arbol por defecto,219,0,0,64,female div/dep/mar,own,yes
+Arbol por defecto,220,0,0,26,male mar/wid,own,yes
+Arbol por defecto,221,0,1,23,female div/dep/mar,rent,yes
+Arbol por defecto,222,0,0,30,male single,own,yes
+Arbol por defecto,223,0,1,32,male single,own,yes
+Arbol por defecto,224,0,0,30,male single,own,yes
+Arbol por defecto,225,0,0,27,male single,own,yes
+Arbol por defecto,226,1,0,27,male single,own,yes
+Arbol por defecto,227,1,1,53,male single,for free,yes
+Arbol por defecto,228,1,0,22,male single,own,yes
+Arbol por defecto,229,0,1,22,male single,for free,yes
+Arbol por defecto,230,1,0,26,male single,own,yes
+Arbol por defecto,231,0,0,51,male single,for free,yes
+Arbol por defecto,232,0,0,35,male single,own,yes
+Arbol por defecto,233,0,0,25,male mar/wid,own,yes
+Arbol por defecto,234,0,0,42,male single,own,yes
+Arbol por defecto,235,1,1,30,male single,own,yes
+Arbol por defecto,236,1,0,23,male single,own,yes
+Arbol por defecto,237,1,0,61,male div/sep,rent,yes
+Arbol por defecto,238,0,0,35,female div/dep/mar,own,yes
+Arbol por defecto,239,0,0,39,male single,own,yes
+Arbol por defecto,240,1,1,29,female div/dep/mar,own,yes
+Arbol por defecto,241,0,0,51,male single,own,yes
+Arbol por defecto,242,1,1,24,male single,for free,yes
+Arbol por defecto,243,0,0,27,female div/dep/mar,own,yes
+Arbol por defecto,244,0,0,35,female div/dep/mar,own,yes
+Arbol por defecto,245,0,0,25,male single,own,yes
+Arbol por defecto,246,0,0,52,male single,own,yes
+Arbol por defecto,247,0,1,35,male single,rent,no
+Arbol por defecto,248,0,1,26,male single,own,yes
+Arbol por defecto,249,1,1,22,female div/dep/mar,rent,yes
+Arbol por defecto,250,0,0,39,female div/dep/mar,own,yes
+Arbol por defecto,251,0,1,46,female div/dep/mar,own,yes
+Arbol por defecto,252,1,0,24,female div/dep/mar,own,yes
+Arbol por defecto,253,0,0,35,male single,own,yes
+Arbol por defecto,254,0,0,24,male single,own,yes
+Arbol por defecto,255,0,1,27,male single,own,yes
+Arbol por defecto,256,0,0,35,male single,own,yes
+Arbol por defecto,257,1,0,29,male div/sep,for free,yes
+Arbol por defecto,258,0,0,23,female div/dep/mar,own,yes
+Arbol por defecto,259,0,0,57,female div/dep/mar,own,yes
+Arbol por defecto,260,0,0,27,male single,own,yes
+Arbol por defecto,261,0,0,55,female div/dep/mar,own,yes
+Arbol por defecto,262,0,0,36,male single,for free,yes
+Arbol por defecto,263,0,1,57,female div/dep/mar,for free,yes
+Arbol por defecto,264,0,0,32,male single,own,no
+Arbol por defecto,265,1,1,37,male single,own,yes
+Arbol por defecto,266,0,0,36,male single,own,yes
+Arbol por defecto,267,0,0,38,female div/dep/mar,own,yes
+Arbol por defecto,268,1,1,45,male div/sep,own,no
+Arbol por defecto,269,0,1,25,male single,own,yes
+Arbol por defecto,270,0,0,32,male single,own,no
+Arbol por defecto,271,0,0,37,female div/dep/mar,rent,yes
+Arbol por defecto,272,0,0,36,male single,for free,yes
+Arbol por defecto,273,1,0,28,male single,own,yes
+Arbol por defecto,274,1,0,34,male div/sep,own,yes
+Arbol por defecto,275,0,0,32,male single,own,yes
+Arbol por defecto,276,0,0,26,female div/dep/mar,own,yes
+Arbol por defecto,277,0,0,49,male div/sep,own,yes
+Arbol por defecto,278,1,0,32,female div/dep/mar,own,yes
+Arbol por defecto,279,0,1,29,male single,rent,yes
+Arbol por defecto,280,0,0,23,male single,rent,yes
+Arbol por defecto,281,0,0,50,male single,own,yes
+Arbol por defecto,282,0,1,49,male single,own,yes
+Arbol por defecto,283,0,0,63,male single,own,yes
+Arbol por defecto,284,0,1,37,male div/sep,own,yes
+Arbol por defecto,285,0,0,35,female div/dep/mar,own,yes
+Arbol por defecto,286,0,1,26,male single,own,yes
+Arbol por defecto,287,0,0,31,male single,for free,yes
+Arbol por defecto,288,0,0,49,female div/dep/mar,own,yes
+Arbol por defecto,289,1,1,48,male mar/wid,own,yes
+Arbol por defecto,290,0,0,26,male mar/wid,own,no
+Arbol por defecto,291,1,0,28,male mar/wid,rent,yes
+Arbol por defecto,292,0,0,44,female div/dep/mar,for free,yes
+Arbol por defecto,293,0,0,56,male single,for free,yes
+Arbol por defecto,294,0,1,46,male div/sep,own,yes
+Arbol por defecto,295,1,1,26,female div/dep/mar,own,yes
+Arbol por defecto,296,0,0,20,female div/dep/mar,rent,yes
+Arbol por defecto,297,0,0,45,male single,own,no
+Arbol por defecto,298,0,0,43,male single,own,yes
+Arbol por defecto,299,0,0,32,male single,own,yes
+Arbol por defecto,300,0,0,54,female div/dep/mar,own,yes
+Arbol por defecto,301,1,0,42,female div/dep/mar,own,yes
+Arbol por defecto,302,1,1,37,male single,own,yes
+Arbol por defecto,303,0,0,49,male single,own,yes
+Arbol por defecto,304,1,0,44,male single,for free,yes
+Arbol por defecto,305,0,0,33,male div/sep,own,yes
+Arbol por defecto,306,0,0,24,female div/dep/mar,rent,yes
+Arbol por defecto,307,1,1,33,male mar/wid,own,yes
+Arbol por defecto,308,1,0,24,female div/dep/mar,own,yes
+Arbol por defecto,309,0,0,22,male mar/wid,rent,yes
+Arbol por defecto,310,0,0,40,male single,for free,yes
+Arbol por defecto,311,0,0,25,male single,own,yes
+Arbol por defecto,312,0,0,26,female div/dep/mar,own,yes
+Arbol por defecto,313,1,1,25,male mar/wid,own,yes
+Arbol por defecto,314,0,0,29,male single,own,no
+Arbol por defecto,315,1,1,31,male single,own,yes
+Arbol por defecto,316,0,0,38,male single,own,yes
+Arbol por defecto,317,0,1,48,female div/dep/mar,own,yes
+Arbol por defecto,318,0,0,32,male single,own,yes
+Arbol por defecto,319,0,1,27,female div/dep/mar,own,yes
+Arbol por defecto,320,1,1,28,male mar/wid,own,yes
+Arbol por defecto,321,1,1,32,male div/sep,own,yes
+Arbol por defecto,322,0,0,34,male single,for free,yes
+Arbol por defecto,323,0,1,28,male single,own,yes
+Arbol por defecto,324,0,0,36,female div/dep/mar,own,yes
+Arbol por defecto,325,0,0,39,male single,own,no
+Arbol por defecto,326,0,1,49,male single,rent,yes
+Arbol por defecto,327,0,0,34,female div/dep/mar,own,yes
+Arbol por defecto,328,0,1,31,male single,own,yes
+Arbol por defecto,329,0,1,28,male single,own,yes
+Arbol por defecto,330,0,0,75,male single,for free,yes
+Arbol por defecto,331,1,0,30,female div/dep/mar,own,yes
+Arbol por defecto,332,1,1,24,female div/dep/mar,own,yes
+Arbol por defecto,333,1,1,24,female div/dep/mar,rent,yes
+Arbol por defecto,334,1,1,23,male single,rent,yes
+Arbol por defecto,335,1,0,44,male div/sep,rent,yes
+Arbol por defecto,336,0,0,23,female div/dep/mar,own,yes
+Arbol por defecto,337,1,0,24,female div/dep/mar,rent,yes
+Arbol por defecto,338,0,1,28,male single,own,yes
+Arbol por defecto,339,0,1,31,male div/sep,own,yes
+Arbol por defecto,340,0,1,24,female div/dep/mar,for free,yes
+Arbol por defecto,341,0,1,26,female div/dep/mar,rent,yes
+Arbol por defecto,342,0,0,25,male mar/wid,rent,yes
+Arbol por defecto,343,0,1,33,male single,own,yes
+Arbol por defecto,344,0,0,37,male single,own,yes
+Arbol por defecto,345,0,0,43,female div/dep/mar,own,yes
+Arbol por defecto,346,0,0,23,male single,own,yes
+Arbol por defecto,347,0,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,348,0,0,34,male single,own,yes
+Arbol por defecto,349,1,1,32,male single,for free,yes
+Arbol por defecto,350,0,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,351,1,0,29,female div/dep/mar,own,no
+Arbol por defecto,352,0,0,38,male single,own,yes
+Arbol por defecto,353,1,1,28,male single,rent,yes
+Arbol por defecto,354,0,0,46,male single,for free,yes
+Arbol por defecto,355,1,1,23,male single,own,yes
+Arbol por defecto,356,0,0,49,male single,own,yes
+Arbol por defecto,357,1,0,26,male single,own,yes
+Arbol por defecto,358,0,0,28,male mar/wid,own,yes
+Arbol por defecto,359,1,1,23,female div/dep/mar,rent,yes
+Arbol por defecto,360,0,1,61,male single,for free,yes
+Arbol por defecto,361,0,1,37,male single,own,yes
+Arbol por defecto,362,0,0,36,female div/dep/mar,own,yes
+Arbol por defecto,363,0,0,21,male mar/wid,rent,yes
+Arbol por defecto,364,1,0,25,male single,own,yes
+Arbol por defecto,365,0,0,36,male single,own,yes
+Arbol por defecto,366,0,0,27,male single,own,yes
+Arbol por defecto,367,0,0,22,female div/dep/mar,rent,yes
+Arbol por defecto,368,1,1,42,male single,own,yes
+Arbol por defecto,369,0,0,40,female div/dep/mar,rent,yes
+Arbol por defecto,370,0,1,36,male single,own,yes
+Arbol por defecto,371,0,0,33,male single,own,yes
+Arbol por defecto,372,0,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,373,0,0,63,male single,for free,yes
+Arbol por defecto,374,1,1,60,female div/dep/mar,for free,yes
+Arbol por defecto,375,1,1,37,female div/dep/mar,rent,yes
+Arbol por defecto,376,0,0,34,male mar/wid,own,yes
+Arbol por defecto,377,0,0,36,male single,for free,yes
+Arbol por defecto,378,1,1,57,male single,for free,yes
+Arbol por defecto,379,0,1,52,female div/dep/mar,own,yes
+Arbol por defecto,380,0,0,39,male single,own,yes
+Arbol por defecto,381,1,1,38,female div/dep/mar,for free,yes
+Arbol por defecto,382,0,0,25,female div/dep/mar,rent,yes
+Arbol por defecto,383,0,0,26,male single,own,yes
+Arbol por defecto,384,0,1,26,male single,own,yes
+Arbol por defecto,385,0,0,25,female div/dep/mar,own,yes
+Arbol por defecto,386,0,0,21,female div/dep/mar,rent,yes
+Arbol por defecto,387,0,1,40,male single,own,yes
+Arbol por defecto,388,0,0,27,male single,own,yes
+Arbol por defecto,389,0,0,27,female div/dep/mar,own,yes
+Arbol por defecto,390,0,1,30,male mar/wid,own,yes
+Arbol por defecto,391,0,0,19,female div/dep/mar,rent,yes
+Arbol por defecto,392,0,1,39,male single,for free,yes
+Arbol por defecto,393,0,0,31,female div/dep/mar,own,yes
+Arbol por defecto,394,0,0,31,male single,own,yes
+Arbol por defecto,395,0,1,32,male single,rent,yes
+Arbol por defecto,396,0,0,55,female div/dep/mar,for free,yes
+Arbol por defecto,397,0,1,46,male mar/wid,own,yes
+Arbol por defecto,398,1,1,46,male div/sep,rent,yes
+Arbol por defecto,399,0,0,43,female div/dep/mar,own,yes
+Arbol por defecto,400,0,0,39,male mar/wid,own,yes
+Arbol por defecto,401,0,0,28,male mar/wid,own,yes
+Arbol por defecto,402,1,1,27,male single,own,yes
+Arbol por defecto,403,0,0,27,male single,own,yes
+Arbol por defecto,404,0,0,43,male single,own,yes
+Arbol por defecto,405,1,0,22,male mar/wid,own,yes
+Arbol por defecto,406,0,0,43,male single,own,yes
+Arbol por defecto,407,0,0,27,male mar/wid,own,no
+Arbol por defecto,408,0,0,26,male div/sep,own,yes
+Arbol por defecto,409,1,0,28,male mar/wid,own,yes
+Arbol por defecto,410,0,0,20,female div/dep/mar,own,yes
+Arbol por defecto,411,0,0,35,male single,own,yes
+Arbol por defecto,412,1,0,42,male single,own,yes
+Arbol por defecto,413,0,0,40,male single,rent,no
+Arbol por defecto,414,1,1,35,female div/dep/mar,own,yes
+Arbol por defecto,415,0,0,35,male single,own,yes
+Arbol por defecto,416,1,0,33,male single,own,yes
+Arbol por defecto,417,0,1,23,female div/dep/mar,rent,yes
+Arbol por defecto,418,0,0,31,female div/dep/mar,own,yes
+Arbol por defecto,419,1,0,33,female div/dep/mar,own,yes
+Arbol por defecto,420,0,0,20,female div/dep/mar,rent,yes
+Arbol por defecto,421,0,1,30,male single,own,yes
+Arbol por defecto,422,0,0,47,male single,own,yes
+Arbol por defecto,423,0,0,34,male single,own,yes
+Arbol por defecto,424,1,0,25,female div/dep/mar,own,yes
+Arbol por defecto,425,0,1,21,male mar/wid,rent,yes
+Arbol por defecto,426,0,0,29,male single,own,yes
+Arbol por defecto,427,0,0,46,male single,own,yes
+Arbol por defecto,428,0,0,20,male single,own,yes
+Arbol por defecto,429,1,0,55,female div/dep/mar,for free,yes
+Arbol por defecto,430,0,0,74,male single,own,yes
+Arbol por defecto,431,1,1,29,male single,own,yes
+Arbol por defecto,432,0,0,36,male single,for free,yes
+Arbol por defecto,433,0,0,33,male div/sep,own,yes
+Arbol por defecto,434,0,1,25,male single,own,yes
+Arbol por defecto,435,1,1,25,male mar/wid,own,yes
+Arbol por defecto,436,0,0,23,male mar/wid,rent,yes
+Arbol por defecto,437,0,0,37,female div/dep/mar,own,yes
+Arbol por defecto,438,0,0,65,male single,own,yes
+Arbol por defecto,439,1,1,26,female div/dep/mar,own,yes
+Arbol por defecto,440,0,0,39,male single,own,yes
+Arbol por defecto,441,0,0,30,female div/dep/mar,own,yes
+Arbol por defecto,442,0,0,29,male single,own,yes
+Arbol por defecto,443,1,0,41,male single,own,yes
+Arbol por defecto,444,1,1,30,female div/dep/mar,own,yes
+Arbol por defecto,445,0,0,41,female div/dep/mar,rent,yes
+Arbol por defecto,446,1,1,34,female div/dep/mar,own,yes
+Arbol por defecto,447,0,0,35,male single,own,yes
+Arbol por defecto,448,0,0,55,female div/dep/mar,own,yes
+Arbol por defecto,449,1,0,61,male mar/wid,own,yes
+Arbol por defecto,450,0,0,30,male single,own,yes
+Arbol por defecto,451,0,0,29,female div/dep/mar,own,yes
+Arbol por defecto,452,0,0,34,male single,own,yes
+Arbol por defecto,453,0,0,35,male single,own,yes
+Arbol por defecto,454,1,1,31,male single,own,yes
+Arbol por defecto,455,0,0,29,female div/dep/mar,own,yes
+Arbol por defecto,456,0,0,36,male single,rent,yes
+Arbol por defecto,457,1,0,35,male single,for free,yes
+Arbol por defecto,458,0,1,27,female div/dep/mar,own,yes
+Arbol por defecto,459,0,0,32,male single,own,yes
+Arbol por defecto,460,0,0,37,male single,own,yes
+Arbol por defecto,461,0,0,36,male single,own,yes
+Arbol por defecto,462,0,1,34,female div/dep/mar,rent,yes
+Arbol por defecto,463,0,1,38,male single,own,yes
+Arbol por defecto,464,0,1,34,male single,own,yes
+Arbol por defecto,465,0,1,63,male single,own,yes
+Arbol por defecto,466,1,1,29,female div/dep/mar,rent,yes
+Arbol por defecto,467,0,1,32,male single,own,yes
+Arbol por defecto,468,0,1,26,female div/dep/mar,own,yes
+Arbol por defecto,469,0,0,35,male single,own,yes
+Arbol por defecto,470,1,0,22,male mar/wid,rent,yes
+Arbol por defecto,471,1,0,23,female div/dep/mar,own,yes
+Arbol por defecto,472,1,0,28,male single,own,yes
+Arbol por defecto,473,0,0,36,male single,own,yes
+Arbol por defecto,474,1,0,33,male mar/wid,own,yes
+Arbol por defecto,475,1,0,26,female div/dep/mar,rent,yes
+Arbol por defecto,476,0,0,24,male single,own,yes
+Arbol por defecto,477,0,1,25,male single,own,yes
+Arbol por defecto,478,0,0,39,male single,own,yes
+Arbol por defecto,479,0,0,44,male single,own,yes
+Arbol por defecto,480,0,1,23,female div/dep/mar,own,yes
+Arbol por defecto,481,0,1,26,male single,own,yes
+Arbol por defecto,482,0,0,57,female div/dep/mar,rent,yes
+Arbol por defecto,483,0,0,30,female div/dep/mar,own,yes
+Arbol por defecto,484,0,0,44,male single,own,yes
+Arbol por defecto,485,1,0,47,male single,own,yes
+Arbol por defecto,486,0,0,52,male single,own,yes
+Arbol por defecto,487,0,0,62,female div/dep/mar,for free,yes
+Arbol por defecto,488,0,0,35,male single,rent,no
+Arbol por defecto,489,0,0,26,male single,rent,yes
+Arbol por defecto,490,0,0,26,male single,own,yes
+Arbol por defecto,491,1,0,42,female div/dep/mar,for free,yes
+Arbol por defecto,492,0,0,27,female div/dep/mar,own,yes
+Arbol por defecto,493,0,0,38,male single,own,yes
+Arbol por defecto,494,0,0,39,male single,rent,no
+Arbol por defecto,495,1,0,20,male mar/wid,own,yes
+Arbol por defecto,496,1,1,29,male single,rent,yes
+Arbol por defecto,497,0,0,40,male single,own,yes
+Arbol por defecto,498,0,0,32,male mar/wid,own,yes
+Arbol por defecto,499,0,0,28,male div/sep,own,yes
+Arbol por defecto,500,1,0,27,female div/dep/mar,own,yes
+Arbol por defecto,501,0,0,42,male single,for free,yes
+Arbol por defecto,502,0,0,49,male div/sep,own,yes
+Arbol por defecto,503,1,1,38,male single,own,yes
+Arbol por defecto,504,1,1,24,female div/dep/mar,rent,yes
+Arbol por defecto,505,1,0,27,male single,own,yes
+Arbol por defecto,506,0,1,36,male single,own,yes
+Arbol por defecto,507,1,1,34,male single,own,yes
+Arbol por defecto,508,0,0,28,male mar/wid,own,yes
+Arbol por defecto,509,0,0,45,male single,own,yes
+Arbol por defecto,510,1,0,26,male single,own,yes
+Arbol por defecto,511,0,0,32,male single,for free,yes
+Arbol por defecto,512,0,0,26,male single,rent,yes
+Arbol por defecto,513,0,0,20,male mar/wid,rent,yes
+Arbol por defecto,514,0,0,54,male single,own,yes
+Arbol por defecto,515,0,0,37,female div/dep/mar,own,no
+Arbol por defecto,516,0,0,40,male single,own,no
+Arbol por defecto,517,1,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,518,0,1,43,male single,own,yes
+Arbol por defecto,519,0,0,36,male single,for free,yes
+Arbol por defecto,520,0,0,44,male single,for free,yes
+Arbol por defecto,521,1,0,24,female div/dep/mar,own,yes
+Arbol por defecto,522,1,0,53,male single,for free,yes
+Arbol por defecto,523,0,0,23,female div/dep/mar,own,yes
+Arbol por defecto,524,0,0,26,female div/dep/mar,own,yes
+Arbol por defecto,525,0,1,30,male single,own,yes
+Arbol por defecto,526,0,0,31,female div/dep/mar,own,yes
+Arbol por defecto,527,0,0,42,male single,own,yes
+Arbol por defecto,528,1,0,31,male div/sep,rent,yes
+Arbol por defecto,529,0,0,41,male single,own,yes
+Arbol por defecto,530,0,1,32,male single,own,yes
+Arbol por defecto,531,1,0,28,female div/dep/mar,rent,yes
+Arbol por defecto,532,0,0,41,male mar/wid,rent,yes
+Arbol por defecto,533,0,0,26,male mar/wid,own,yes
+Arbol por defecto,534,0,0,25,male single,own,yes
+Arbol por defecto,535,1,0,33,male div/sep,rent,yes
+Arbol por defecto,536,0,1,75,female div/dep/mar,own,yes
+Arbol por defecto,537,0,0,37,female div/dep/mar,own,yes
+Arbol por defecto,538,1,1,42,male single,for free,yes
+Arbol por defecto,539,0,0,45,female div/dep/mar,own,yes
+Arbol por defecto,540,1,0,23,male mar/wid,rent,yes
+Arbol por defecto,541,0,0,60,male single,for free,yes
+Arbol por defecto,542,1,0,31,male single,own,yes
+Arbol por defecto,543,1,0,34,male single,own,yes
+Arbol por defecto,544,0,0,61,male single,own,yes
+Arbol por defecto,545,1,1,43,male single,for free,yes
+Arbol por defecto,546,0,1,37,female div/dep/mar,own,yes
+Arbol por defecto,547,0,1,32,male single,own,yes
+Arbol por defecto,548,1,0,24,female div/dep/mar,own,yes
+Arbol por defecto,549,0,0,35,male single,for free,yes
+Arbol por defecto,550,0,0,23,female div/dep/mar,own,yes
+Arbol por defecto,551,0,0,45,male single,own,yes
+Arbol por defecto,552,1,1,34,male mar/wid,own,yes
+Arbol por defecto,553,0,0,27,male single,own,yes
+Arbol por defecto,554,0,0,67,female div/dep/mar,own,yes
+Arbol por defecto,555,1,1,22,male single,own,yes
+Arbol por defecto,556,1,0,28,female div/dep/mar,own,yes
+Arbol por defecto,557,1,0,29,female div/dep/mar,own,yes
+Arbol por defecto,558,1,1,27,male single,own,yes
+Arbol por defecto,559,1,0,31,male single,own,yes
+Arbol por defecto,560,0,1,49,male single,for free,yes
+Arbol por defecto,561,1,1,24,male single,rent,yes
+Arbol por defecto,562,0,0,29,female div/dep/mar,own,yes
+Arbol por defecto,563,1,0,37,male single,for free,yes
+Arbol por defecto,564,0,0,37,male single,own,yes
+Arbol por defecto,565,0,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,566,1,0,36,male div/sep,own,yes
+Arbol por defecto,567,0,0,34,male single,own,yes
+Arbol por defecto,568,0,0,41,male single,own,yes
+Arbol por defecto,569,1,1,31,female div/dep/mar,own,yes
+Arbol por defecto,570,1,1,23,female div/dep/mar,rent,yes
+Arbol por defecto,571,0,0,38,male single,own,yes
+Arbol por defecto,572,0,0,26,female div/dep/mar,rent,yes
+Arbol por defecto,573,0,0,22,female div/dep/mar,own,yes
+Arbol por defecto,574,0,0,27,male single,own,yes
+Arbol por defecto,575,0,0,24,female div/dep/mar,own,yes
+Arbol por defecto,576,0,0,27,female div/dep/mar,own,yes
+Arbol por defecto,577,0,1,33,female div/dep/mar,own,yes
+Arbol por defecto,578,1,1,27,male div/sep,own,yes
+Arbol por defecto,579,0,1,27,male mar/wid,own,yes
+Arbol por defecto,580,1,0,30,male single,own,yes
+Arbol por defecto,581,0,0,49,male single,own,yes
+Arbol por defecto,582,0,0,26,female div/dep/mar,rent,yes
+Arbol por defecto,583,1,1,33,male single,rent,yes
+Arbol por defecto,584,0,0,52,female div/dep/mar,for free,yes
+Arbol por defecto,585,1,0,20,female div/dep/mar,rent,yes
+Arbol por defecto,586,0,0,36,male single,rent,yes
+Arbol por defecto,587,0,1,21,male single,own,yes
+Arbol por defecto,588,1,1,47,male mar/wid,own,yes
+Arbol por defecto,589,1,0,60,male single,own,yes
+Arbol por defecto,590,0,1,58,female div/dep/mar,own,yes
+Arbol por defecto,591,0,0,42,female div/dep/mar,rent,yes
+Arbol por defecto,592,0,0,36,female div/dep/mar,own,yes
+Arbol por defecto,593,1,1,20,female div/dep/mar,rent,yes
+Arbol por defecto,594,1,1,40,male single,own,yes
+Arbol por defecto,595,1,0,32,female div/dep/mar,own,yes
+Arbol por defecto,596,1,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,597,1,1,36,male single,own,yes
+Arbol por defecto,598,1,0,31,male single,own,yes
+Arbol por defecto,599,0,0,32,male single,for free,yes
+Arbol por defecto,600,0,0,45,female div/dep/mar,own,yes
+Arbol por defecto,601,1,1,30,female div/dep/mar,own,yes
+Arbol por defecto,602,1,1,34,female div/dep/mar,for free,yes
+Arbol por defecto,603,1,0,28,female div/dep/mar,own,yes
+Arbol por defecto,604,0,0,23,female div/dep/mar,own,yes
+Arbol por defecto,605,0,0,22,male single,own,yes
+Arbol por defecto,606,0,1,74,male single,own,yes
+Arbol por defecto,607,1,1,50,female div/dep/mar,for free,yes
+Arbol por defecto,608,0,1,33,male single,own,yes
+Arbol por defecto,609,0,0,45,male single,for free,yes
+Arbol por defecto,610,1,0,22,female div/dep/mar,own,yes
+Arbol por defecto,611,1,1,48,female div/dep/mar,for free,yes
+Arbol por defecto,612,0,0,29,female div/dep/mar,own,yes
+Arbol por defecto,613,0,1,22,female div/dep/mar,rent,no
+Arbol por defecto,614,1,0,22,female div/dep/mar,own,yes
+Arbol por defecto,615,0,1,48,male single,own,yes
+Arbol por defecto,616,0,0,27,male single,for free,yes
+Arbol por defecto,617,0,0,37,male single,rent,yes
+Arbol por defecto,618,1,1,21,female div/dep/mar,rent,yes
+Arbol por defecto,619,0,0,49,male div/sep,own,yes
+Arbol por defecto,620,0,0,27,male single,own,yes
+Arbol por defecto,621,1,0,32,male single,own,yes
+Arbol por defecto,622,1,1,38,male div/sep,own,yes
+Arbol por defecto,623,0,0,22,female div/dep/mar,rent,yes
+Arbol por defecto,624,1,1,65,male single,for free,yes
+Arbol por defecto,625,0,0,35,male single,own,yes
+Arbol por defecto,626,0,0,41,male single,own,yes
+Arbol por defecto,627,1,1,29,male single,own,yes
+Arbol por defecto,628,0,0,36,male single,own,yes
+Arbol por defecto,629,0,0,64,male single,own,yes
+Arbol por defecto,630,0,0,28,female div/dep/mar,own,yes
+Arbol por defecto,631,1,1,44,male single,own,yes
+Arbol por defecto,632,0,0,23,male single,own,yes
+Arbol por defecto,633,1,0,19,female div/dep/mar,rent,yes
+Arbol por defecto,634,1,1,25,female div/dep/mar,own,yes
+Arbol por defecto,635,0,0,47,male single,own,yes
+Arbol por defecto,636,0,0,28,female div/dep/mar,own,yes
+Arbol por defecto,637,0,0,21,male single,own,yes
+Arbol por defecto,638,0,0,34,female div/dep/mar,own,yes
+Arbol por defecto,639,1,1,26,male single,own,yes
+Arbol por defecto,640,1,1,27,female div/dep/mar,own,yes
+Arbol por defecto,641,0,0,38,male single,own,yes
+Arbol por defecto,642,1,0,40,male single,own,yes
+Arbol por defecto,643,0,0,33,male mar/wid,own,yes
+Arbol por defecto,644,0,0,32,male mar/wid,own,yes
+Arbol por defecto,645,1,1,27,male single,rent,yes
+Arbol por defecto,646,0,0,32,male div/sep,own,yes
+Arbol por defecto,647,1,0,26,female div/dep/mar,own,yes
+Arbol por defecto,648,1,1,38,male single,for free,yes
+Arbol por defecto,649,1,0,40,male single,rent,yes
+Arbol por defecto,650,0,1,50,male single,for free,yes
+Arbol por defecto,651,1,0,37,male single,own,yes
+Arbol por defecto,652,1,0,45,male single,own,yes
+Arbol por defecto,653,1,0,42,male single,own,yes
+Arbol por defecto,654,0,0,35,male single,own,yes
+Arbol por defecto,655,0,0,22,male single,for free,yes
+Arbol por defecto,656,1,1,41,male single,own,yes
+Arbol por defecto,657,0,0,37,male single,own,yes
+Arbol por defecto,658,0,0,28,female div/dep/mar,own,yes
+Arbol por defecto,659,0,1,41,male single,own,yes
+Arbol por defecto,660,0,1,23,male mar/wid,rent,yes
+Arbol por defecto,661,1,0,23,male mar/wid,own,yes
+Arbol por defecto,662,0,0,50,male single,own,yes
+Arbol por defecto,663,0,1,35,male single,own,yes
+Arbol por defecto,664,0,0,50,female div/dep/mar,own,yes
+Arbol por defecto,665,0,0,27,male single,own,yes
+Arbol por defecto,666,0,0,34,male single,own,yes
+Arbol por defecto,667,0,1,27,female div/dep/mar,own,yes
+Arbol por defecto,668,1,0,43,male single,rent,yes
+Arbol por defecto,669,0,0,47,male single,own,yes
+Arbol por defecto,670,0,0,27,male single,own,yes
+Arbol por defecto,671,0,0,31,male single,own,yes
+Arbol por defecto,672,0,0,42,male single,own,yes
+Arbol por defecto,673,0,0,24,male mar/wid,own,yes
+Arbol por defecto,674,1,0,41,male single,own,yes
+Arbol por defecto,675,0,0,26,female div/dep/mar,rent,yes
+Arbol por defecto,676,0,0,33,male single,own,yes
+Arbol por defecto,677,1,1,24,male mar/wid,own,yes
+Arbol por defecto,678,0,1,64,male single,rent,yes
+Arbol por defecto,679,0,0,26,female div/dep/mar,own,yes
+Arbol por defecto,680,0,0,56,female div/dep/mar,own,yes
+Arbol por defecto,681,0,0,37,male single,for free,yes
+Arbol por defecto,682,0,0,33,male mar/wid,own,yes
+Arbol por defecto,683,0,0,47,male mar/wid,for free,yes
+Arbol por defecto,684,0,0,31,male single,own,yes
+Arbol por defecto,685,0,0,34,male single,for free,yes
+Arbol por defecto,686,0,0,27,male single,own,yes
+Arbol por defecto,687,0,0,30,male single,for free,yes
+Arbol por defecto,688,0,0,35,male single,own,yes
+Arbol por defecto,689,0,1,31,male single,own,yes
+Arbol por defecto,690,0,1,25,male div/sep,own,yes
+Arbol por defecto,691,0,1,25,female div/dep/mar,own,yes
+Arbol por defecto,692,0,0,29,male single,own,yes
+Arbol por defecto,693,0,0,44,male single,own,yes
+Arbol por defecto,694,0,0,28,male single,own,yes
+Arbol por defecto,695,0,0,50,male single,rent,yes
+Arbol por defecto,696,0,0,29,male single,own,no
+Arbol por defecto,697,0,0,38,female div/dep/mar,own,yes
+Arbol por defecto,698,0,0,24,male single,own,yes
+Arbol por defecto,699,0,0,40,male single,rent,yes
+Arbol por defecto,700,1,0,29,female div/dep/mar,rent,yes
+Arbol por defecto,701,1,1,46,male single,for free,yes
+Arbol por defecto,702,0,0,47,female div/dep/mar,for free,yes
+Arbol por defecto,703,0,0,41,male single,own,yes
+Arbol por defecto,704,0,0,32,female div/dep/mar,own,yes
+Arbol por defecto,705,0,1,35,female div/dep/mar,for free,yes
+Arbol por defecto,706,1,0,24,male single,own,yes
+Arbol por defecto,707,1,1,25,female div/dep/mar,rent,yes
+Arbol por defecto,708,0,0,25,female div/dep/mar,own,yes
+Arbol por defecto,709,0,0,37,male single,own,yes
+Arbol por defecto,710,0,1,32,male single,own,yes
+Arbol por defecto,711,1,1,35,female div/dep/mar,for free,yes
+Arbol por defecto,712,0,0,46,male single,own,yes
+Arbol por defecto,713,0,0,25,male single,own,yes
+Arbol por defecto,714,1,1,27,male single,own,yes
+Arbol por defecto,715,0,0,63,male single,own,yes
+Arbol por defecto,716,0,0,40,male single,own,yes
+Arbol por defecto,717,0,0,32,male single,for free,yes
+Arbol por defecto,718,0,1,31,male single,own,yes
+Arbol por defecto,719,0,1,31,male mar/wid,own,yes
+Arbol por defecto,720,1,0,34,male single,own,yes
+Arbol por defecto,721,1,1,24,female div/dep/mar,rent,yes
+Arbol por defecto,722,1,0,24,female div/dep/mar,own,yes
+Arbol por defecto,723,0,1,66,female div/dep/mar,own,yes
+Arbol por defecto,724,1,0,21,female div/dep/mar,rent,yes
+Arbol por defecto,725,0,0,41,female div/dep/mar,own,yes
+Arbol por defecto,726,0,0,47,male mar/wid,own,yes
+Arbol por defecto,727,1,0,25,female div/dep/mar,rent,yes
+Arbol por defecto,728,1,1,59,female div/dep/mar,rent,yes
+Arbol por defecto,729,0,0,36,male div/sep,own,yes
+Arbol por defecto,730,0,0,33,male single,own,yes
+Arbol por defecto,731,1,1,21,male single,rent,yes
+Arbol por defecto,732,0,0,44,female div/dep/mar,own,yes
+Arbol por defecto,733,0,0,28,female div/dep/mar,rent,yes
+Arbol por defecto,734,0,0,37,female div/dep/mar,own,yes
+Arbol por defecto,735,0,0,29,female div/dep/mar,own,yes
+Arbol por defecto,736,1,1,23,female div/dep/mar,rent,yes
+Arbol por defecto,737,0,1,35,male single,own,yes
+Arbol por defecto,738,0,0,45,male single,own,yes
+Arbol por defecto,739,1,1,26,female div/dep/mar,rent,yes
+Arbol por defecto,740,0,1,32,male single,own,yes
+Arbol por defecto,741,0,0,23,male single,own,yes
+Arbol por defecto,742,0,0,41,male single,own,yes
+Arbol por defecto,743,0,0,22,male single,own,yes
+Arbol por defecto,744,0,0,30,male single,own,yes
+Arbol por defecto,745,0,0,28,male single,own,yes
+Arbol por defecto,746,0,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,747,1,1,37,female div/dep/mar,own,yes
+Arbol por defecto,748,0,0,26,male single,own,yes
+Arbol por defecto,749,0,0,33,male single,own,yes
+Arbol por defecto,750,0,0,49,female div/dep/mar,own,yes
+Arbol por defecto,751,1,1,23,female div/dep/mar,own,yes
+Arbol por defecto,752,0,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,753,0,0,25,female div/dep/mar,own,yes
+Arbol por defecto,754,1,0,55,male single,for free,yes
+Arbol por defecto,755,1,1,32,female div/dep/mar,rent,yes
+Arbol por defecto,756,0,0,74,male single,own,no
+Arbol por defecto,757,1,0,39,male single,for free,yes
+Arbol por defecto,758,0,1,31,male single,own,yes
+Arbol por defecto,759,1,0,35,male single,own,yes
+Arbol por defecto,760,0,0,59,female div/dep/mar,own,yes
+Arbol por defecto,761,1,1,24,female div/dep/mar,rent,yes
+Arbol por defecto,762,0,1,24,male single,own,yes
+Arbol por defecto,763,1,1,30,male single,for free,yes
+Arbol por defecto,764,0,0,27,male mar/wid,own,yes
+Arbol por defecto,765,0,0,40,male mar/wid,own,yes
+Arbol por defecto,766,1,1,31,male div/sep,own,yes
+Arbol por defecto,767,0,0,31,female div/dep/mar,rent,yes
+Arbol por defecto,768,0,0,28,male single,rent,yes
+Arbol por defecto,769,0,0,63,male single,own,yes
+Arbol por defecto,770,0,0,26,female div/dep/mar,rent,yes
+Arbol por defecto,771,1,1,25,female div/dep/mar,own,yes
+Arbol por defecto,772,0,0,36,male single,own,yes
+Arbol por defecto,773,0,0,52,male single,own,yes
+Arbol por defecto,774,0,0,66,male single,for free,yes
+Arbol por defecto,775,1,1,25,female div/dep/mar,rent,yes
+Arbol por defecto,776,0,0,37,male single,own,yes
+Arbol por defecto,777,0,0,25,female div/dep/mar,own,yes
+Arbol por defecto,778,0,0,38,male single,own,yes
+Arbol por defecto,779,0,0,67,female div/dep/mar,own,yes
+Arbol por defecto,780,1,0,25,male single,own,yes
+Arbol por defecto,781,0,0,60,male single,own,yes
+Arbol por defecto,782,0,1,31,male single,own,yes
+Arbol por defecto,783,1,1,23,female div/dep/mar,own,yes
+Arbol por defecto,784,0,1,60,male div/sep,own,yes
+Arbol por defecto,785,0,1,35,male single,own,yes
+Arbol por defecto,786,0,0,40,male single,own,yes
+Arbol por defecto,787,0,0,38,male single,own,yes
+Arbol por defecto,788,1,1,50,male single,for free,yes
+Arbol por defecto,789,1,0,27,male single,own,yes
+Arbol por defecto,790,1,0,39,female div/dep/mar,own,yes
+Arbol por defecto,791,0,0,41,male single,own,yes
+Arbol por defecto,792,0,0,27,male mar/wid,own,yes
+Arbol por defecto,793,0,0,51,male div/sep,for free,yes
+Arbol por defecto,794,0,0,32,male single,rent,yes
+Arbol por defecto,795,0,0,22,female div/dep/mar,rent,yes
+Arbol por defecto,796,1,1,51,male single,for free,yes
+Arbol por defecto,797,0,0,22,female div/dep/mar,rent,yes
+Arbol por defecto,798,0,0,54,male mar/wid,own,yes
+Arbol por defecto,799,0,0,35,male single,own,yes
+Arbol por defecto,800,0,0,54,male single,for free,yes
+Arbol por defecto,801,0,0,48,female div/dep/mar,rent,yes
+Arbol por defecto,802,0,0,24,female div/dep/mar,own,yes
+Arbol por defecto,803,0,0,35,male single,own,yes
+Arbol por defecto,804,0,0,24,female div/dep/mar,rent,yes
+Arbol por defecto,805,1,1,24,male single,own,yes
+Arbol por defecto,806,0,0,26,male mar/wid,own,no
+Arbol por defecto,807,0,0,65,male single,own,yes
+Arbol por defecto,808,0,1,55,male single,for free,yes
+Arbol por defecto,809,1,1,26,female div/dep/mar,rent,yes
+Arbol por defecto,810,0,0,26,male mar/wid,own,yes
+Arbol por defecto,811,0,0,28,male mar/wid,own,yes
+Arbol por defecto,812,1,1,24,male single,own,yes
+Arbol por defecto,813,1,1,54,male single,own,yes
+Arbol por defecto,814,1,1,46,male single,for free,yes
+Arbol por defecto,815,0,1,54,female div/dep/mar,rent,yes
+Arbol por defecto,816,0,0,62,male div/sep,own,yes
+Arbol por defecto,817,0,0,24,female div/dep/mar,rent,yes
+Arbol por defecto,818,0,1,43,male div/sep,own,yes
+Arbol por defecto,819,1,1,26,male mar/wid,own,yes
+Arbol por defecto,820,0,0,27,male mar/wid,own,yes
+Arbol por defecto,821,0,0,24,male mar/wid,own,yes
+Arbol por defecto,822,1,0,41,male single,own,yes
+Arbol por defecto,823,0,0,47,male single,own,yes
+Arbol por defecto,824,0,0,35,male div/sep,own,yes
+Arbol por defecto,825,0,0,30,male mar/wid,own,yes
+Arbol por defecto,826,1,0,33,female div/dep/mar,rent,yes
+Arbol por defecto,827,1,0,36,male single,own,yes
+Arbol por defecto,828,1,1,47,male single,for free,yes
+Arbol por defecto,829,0,0,38,male single,for free,yes
+Arbol por defecto,830,0,1,44,male single,own,yes
+Arbol por defecto,831,1,1,23,female div/dep/mar,rent,yes
+Arbol por defecto,832,1,0,29,male single,rent,yes
+Arbol por defecto,833,0,0,42,female div/dep/mar,own,yes
+Arbol por defecto,834,1,0,25,female div/dep/mar,own,yes
+Arbol por defecto,835,1,1,48,male single,own,yes
+Arbol por defecto,836,0,0,21,female div/dep/mar,own,yes
+Arbol por defecto,837,0,0,23,female div/dep/mar,rent,yes
+Arbol por defecto,838,0,0,63,male single,own,yes
+Arbol por defecto,839,0,0,46,male mar/wid,own,yes
+Arbol por defecto,840,1,1,29,male single,own,yes
+Arbol por defecto,841,0,0,28,male single,own,yes
+Arbol por defecto,842,1,0,23,female div/dep/mar,own,yes
+Arbol por defecto,843,0,1,50,male single,own,yes
+Arbol por defecto,844,0,0,47,male single,own,yes
+Arbol por defecto,845,0,0,35,male single,own,yes
+Arbol por defecto,846,1,1,68,male single,rent,yes
+Arbol por defecto,847,0,0,28,male mar/wid,own,yes
+Arbol por defecto,848,0,1,59,male single,own,yes
+Arbol por defecto,849,1,1,57,male single,own,yes
+Arbol por defecto,850,1,0,33,male mar/wid,rent,no
+Arbol por defecto,851,0,0,43,male single,own,yes
+Arbol por defecto,852,0,0,35,male single,for free,yes
+Arbol por defecto,853,1,1,32,male single,for free,yes
+Arbol por defecto,854,0,0,45,male single,own,yes
+Arbol por defecto,855,0,0,33,male mar/wid,own,yes
+Arbol por defecto,856,0,0,40,female div/dep/mar,own,yes
+Arbol por defecto,857,0,0,28,male single,for free,yes
+Arbol por defecto,858,1,1,29,female div/dep/mar,own,yes
+Arbol por defecto,859,0,0,26,male single,rent,no
+Arbol por defecto,860,0,0,27,male single,own,yes
+Arbol por defecto,861,1,0,28,male mar/wid,own,yes
+Arbol por defecto,862,1,1,35,female div/dep/mar,own,yes
+Arbol por defecto,863,0,0,32,male single,own,yes
+Arbol por defecto,864,1,0,25,male single,rent,yes
+Arbol por defecto,865,0,0,20,female div/dep/mar,rent,yes
+Arbol por defecto,866,0,1,27,female div/dep/mar,own,yes
+Arbol por defecto,867,0,0,42,male single,own,yes
+Arbol por defecto,868,0,1,37,male single,own,yes
+Arbol por defecto,869,0,1,24,female div/dep/mar,rent,yes
+Arbol por defecto,870,0,0,40,female div/dep/mar,own,yes
+Arbol por defecto,871,0,0,46,male single,own,no
+Arbol por defecto,872,0,0,26,male single,own,yes
+Arbol por defecto,873,0,0,24,female div/dep/mar,own,yes
+Arbol por defecto,874,0,1,29,male single,own,yes
+Arbol por defecto,875,0,0,40,female div/dep/mar,own,yes
+Arbol por defecto,876,0,1,36,male single,for free,yes
+Arbol por defecto,877,0,0,28,male single,own,yes
+Arbol por defecto,878,1,0,27,male single,for free,yes
+Arbol por defecto,879,0,0,36,male single,own,yes
+Arbol por defecto,880,0,0,38,male single,own,yes
+Arbol por defecto,881,0,0,48,male div/sep,for free,yes
+Arbol por defecto,882,0,1,36,male single,own,yes
+Arbol por defecto,883,0,0,65,female div/dep/mar,own,yes
+Arbol por defecto,884,1,1,43,male div/sep,own,yes
+Arbol por defecto,885,1,1,53,female div/dep/mar,own,yes
+Arbol por defecto,886,0,0,34,male single,own,yes
+Arbol por defecto,887,1,1,23,male single,own,yes
+Arbol por defecto,888,0,0,34,male single,own,yes
+Arbol por defecto,889,0,1,40,male single,rent,yes
+Arbol por defecto,890,0,0,43,male single,own,yes
+Arbol por defecto,891,0,0,46,male single,own,yes
+Arbol por defecto,892,0,0,38,male single,own,no
+Arbol por defecto,893,0,1,34,male single,own,yes
+Arbol por defecto,894,0,0,29,male single,own,yes
+Arbol por defecto,895,0,0,31,male single,own,yes
+Arbol por defecto,896,0,1,28,female div/dep/mar,rent,yes
+Arbol por defecto,897,0,0,35,female div/dep/mar,own,no
+Arbol por defecto,898,0,0,33,female div/dep/mar,rent,yes
+Arbol por defecto,899,1,0,42,male single,own,yes
+Arbol por defecto,900,1,0,43,male single,rent,yes
+Arbol por defecto,901,0,0,44,male div/sep,own,yes
+Arbol por defecto,902,0,0,42,male single,for free,yes
+Arbol por defecto,903,0,0,40,male mar/wid,rent,yes
+Arbol por defecto,904,0,0,36,male single,own,yes
+Arbol por defecto,905,0,0,20,male single,rent,yes
+Arbol por defecto,906,0,0,24,male single,own,no
+Arbol por defecto,907,0,0,27,male mar/wid,own,yes
+Arbol por defecto,908,0,0,46,female div/dep/mar,own,yes
+Arbol por defecto,909,0,0,33,female div/dep/mar,own,yes
+Arbol por defecto,910,0,1,34,female div/dep/mar,own,yes
+Arbol por defecto,911,1,1,25,female div/dep/mar,own,yes
+Arbol por defecto,912,0,0,25,female div/dep/mar,own,yes
+Arbol por defecto,913,0,1,28,male div/sep,own,yes
+Arbol por defecto,914,1,1,31,male single,rent,yes
+Arbol por defecto,915,1,1,32,female div/dep/mar,own,no
+Arbol por defecto,916,0,0,32,male single,own,yes
+Arbol por defecto,917,1,0,68,male single,own,yes
+Arbol por defecto,918,1,0,33,male div/sep,own,yes
+Arbol por defecto,919,1,1,39,male single,rent,yes
+Arbol por defecto,920,0,0,28,female div/dep/mar,own,yes
+Arbol por defecto,921,0,0,37,male single,own,yes
+Arbol por defecto,922,1,0,22,female div/dep/mar,rent,yes
+Arbol por defecto,923,0,0,30,male single,rent,yes
+Arbol por defecto,924,1,1,55,male div/sep,own,yes
+Arbol por defecto,925,1,1,46,male single,own,yes
+Arbol por defecto,926,0,1,21,female div/dep/mar,rent,yes
+Arbol por defecto,927,1,0,39,male single,for free,yes
+Arbol por defecto,928,0,1,58,male single,own,yes
+Arbol por defecto,929,0,0,43,male single,own,yes
+Arbol por defecto,930,0,1,24,male single,own,no
+Arbol por defecto,931,1,0,22,female div/dep/mar,own,yes
+Arbol por defecto,932,0,0,30,male single,own,yes
+Arbol por defecto,933,0,0,42,male single,own,yes
+Arbol por defecto,934,0,1,23,female div/dep/mar,own,yes
+Arbol por defecto,935,1,1,30,male single,own,yes
+Arbol por defecto,936,1,0,28,female div/dep/mar,own,yes
+Arbol por defecto,937,0,0,30,male mar/wid,rent,yes
+Arbol por defecto,938,1,1,42,male single,for free,yes
+Arbol por defecto,939,0,0,46,male single,own,yes
+Arbol por defecto,940,0,0,45,male single,own,yes
+Arbol por defecto,941,0,0,31,male single,own,no
+Arbol por defecto,942,0,0,31,male single,own,yes
+Arbol por defecto,943,0,0,42,male single,own,yes
+Arbol por defecto,944,0,0,46,female div/dep/mar,rent,yes
+Arbol por defecto,945,0,1,30,female div/dep/mar,own,yes
+Arbol por defecto,946,1,1,30,male single,for free,yes
+Arbol por defecto,947,0,1,38,male single,own,yes
+Arbol por defecto,948,1,0,43,male mar/wid,own,yes
+Arbol por defecto,949,1,0,31,male single,own,yes
+Arbol por defecto,950,0,0,40,male mar/wid,own,yes
+Arbol por defecto,951,1,1,24,male single,own,yes
+Arbol por defecto,952,1,0,28,female div/dep/mar,rent,yes
+Arbol por defecto,953,1,0,26,female div/dep/mar,own,yes
+Arbol por defecto,954,0,0,29,female div/dep/mar,own,yes
+Arbol por defecto,955,0,0,57,female div/dep/mar,rent,yes
+Arbol por defecto,956,0,0,49,male single,own,yes
+Arbol por defecto,957,0,0,37,male single,own,yes
+Arbol por defecto,958,1,1,45,male single,own,yes
+Arbol por defecto,959,0,0,30,male single,for free,yes
+Arbol por defecto,960,0,0,30,male mar/wid,rent,yes
+Arbol por defecto,961,0,0,47,male div/sep,own,yes
+Arbol por defecto,962,0,0,29,male single,own,yes
+Arbol por defecto,963,1,0,35,male single,own,yes
+Arbol por defecto,964,0,0,22,male mar/wid,own,yes
+Arbol por defecto,965,0,0,26,female div/dep/mar,own,yes
+Arbol por defecto,966,1,0,23,male single,own,yes
+Arbol por defecto,967,0,0,54,female div/dep/mar,rent,yes
+Arbol por defecto,968,0,0,29,male mar/wid,rent,yes
+Arbol por defecto,969,0,0,40,male single,own,yes
+Arbol por defecto,970,0,0,22,male single,own,yes
+Arbol por defecto,971,0,0,43,male single,own,yes
+Arbol por defecto,972,1,1,29,female div/dep/mar,rent,yes
+Arbol por defecto,973,1,1,36,male single,rent,yes
+Arbol por defecto,974,0,0,33,female div/dep/mar,own,yes
+Arbol por defecto,975,0,1,57,female div/dep/mar,own,yes
+Arbol por defecto,976,0,0,64,female div/dep/mar,own,yes
+Arbol por defecto,977,0,0,42,male single,own,yes
+Arbol por defecto,978,1,1,47,male single,own,yes
+Arbol por defecto,979,1,1,25,male mar/wid,rent,yes
+Arbol por defecto,980,1,1,49,male single,own,yes
+Arbol por defecto,981,1,0,33,male single,rent,yes
+Arbol por defecto,982,0,1,28,female div/dep/mar,own,yes
+Arbol por defecto,983,1,0,26,male single,own,yes
+Arbol por defecto,984,0,0,30,male single,own,yes
+Arbol por defecto,985,0,1,25,female div/dep/mar,rent,yes
+Arbol por defecto,986,0,1,33,male div/sep,own,yes
+Arbol por defecto,987,0,0,64,female div/dep/mar,own,yes
+Arbol por defecto,988,0,0,29,male single,for free,yes
+Arbol por defecto,989,0,0,48,male single,own,yes
+Arbol por defecto,990,0,0,37,male single,own,yes
+Arbol por defecto,991,0,0,34,male single,own,yes
+Arbol por defecto,992,0,0,23,male mar/wid,rent,yes
+Arbol por defecto,993,0,1,30,male single,own,yes
+Arbol por defecto,994,0,0,50,male single,own,yes
+Arbol por defecto,995,0,0,31,female div/dep/mar,own,yes
+Arbol por defecto,996,0,0,40,male div/sep,own,yes
+Arbol por defecto,997,0,0,38,male single,own,yes
+Arbol por defecto,998,1,1,23,male single,for free,yes
+Arbol por defecto,999,0,1,27,male single,own,yes
+Arbol afinado,0,0,0,67,male single,own,yes
+Arbol afinado,1,1,1,22,female div/dep/mar,own,yes
+Arbol afinado,2,0,0,49,male single,own,yes
+Arbol afinado,3,0,1,45,male single,for free,yes
+Arbol afinado,4,1,1,53,male single,for free,yes
+Arbol afinado,5,0,0,35,male single,for free,yes
+Arbol afinado,6,0,0,53,male single,own,yes
+Arbol afinado,7,0,1,35,male single,rent,yes
+Arbol afinado,8,0,0,61,male div/sep,own,yes
+Arbol afinado,9,1,1,28,male mar/wid,own,yes
+Arbol afinado,10,1,0,25,female div/dep/mar,rent,yes
+Arbol afinado,11,1,1,24,female div/dep/mar,rent,yes
+Arbol afinado,12,0,1,22,female div/dep/mar,own,yes
+Arbol afinado,13,1,1,60,male single,own,yes
+Arbol afinado,14,0,1,28,female div/dep/mar,rent,yes
+Arbol afinado,15,1,1,32,female div/dep/mar,own,yes
+Arbol afinado,16,0,0,53,male single,own,yes
+Arbol afinado,17,0,0,25,male single,own,yes
+Arbol afinado,18,1,1,44,female div/dep/mar,for free,yes
+Arbol afinado,19,0,0,31,male single,own,yes
+Arbol afinado,20,0,0,48,male single,own,yes
+Arbol afinado,21,0,0,44,male single,rent,yes
+Arbol afinado,22,0,0,48,male single,rent,no
+Arbol afinado,23,0,1,44,male single,own,yes
+Arbol afinado,24,0,0,26,male mar/wid,own,no
+Arbol afinado,25,0,1,36,male single,own,yes
+Arbol afinado,26,0,0,39,male mar/wid,own,yes
+Arbol afinado,27,0,0,42,female div/dep/mar,rent,yes
+Arbol afinado,28,0,0,34,male single,own,yes
+Arbol afinado,29,1,1,63,male single,own,yes
+Arbol afinado,30,0,1,36,male mar/wid,own,yes
+Arbol afinado,31,0,1,27,male single,own,yes
+Arbol afinado,32,0,1,30,male single,own,yes
+Arbol afinado,33,0,0,57,male single,rent,yes
+Arbol afinado,34,0,0,33,female div/dep/mar,own,yes
+Arbol afinado,35,1,1,25,male single,own,yes
+Arbol afinado,36,0,1,31,male single,for free,yes
+Arbol afinado,37,1,0,37,male single,own,yes
+Arbol afinado,38,0,0,37,male single,own,yes
+Arbol afinado,39,0,0,24,male single,own,yes
+Arbol afinado,40,0,1,30,male single,own,yes
+Arbol afinado,41,0,1,26,male div/sep,own,yes
+Arbol afinado,42,0,0,44,male single,own,yes
+Arbol afinado,43,0,1,24,male mar/wid,rent,yes
+Arbol afinado,44,1,1,58,female div/dep/mar,for free,yes
+Arbol afinado,45,0,0,35,female div/dep/mar,own,yes
+Arbol afinado,46,0,0,39,male single,own,yes
+Arbol afinado,47,0,1,23,female div/dep/mar,rent,yes
+Arbol afinado,48,0,0,39,male single,own,yes
+Arbol afinado,49,0,0,28,female div/dep/mar,own,yes
+Arbol afinado,50,0,0,29,male single,own,yes
+Arbol afinado,51,0,1,30,male single,own,yes
+Arbol afinado,52,0,0,25,male single,own,yes
+Arbol afinado,53,0,0,31,male single,own,yes
+Arbol afinado,54,1,1,57,male single,for free,yes
+Arbol afinado,55,0,0,26,male single,own,yes
+Arbol afinado,56,1,0,52,male single,own,yes
+Arbol afinado,57,0,0,31,female div/dep/mar,own,yes
+Arbol afinado,58,0,0,23,female div/dep/mar,own,yes
+Arbol afinado,59,1,1,23,female div/dep/mar,rent,yes
+Arbol afinado,60,0,0,27,male mar/wid,own,yes
+Arbol afinado,61,0,1,50,male single,own,yes
+Arbol afinado,62,1,1,61,male single,for free,yes
+Arbol afinado,63,1,1,25,male single,own,yes
+Arbol afinado,64,0,0,26,female div/dep/mar,own,yes
+Arbol afinado,65,0,0,48,male single,own,yes
+Arbol afinado,66,0,0,29,female div/dep/mar,own,yes
+Arbol afinado,67,0,1,22,male mar/wid,own,yes
+Arbol afinado,68,1,0,37,male single,for free,yes
+Arbol afinado,69,0,0,25,female div/dep/mar,own,yes
+Arbol afinado,70,0,0,30,female div/dep/mar,own,yes
+Arbol afinado,71,0,0,46,male single,rent,yes
+Arbol afinado,72,0,1,51,male single,for free,yes
+Arbol afinado,73,0,1,41,female div/dep/mar,own,yes
+Arbol afinado,74,1,1,40,male single,own,yes
+Arbol afinado,75,0,1,66,male single,for free,yes
+Arbol afinado,76,1,1,34,male single,own,yes
+Arbol afinado,77,0,1,51,male single,own,yes
+Arbol afinado,78,0,0,39,male single,own,yes
+Arbol afinado,79,0,1,22,male mar/wid,own,yes
+Arbol afinado,80,1,0,44,female div/dep/mar,own,yes
+Arbol afinado,81,0,0,47,male single,own,yes
+Arbol afinado,82,0,0,24,female div/dep/mar,rent,yes
+Arbol afinado,83,0,1,58,female div/dep/mar,own,yes
+Arbol afinado,84,0,0,52,male single,own,yes
+Arbol afinado,85,0,0,29,female div/dep/mar,own,yes
+Arbol afinado,86,0,0,27,female div/dep/mar,own,yes
+Arbol afinado,87,1,1,47,male single,for free,yes
+Arbol afinado,88,0,1,30,male single,own,yes
+Arbol afinado,89,1,1,28,male single,own,yes
+Arbol afinado,90,0,0,56,male single,own,yes
+Arbol afinado,91,0,1,54,male single,own,yes
+Arbol afinado,92,1,0,33,female div/dep/mar,own,yes
+Arbol afinado,93,0,0,20,male single,rent,yes
+Arbol afinado,94,0,1,54,male single,own,yes
+Arbol afinado,95,1,1,58,male single,rent,yes
+Arbol afinado,96,0,0,61,female div/dep/mar,own,yes
+Arbol afinado,97,0,1,34,male single,own,yes
+Arbol afinado,98,0,1,36,male single,own,yes
+Arbol afinado,99,0,0,36,male single,rent,yes
+Arbol afinado,100,0,0,41,male mar/wid,rent,yes
+Arbol afinado,101,0,1,24,male single,rent,yes
+Arbol afinado,102,0,0,24,female div/dep/mar,own,yes
+Arbol afinado,103,0,1,35,male single,rent,yes
+Arbol afinado,104,0,0,26,male mar/wid,rent,yes
+Arbol afinado,105,1,1,39,male single,own,yes
+Arbol afinado,106,1,0,39,male single,own,yes
+Arbol afinado,107,0,1,32,male single,own,yes
+Arbol afinado,108,0,1,30,female div/dep/mar,own,no
+Arbol afinado,109,0,1,35,male mar/wid,own,yes
+Arbol afinado,110,0,1,31,male div/sep,own,yes
+Arbol afinado,111,0,0,23,female div/dep/mar,rent,yes
+Arbol afinado,112,0,1,28,male single,rent,yes
+Arbol afinado,113,1,0,25,female div/dep/mar,own,yes
+Arbol afinado,114,0,1,35,male mar/wid,own,yes
+Arbol afinado,115,0,0,47,male single,own,yes
+Arbol afinado,116,1,0,30,female div/dep/mar,own,yes
+Arbol afinado,117,0,0,27,female div/dep/mar,rent,no
+Arbol afinado,118,1,1,23,female div/dep/mar,own,yes
+Arbol afinado,119,0,1,36,male div/sep,own,yes
+Arbol afinado,120,1,1,25,female div/dep/mar,own,yes
+Arbol afinado,121,0,0,41,female div/dep/mar,rent,yes
+Arbol afinado,122,0,0,24,male single,rent,yes
+Arbol afinado,123,0,0,63,male single,for free,yes
+Arbol afinado,124,1,0,27,female div/dep/mar,rent,yes
+Arbol afinado,125,0,1,30,male single,own,yes
+Arbol afinado,126,0,1,40,male mar/wid,own,yes
+Arbol afinado,127,1,0,30,male single,own,yes
+Arbol afinado,128,0,0,34,male single,own,yes
+Arbol afinado,129,1,1,29,female div/dep/mar,own,yes
+Arbol afinado,130,0,0,24,female div/dep/mar,own,yes
+Arbol afinado,131,1,1,29,male single,own,yes
+Arbol afinado,132,0,0,27,male single,own,yes
+Arbol afinado,133,0,1,47,male single,for free,yes
+Arbol afinado,134,0,0,21,female div/dep/mar,own,yes
+Arbol afinado,135,0,0,38,female div/dep/mar,own,yes
+Arbol afinado,136,0,0,27,male single,own,yes
+Arbol afinado,137,1,1,66,male single,own,yes
+Arbol afinado,138,0,1,35,male single,own,yes
+Arbol afinado,139,0,0,44,female div/dep/mar,rent,yes
+Arbol afinado,140,0,0,27,male mar/wid,own,no
+Arbol afinado,141,0,1,30,female div/dep/mar,own,yes
+Arbol afinado,142,0,1,27,male single,own,yes
+Arbol afinado,143,1,1,22,male single,own,yes
+Arbol afinado,144,0,0,23,female div/dep/mar,own,yes
+Arbol afinado,145,0,1,30,male single,own,yes
+Arbol afinado,146,0,1,39,female div/dep/mar,own,yes
+Arbol afinado,147,0,0,51,female div/dep/mar,own,yes
+Arbol afinado,148,0,1,28,male single,own,yes
+Arbol afinado,149,0,0,46,male single,own,yes
+Arbol afinado,150,0,0,42,male single,for free,yes
+Arbol afinado,151,0,0,38,male single,own,no
+Arbol afinado,152,0,0,24,male single,own,yes
+Arbol afinado,153,0,0,29,female div/dep/mar,rent,yes
+Arbol afinado,154,0,1,36,male single,rent,yes
+Arbol afinado,155,1,1,20,female div/dep/mar,rent,yes
+Arbol afinado,156,0,0,48,male single,own,no
+Arbol afinado,157,0,1,45,male mar/wid,own,yes
+Arbol afinado,158,0,1,38,male single,own,yes
+Arbol afinado,159,0,0,34,male single,own,yes
+Arbol afinado,160,0,0,36,male single,own,yes
+Arbol afinado,161,0,0,30,female div/dep/mar,own,yes
+Arbol afinado,162,0,0,36,male single,own,yes
+Arbol afinado,163,0,1,70,male single,for free,yes
+Arbol afinado,164,0,0,36,male single,own,yes
+Arbol afinado,165,0,0,32,male single,own,yes
+Arbol afinado,166,1,1,33,female div/dep/mar,own,yes
+Arbol afinado,167,0,0,20,female div/dep/mar,own,yes
+Arbol afinado,168,0,0,25,female div/dep/mar,rent,yes
+Arbol afinado,169,1,1,31,male div/sep,own,yes
+Arbol afinado,170,1,1,33,male single,rent,yes
+Arbol afinado,171,0,0,26,female div/dep/mar,own,yes
+Arbol afinado,172,1,1,34,female div/dep/mar,own,yes
+Arbol afinado,173,0,0,33,male single,own,no
+Arbol afinado,174,1,1,26,male single,own,yes
+Arbol afinado,175,1,1,53,female div/dep/mar,own,yes
+Arbol afinado,176,0,1,42,male div/sep,own,yes
+Arbol afinado,177,0,1,52,male single,own,yes
+Arbol afinado,178,0,0,31,male single,rent,yes
+Arbol afinado,179,0,1,65,male single,own,yes
+Arbol afinado,180,1,0,28,male div/sep,own,yes
+Arbol afinado,181,1,1,30,male div/sep,own,yes
+Arbol afinado,182,1,1,40,male single,own,yes
+Arbol afinado,183,0,0,50,male single,own,yes
+Arbol afinado,184,1,1,36,male single,own,yes
+Arbol afinado,185,0,0,31,male single,own,yes
+Arbol afinado,186,1,0,74,female div/dep/mar,for free,yes
+Arbol afinado,187,0,1,68,male single,for free,yes
+Arbol afinado,188,1,1,20,male mar/wid,own,yes
+Arbol afinado,189,0,1,33,female div/dep/mar,own,yes
+Arbol afinado,190,1,0,54,male single,own,yes
+Arbol afinado,191,1,1,34,male single,for free,yes
+Arbol afinado,192,1,1,36,male single,own,yes
+Arbol afinado,193,0,0,29,male mar/wid,rent,yes
+Arbol afinado,194,1,1,21,male single,rent,yes
+Arbol afinado,195,1,0,34,female div/dep/mar,own,yes
+Arbol afinado,196,0,0,28,female div/dep/mar,own,yes
+Arbol afinado,197,1,1,27,female div/dep/mar,rent,yes
+Arbol afinado,198,0,1,36,male single,for free,yes
+Arbol afinado,199,1,1,40,male div/sep,own,yes
+Arbol afinado,200,0,0,52,male single,own,yes
+Arbol afinado,201,0,1,27,male mar/wid,own,yes
+Arbol afinado,202,0,1,26,male single,own,yes
+Arbol afinado,203,1,1,21,male mar/wid,rent,yes
+Arbol afinado,204,0,0,38,male single,own,yes
+Arbol afinado,205,0,1,38,male single,for free,yes
+Arbol afinado,206,0,0,43,male single,own,yes
+Arbol afinado,207,0,1,26,male single,own,yes
+Arbol afinado,208,0,1,21,male mar/wid,own,yes
+Arbol afinado,209,0,0,55,male single,own,no
+Arbol afinado,210,0,0,33,male single,own,yes
+Arbol afinado,211,0,0,45,female div/dep/mar,own,yes
+Arbol afinado,212,1,1,50,male single,own,yes
+Arbol afinado,213,1,0,66,male single,own,yes
+Arbol afinado,214,0,0,51,male single,own,yes
+Arbol afinado,215,0,1,39,female div/dep/mar,own,yes
+Arbol afinado,216,0,1,31,male single,own,yes
+Arbol afinado,217,0,0,23,male single,own,yes
+Arbol afinado,218,0,1,24,male div/sep,rent,yes
+Arbol afinado,219,0,0,64,female div/dep/mar,own,yes
+Arbol afinado,220,0,1,26,male mar/wid,own,yes
+Arbol afinado,221,0,1,23,female div/dep/mar,rent,yes
+Arbol afinado,222,0,0,30,male single,own,yes
+Arbol afinado,223,0,0,32,male single,own,yes
+Arbol afinado,224,0,0,30,male single,own,yes
+Arbol afinado,225,0,0,27,male single,own,yes
+Arbol afinado,226,1,1,27,male single,own,yes
+Arbol afinado,227,1,1,53,male single,for free,yes
+Arbol afinado,228,1,0,22,male single,own,yes
+Arbol afinado,229,0,1,22,male single,for free,yes
+Arbol afinado,230,1,0,26,male single,own,yes
+Arbol afinado,231,0,0,51,male single,for free,yes
+Arbol afinado,232,0,0,35,male single,own,yes
+Arbol afinado,233,0,1,25,male mar/wid,own,yes
+Arbol afinado,234,0,0,42,male single,own,yes
+Arbol afinado,235,1,1,30,male single,own,yes
+Arbol afinado,236,1,0,23,male single,own,yes
+Arbol afinado,237,1,0,61,male div/sep,rent,yes
+Arbol afinado,238,0,0,35,female div/dep/mar,own,yes
+Arbol afinado,239,0,1,39,male single,own,yes
+Arbol afinado,240,1,1,29,female div/dep/mar,own,yes
+Arbol afinado,241,0,0,51,male single,own,yes
+Arbol afinado,242,1,1,24,male single,for free,yes
+Arbol afinado,243,0,0,27,female div/dep/mar,own,yes
+Arbol afinado,244,0,0,35,female div/dep/mar,own,yes
+Arbol afinado,245,0,0,25,male single,own,yes
+Arbol afinado,246,0,0,52,male single,own,yes
+Arbol afinado,247,0,1,35,male single,rent,no
+Arbol afinado,248,0,0,26,male single,own,yes
+Arbol afinado,249,1,0,22,female div/dep/mar,rent,yes
+Arbol afinado,250,0,0,39,female div/dep/mar,own,yes
+Arbol afinado,251,0,0,46,female div/dep/mar,own,yes
+Arbol afinado,252,1,1,24,female div/dep/mar,own,yes
+Arbol afinado,253,0,0,35,male single,own,yes
+Arbol afinado,254,0,1,24,male single,own,yes
+Arbol afinado,255,0,0,27,male single,own,yes
+Arbol afinado,256,0,0,35,male single,own,yes
+Arbol afinado,257,1,1,29,male div/sep,for free,yes
+Arbol afinado,258,0,0,23,female div/dep/mar,own,yes
+Arbol afinado,259,0,0,57,female div/dep/mar,own,yes
+Arbol afinado,260,0,1,27,male single,own,yes
+Arbol afinado,261,0,1,55,female div/dep/mar,own,yes
+Arbol afinado,262,0,1,36,male single,for free,yes
+Arbol afinado,263,0,0,57,female div/dep/mar,for free,yes
+Arbol afinado,264,0,0,32,male single,own,no
+Arbol afinado,265,1,1,37,male single,own,yes
+Arbol afinado,266,0,0,36,male single,own,yes
+Arbol afinado,267,0,0,38,female div/dep/mar,own,yes
+Arbol afinado,268,1,1,45,male div/sep,own,no
+Arbol afinado,269,0,0,25,male single,own,yes
+Arbol afinado,270,0,0,32,male single,own,no
+Arbol afinado,271,0,0,37,female div/dep/mar,rent,yes
+Arbol afinado,272,0,1,36,male single,for free,yes
+Arbol afinado,273,1,1,28,male single,own,yes
+Arbol afinado,274,1,1,34,male div/sep,own,yes
+Arbol afinado,275,0,0,32,male single,own,yes
+Arbol afinado,276,0,0,26,female div/dep/mar,own,yes
+Arbol afinado,277,0,1,49,male div/sep,own,yes
+Arbol afinado,278,1,0,32,female div/dep/mar,own,yes
+Arbol afinado,279,0,0,29,male single,rent,yes
+Arbol afinado,280,0,0,23,male single,rent,yes
+Arbol afinado,281,0,0,50,male single,own,yes
+Arbol afinado,282,0,1,49,male single,own,yes
+Arbol afinado,283,0,0,63,male single,own,yes
+Arbol afinado,284,0,1,37,male div/sep,own,yes
+Arbol afinado,285,0,1,35,female div/dep/mar,own,yes
+Arbol afinado,286,0,1,26,male single,own,yes
+Arbol afinado,287,0,1,31,male single,for free,yes
+Arbol afinado,288,0,1,49,female div/dep/mar,own,yes
+Arbol afinado,289,1,1,48,male mar/wid,own,yes
+Arbol afinado,290,0,0,26,male mar/wid,own,no
+Arbol afinado,291,1,1,28,male mar/wid,rent,yes
+Arbol afinado,292,0,1,44,female div/dep/mar,for free,yes
+Arbol afinado,293,0,0,56,male single,for free,yes
+Arbol afinado,294,0,1,46,male div/sep,own,yes
+Arbol afinado,295,1,1,26,female div/dep/mar,own,yes
+Arbol afinado,296,0,0,20,female div/dep/mar,rent,yes
+Arbol afinado,297,0,0,45,male single,own,no
+Arbol afinado,298,0,0,43,male single,own,yes
+Arbol afinado,299,0,0,32,male single,own,yes
+Arbol afinado,300,0,0,54,female div/dep/mar,own,yes
+Arbol afinado,301,1,1,42,female div/dep/mar,own,yes
+Arbol afinado,302,1,1,37,male single,own,yes
+Arbol afinado,303,0,0,49,male single,own,yes
+Arbol afinado,304,1,0,44,male single,for free,yes
+Arbol afinado,305,0,0,33,male div/sep,own,yes
+Arbol afinado,306,0,0,24,female div/dep/mar,rent,yes
+Arbol afinado,307,1,1,33,male mar/wid,own,yes
+Arbol afinado,308,1,0,24,female div/dep/mar,own,yes
+Arbol afinado,309,0,0,22,male mar/wid,rent,yes
+Arbol afinado,310,0,1,40,male single,for free,yes
+Arbol afinado,311,0,0,25,male single,own,yes
+Arbol afinado,312,0,0,26,female div/dep/mar,own,yes
+Arbol afinado,313,1,1,25,male mar/wid,own,yes
+Arbol afinado,314,0,0,29,male single,own,no
+Arbol afinado,315,1,1,31,male single,own,yes
+Arbol afinado,316,0,1,38,male single,own,yes
+Arbol afinado,317,0,0,48,female div/dep/mar,own,yes
+Arbol afinado,318,0,0,32,male single,own,yes
+Arbol afinado,319,0,1,27,female div/dep/mar,own,yes
+Arbol afinado,320,1,1,28,male mar/wid,own,yes
+Arbol afinado,321,1,1,32,male div/sep,own,yes
+Arbol afinado,322,0,1,34,male single,for free,yes
+Arbol afinado,323,0,1,28,male single,own,yes
+Arbol afinado,324,0,0,36,female div/dep/mar,own,yes
+Arbol afinado,325,0,0,39,male single,own,no
+Arbol afinado,326,0,0,49,male single,rent,yes
+Arbol afinado,327,0,0,34,female div/dep/mar,own,yes
+Arbol afinado,328,0,0,31,male single,own,yes
+Arbol afinado,329,0,1,28,male single,own,yes
+Arbol afinado,330,0,1,75,male single,for free,yes
+Arbol afinado,331,1,0,30,female div/dep/mar,own,yes
+Arbol afinado,332,1,1,24,female div/dep/mar,own,yes
+Arbol afinado,333,1,0,24,female div/dep/mar,rent,yes
+Arbol afinado,334,1,1,23,male single,rent,yes
+Arbol afinado,335,1,0,44,male div/sep,rent,yes
+Arbol afinado,336,0,1,23,female div/dep/mar,own,yes
+Arbol afinado,337,1,1,24,female div/dep/mar,rent,yes
+Arbol afinado,338,0,1,28,male single,own,yes
+Arbol afinado,339,0,1,31,male div/sep,own,yes
+Arbol afinado,340,0,1,24,female div/dep/mar,for free,yes
+Arbol afinado,341,0,1,26,female div/dep/mar,rent,yes
+Arbol afinado,342,0,1,25,male mar/wid,rent,yes
+Arbol afinado,343,0,1,33,male single,own,yes
+Arbol afinado,344,0,0,37,male single,own,yes
+Arbol afinado,345,0,0,43,female div/dep/mar,own,yes
+Arbol afinado,346,0,1,23,male single,own,yes
+Arbol afinado,347,0,1,23,female div/dep/mar,rent,yes
+Arbol afinado,348,0,0,34,male single,own,yes
+Arbol afinado,349,1,0,32,male single,for free,yes
+Arbol afinado,350,0,0,23,female div/dep/mar,rent,yes
+Arbol afinado,351,1,1,29,female div/dep/mar,own,no
+Arbol afinado,352,0,0,38,male single,own,yes
+Arbol afinado,353,1,1,28,male single,rent,yes
+Arbol afinado,354,0,0,46,male single,for free,yes
+Arbol afinado,355,1,1,23,male single,own,yes
+Arbol afinado,356,0,0,49,male single,own,yes
+Arbol afinado,357,1,0,26,male single,own,yes
+Arbol afinado,358,0,0,28,male mar/wid,own,yes
+Arbol afinado,359,1,1,23,female div/dep/mar,rent,yes
+Arbol afinado,360,0,1,61,male single,for free,yes
+Arbol afinado,361,0,0,37,male single,own,yes
+Arbol afinado,362,0,0,36,female div/dep/mar,own,yes
+Arbol afinado,363,0,0,21,male mar/wid,rent,yes
+Arbol afinado,364,1,1,25,male single,own,yes
+Arbol afinado,365,0,0,36,male single,own,yes
+Arbol afinado,366,0,0,27,male single,own,yes
+Arbol afinado,367,0,1,22,female div/dep/mar,rent,yes
+Arbol afinado,368,1,1,42,male single,own,yes
+Arbol afinado,369,0,1,40,female div/dep/mar,rent,yes
+Arbol afinado,370,0,0,36,male single,own,yes
+Arbol afinado,371,0,0,33,male single,own,yes
+Arbol afinado,372,0,0,23,female div/dep/mar,rent,yes
+Arbol afinado,373,0,0,63,male single,for free,yes
+Arbol afinado,374,1,1,60,female div/dep/mar,for free,yes
+Arbol afinado,375,1,1,37,female div/dep/mar,rent,yes
+Arbol afinado,376,0,0,34,male mar/wid,own,yes
+Arbol afinado,377,0,0,36,male single,for free,yes
+Arbol afinado,378,1,1,57,male single,for free,yes
+Arbol afinado,379,0,0,52,female div/dep/mar,own,yes
+Arbol afinado,380,0,1,39,male single,own,yes
+Arbol afinado,381,1,0,38,female div/dep/mar,for free,yes
+Arbol afinado,382,0,0,25,female div/dep/mar,rent,yes
+Arbol afinado,383,0,0,26,male single,own,yes
+Arbol afinado,384,0,0,26,male single,own,yes
+Arbol afinado,385,0,0,25,female div/dep/mar,own,yes
+Arbol afinado,386,0,0,21,female div/dep/mar,rent,yes
+Arbol afinado,387,0,1,40,male single,own,yes
+Arbol afinado,388,0,1,27,male single,own,yes
+Arbol afinado,389,0,0,27,female div/dep/mar,own,yes
+Arbol afinado,390,0,0,30,male mar/wid,own,yes
+Arbol afinado,391,0,1,19,female div/dep/mar,rent,yes
+Arbol afinado,392,0,1,39,male single,for free,yes
+Arbol afinado,393,0,1,31,female div/dep/mar,own,yes
+Arbol afinado,394,0,0,31,male single,own,yes
+Arbol afinado,395,0,1,32,male single,rent,yes
+Arbol afinado,396,0,1,55,female div/dep/mar,for free,yes
+Arbol afinado,397,0,1,46,male mar/wid,own,yes
+Arbol afinado,398,1,1,46,male div/sep,rent,yes
+Arbol afinado,399,0,0,43,female div/dep/mar,own,yes
+Arbol afinado,400,0,0,39,male mar/wid,own,yes
+Arbol afinado,401,0,0,28,male mar/wid,own,yes
+Arbol afinado,402,1,0,27,male single,own,yes
+Arbol afinado,403,0,0,27,male single,own,yes
+Arbol afinado,404,0,1,43,male single,own,yes
+Arbol afinado,405,1,1,22,male mar/wid,own,yes
+Arbol afinado,406,0,0,43,male single,own,yes
+Arbol afinado,407,0,1,27,male mar/wid,own,no
+Arbol afinado,408,0,0,26,male div/sep,own,yes
+Arbol afinado,409,1,0,28,male mar/wid,own,yes
+Arbol afinado,410,0,1,20,female div/dep/mar,own,yes
+Arbol afinado,411,0,0,35,male single,own,yes
+Arbol afinado,412,1,0,42,male single,own,yes
+Arbol afinado,413,0,0,40,male single,rent,no
+Arbol afinado,414,1,1,35,female div/dep/mar,own,yes
+Arbol afinado,415,0,0,35,male single,own,yes
+Arbol afinado,416,1,1,33,male single,own,yes
+Arbol afinado,417,0,1,23,female div/dep/mar,rent,yes
+Arbol afinado,418,0,0,31,female div/dep/mar,own,yes
+Arbol afinado,419,1,0,33,female div/dep/mar,own,yes
+Arbol afinado,420,0,0,20,female div/dep/mar,rent,yes
+Arbol afinado,421,0,1,30,male single,own,yes
+Arbol afinado,422,0,1,47,male single,own,yes
+Arbol afinado,423,0,0,34,male single,own,yes
+Arbol afinado,424,1,1,25,female div/dep/mar,own,yes
+Arbol afinado,425,0,1,21,male mar/wid,rent,yes
+Arbol afinado,426,0,0,29,male single,own,yes
+Arbol afinado,427,0,0,46,male single,own,yes
+Arbol afinado,428,0,0,20,male single,own,yes
+Arbol afinado,429,1,1,55,female div/dep/mar,for free,yes
+Arbol afinado,430,0,0,74,male single,own,yes
+Arbol afinado,431,1,1,29,male single,own,yes
+Arbol afinado,432,0,1,36,male single,for free,yes
+Arbol afinado,433,0,0,33,male div/sep,own,yes
+Arbol afinado,434,0,1,25,male single,own,yes
+Arbol afinado,435,1,1,25,male mar/wid,own,yes
+Arbol afinado,436,0,0,23,male mar/wid,rent,yes
+Arbol afinado,437,0,0,37,female div/dep/mar,own,yes
+Arbol afinado,438,0,1,65,male single,own,yes
+Arbol afinado,439,1,0,26,female div/dep/mar,own,yes
+Arbol afinado,440,0,0,39,male single,own,yes
+Arbol afinado,441,0,1,30,female div/dep/mar,own,yes
+Arbol afinado,442,0,1,29,male single,own,yes
+Arbol afinado,443,1,0,41,male single,own,yes
+Arbol afinado,444,1,1,30,female div/dep/mar,own,yes
+Arbol afinado,445,0,0,41,female div/dep/mar,rent,yes
+Arbol afinado,446,1,1,34,female div/dep/mar,own,yes
+Arbol afinado,447,0,0,35,male single,own,yes
+Arbol afinado,448,0,0,55,female div/dep/mar,own,yes
+Arbol afinado,449,1,1,61,male mar/wid,own,yes
+Arbol afinado,450,0,0,30,male single,own,yes
+Arbol afinado,451,0,0,29,female div/dep/mar,own,yes
+Arbol afinado,452,0,0,34,male single,own,yes
+Arbol afinado,453,0,0,35,male single,own,yes
+Arbol afinado,454,1,1,31,male single,own,yes
+Arbol afinado,455,0,0,29,female div/dep/mar,own,yes
+Arbol afinado,456,0,0,36,male single,rent,yes
+Arbol afinado,457,1,1,35,male single,for free,yes
+Arbol afinado,458,0,1,27,female div/dep/mar,own,yes
+Arbol afinado,459,0,0,32,male single,own,yes
+Arbol afinado,460,0,1,37,male single,own,yes
+Arbol afinado,461,0,1,36,male single,own,yes
+Arbol afinado,462,0,1,34,female div/dep/mar,rent,yes
+Arbol afinado,463,0,1,38,male single,own,yes
+Arbol afinado,464,0,0,34,male single,own,yes
+Arbol afinado,465,0,1,63,male single,own,yes
+Arbol afinado,466,1,1,29,female div/dep/mar,rent,yes
+Arbol afinado,467,0,1,32,male single,own,yes
+Arbol afinado,468,0,0,26,female div/dep/mar,own,yes
+Arbol afinado,469,0,0,35,male single,own,yes
+Arbol afinado,470,1,1,22,male mar/wid,rent,yes
+Arbol afinado,471,1,1,23,female div/dep/mar,own,yes
+Arbol afinado,472,1,0,28,male single,own,yes
+Arbol afinado,473,0,0,36,male single,own,yes
+Arbol afinado,474,1,0,33,male mar/wid,own,yes
+Arbol afinado,475,1,1,26,female div/dep/mar,rent,yes
+Arbol afinado,476,0,0,24,male single,own,yes
+Arbol afinado,477,0,1,25,male single,own,yes
+Arbol afinado,478,0,1,39,male single,own,yes
+Arbol afinado,479,0,1,44,male single,own,yes
+Arbol afinado,480,0,1,23,female div/dep/mar,own,yes
+Arbol afinado,481,0,1,26,male single,own,yes
+Arbol afinado,482,0,0,57,female div/dep/mar,rent,yes
+Arbol afinado,483,0,0,30,female div/dep/mar,own,yes
+Arbol afinado,484,0,0,44,male single,own,yes
+Arbol afinado,485,1,1,47,male single,own,yes
+Arbol afinado,486,0,0,52,male single,own,yes
+Arbol afinado,487,0,0,62,female div/dep/mar,for free,yes
+Arbol afinado,488,0,0,35,male single,rent,no
+Arbol afinado,489,0,0,26,male single,rent,yes
+Arbol afinado,490,0,0,26,male single,own,yes
+Arbol afinado,491,1,1,42,female div/dep/mar,for free,yes
+Arbol afinado,492,0,0,27,female div/dep/mar,own,yes
+Arbol afinado,493,0,1,38,male single,own,yes
+Arbol afinado,494,0,1,39,male single,rent,no
+Arbol afinado,495,1,0,20,male mar/wid,own,yes
+Arbol afinado,496,1,1,29,male single,rent,yes
+Arbol afinado,497,0,0,40,male single,own,yes
+Arbol afinado,498,0,1,32,male mar/wid,own,yes
+Arbol afinado,499,0,0,28,male div/sep,own,yes
+Arbol afinado,500,1,1,27,female div/dep/mar,own,yes
+Arbol afinado,501,0,1,42,male single,for free,yes
+Arbol afinado,502,0,0,49,male div/sep,own,yes
+Arbol afinado,503,1,1,38,male single,own,yes
+Arbol afinado,504,1,1,24,female div/dep/mar,rent,yes
+Arbol afinado,505,1,0,27,male single,own,yes
+Arbol afinado,506,0,0,36,male single,own,yes
+Arbol afinado,507,1,1,34,male single,own,yes
+Arbol afinado,508,0,0,28,male mar/wid,own,yes
+Arbol afinado,509,0,0,45,male single,own,yes
+Arbol afinado,510,1,1,26,male single,own,yes
+Arbol afinado,511,0,0,32,male single,for free,yes
+Arbol afinado,512,0,0,26,male single,rent,yes
+Arbol afinado,513,0,1,20,male mar/wid,rent,yes
+Arbol afinado,514,0,0,54,male single,own,yes
+Arbol afinado,515,0,1,37,female div/dep/mar,own,no
+Arbol afinado,516,0,0,40,male single,own,no
+Arbol afinado,517,1,0,23,female div/dep/mar,rent,yes
+Arbol afinado,518,0,1,43,male single,own,yes
+Arbol afinado,519,0,0,36,male single,for free,yes
+Arbol afinado,520,0,0,44,male single,for free,yes
+Arbol afinado,521,1,1,24,female div/dep/mar,own,yes
+Arbol afinado,522,1,1,53,male single,for free,yes
+Arbol afinado,523,0,0,23,female div/dep/mar,own,yes
+Arbol afinado,524,0,1,26,female div/dep/mar,own,yes
+Arbol afinado,525,0,1,30,male single,own,yes
+Arbol afinado,526,0,0,31,female div/dep/mar,own,yes
+Arbol afinado,527,0,0,42,male single,own,yes
+Arbol afinado,528,1,1,31,male div/sep,rent,yes
+Arbol afinado,529,0,0,41,male single,own,yes
+Arbol afinado,530,0,1,32,male single,own,yes
+Arbol afinado,531,1,0,28,female div/dep/mar,rent,yes
+Arbol afinado,532,0,0,41,male mar/wid,rent,yes
+Arbol afinado,533,0,0,26,male mar/wid,own,yes
+Arbol afinado,534,0,0,25,male single,own,yes
+Arbol afinado,535,1,0,33,male div/sep,rent,yes
+Arbol afinado,536,0,1,75,female div/dep/mar,own,yes
+Arbol afinado,537,0,1,37,female div/dep/mar,own,yes
+Arbol afinado,538,1,1,42,male single,for free,yes
+Arbol afinado,539,0,0,45,female div/dep/mar,own,yes
+Arbol afinado,540,1,0,23,male mar/wid,rent,yes
+Arbol afinado,541,0,0,60,male single,for free,yes
+Arbol afinado,542,1,0,31,male single,own,yes
+Arbol afinado,543,1,0,34,male single,own,yes
+Arbol afinado,544,0,0,61,male single,own,yes
+Arbol afinado,545,1,1,43,male single,for free,yes
+Arbol afinado,546,0,0,37,female div/dep/mar,own,yes
+Arbol afinado,547,0,1,32,male single,own,yes
+Arbol afinado,548,1,1,24,female div/dep/mar,own,yes
+Arbol afinado,549,0,0,35,male single,for free,yes
+Arbol afinado,550,0,0,23,female div/dep/mar,own,yes
+Arbol afinado,551,0,0,45,male single,own,yes
+Arbol afinado,552,1,1,34,male mar/wid,own,yes
+Arbol afinado,553,0,1,27,male single,own,yes
+Arbol afinado,554,0,1,67,female div/dep/mar,own,yes
+Arbol afinado,555,1,1,22,male single,own,yes
+Arbol afinado,556,1,1,28,female div/dep/mar,own,yes
+Arbol afinado,557,1,0,29,female div/dep/mar,own,yes
+Arbol afinado,558,1,1,27,male single,own,yes
+Arbol afinado,559,1,1,31,male single,own,yes
+Arbol afinado,560,0,0,49,male single,for free,yes
+Arbol afinado,561,1,1,24,male single,rent,yes
+Arbol afinado,562,0,0,29,female div/dep/mar,own,yes
+Arbol afinado,563,1,0,37,male single,for free,yes
+Arbol afinado,564,0,0,37,male single,own,yes
+Arbol afinado,565,0,1,23,female div/dep/mar,rent,yes
+Arbol afinado,566,1,1,36,male div/sep,own,yes
+Arbol afinado,567,0,0,34,male single,own,yes
+Arbol afinado,568,0,0,41,male single,own,yes
+Arbol afinado,569,1,1,31,female div/dep/mar,own,yes
+Arbol afinado,570,1,1,23,female div/dep/mar,rent,yes
+Arbol afinado,571,0,0,38,male single,own,yes
+Arbol afinado,572,0,0,26,female div/dep/mar,rent,yes
+Arbol afinado,573,0,1,22,female div/dep/mar,own,yes
+Arbol afinado,574,0,0,27,male single,own,yes
+Arbol afinado,575,0,1,24,female div/dep/mar,own,yes
+Arbol afinado,576,0,0,27,female div/dep/mar,own,yes
+Arbol afinado,577,0,0,33,female div/dep/mar,own,yes
+Arbol afinado,578,1,1,27,male div/sep,own,yes
+Arbol afinado,579,0,0,27,male mar/wid,own,yes
+Arbol afinado,580,1,1,30,male single,own,yes
+Arbol afinado,581,0,1,49,male single,own,yes
+Arbol afinado,582,0,0,26,female div/dep/mar,rent,yes
+Arbol afinado,583,1,1,33,male single,rent,yes
+Arbol afinado,584,0,0,52,female div/dep/mar,for free,yes
+Arbol afinado,585,1,1,20,female div/dep/mar,rent,yes
+Arbol afinado,586,0,1,36,male single,rent,yes
+Arbol afinado,587,0,1,21,male single,own,yes
+Arbol afinado,588,1,1,47,male mar/wid,own,yes
+Arbol afinado,589,1,1,60,male single,own,yes
+Arbol afinado,590,0,1,58,female div/dep/mar,own,yes
+Arbol afinado,591,0,1,42,female div/dep/mar,rent,yes
+Arbol afinado,592,0,1,36,female div/dep/mar,own,yes
+Arbol afinado,593,1,1,20,female div/dep/mar,rent,yes
+Arbol afinado,594,1,1,40,male single,own,yes
+Arbol afinado,595,1,0,32,female div/dep/mar,own,yes
+Arbol afinado,596,1,1,23,female div/dep/mar,rent,yes
+Arbol afinado,597,1,1,36,male single,own,yes
+Arbol afinado,598,1,0,31,male single,own,yes
+Arbol afinado,599,0,0,32,male single,for free,yes
+Arbol afinado,600,0,0,45,female div/dep/mar,own,yes
+Arbol afinado,601,1,1,30,female div/dep/mar,own,yes
+Arbol afinado,602,1,1,34,female div/dep/mar,for free,yes
+Arbol afinado,603,1,0,28,female div/dep/mar,own,yes
+Arbol afinado,604,0,0,23,female div/dep/mar,own,yes
+Arbol afinado,605,0,1,22,male single,own,yes
+Arbol afinado,606,0,0,74,male single,own,yes
+Arbol afinado,607,1,1,50,female div/dep/mar,for free,yes
+Arbol afinado,608,0,0,33,male single,own,yes
+Arbol afinado,609,0,0,45,male single,for free,yes
+Arbol afinado,610,1,1,22,female div/dep/mar,own,yes
+Arbol afinado,611,1,0,48,female div/dep/mar,for free,yes
+Arbol afinado,612,0,1,29,female div/dep/mar,own,yes
+Arbol afinado,613,0,1,22,female div/dep/mar,rent,no
+Arbol afinado,614,1,0,22,female div/dep/mar,own,yes
+Arbol afinado,615,0,1,48,male single,own,yes
+Arbol afinado,616,0,0,27,male single,for free,yes
+Arbol afinado,617,0,1,37,male single,rent,yes
+Arbol afinado,618,1,1,21,female div/dep/mar,rent,yes
+Arbol afinado,619,0,0,49,male div/sep,own,yes
+Arbol afinado,620,0,0,27,male single,own,yes
+Arbol afinado,621,1,0,32,male single,own,yes
+Arbol afinado,622,1,1,38,male div/sep,own,yes
+Arbol afinado,623,0,1,22,female div/dep/mar,rent,yes
+Arbol afinado,624,1,1,65,male single,for free,yes
+Arbol afinado,625,0,0,35,male single,own,yes
+Arbol afinado,626,0,0,41,male single,own,yes
+Arbol afinado,627,1,0,29,male single,own,yes
+Arbol afinado,628,0,0,36,male single,own,yes
+Arbol afinado,629,0,0,64,male single,own,yes
+Arbol afinado,630,0,1,28,female div/dep/mar,own,yes
+Arbol afinado,631,1,1,44,male single,own,yes
+Arbol afinado,632,0,1,23,male single,own,yes
+Arbol afinado,633,1,0,19,female div/dep/mar,rent,yes
+Arbol afinado,634,1,1,25,female div/dep/mar,own,yes
+Arbol afinado,635,0,0,47,male single,own,yes
+Arbol afinado,636,0,0,28,female div/dep/mar,own,yes
+Arbol afinado,637,0,1,21,male single,own,yes
+Arbol afinado,638,0,0,34,female div/dep/mar,own,yes
+Arbol afinado,639,1,1,26,male single,own,yes
+Arbol afinado,640,1,1,27,female div/dep/mar,own,yes
+Arbol afinado,641,0,1,38,male single,own,yes
+Arbol afinado,642,1,0,40,male single,own,yes
+Arbol afinado,643,0,0,33,male mar/wid,own,yes
+Arbol afinado,644,0,1,32,male mar/wid,own,yes
+Arbol afinado,645,1,0,27,male single,rent,yes
+Arbol afinado,646,0,1,32,male div/sep,own,yes
+Arbol afinado,647,1,0,26,female div/dep/mar,own,yes
+Arbol afinado,648,1,1,38,male single,for free,yes
+Arbol afinado,649,1,1,40,male single,rent,yes
+Arbol afinado,650,0,1,50,male single,for free,yes
+Arbol afinado,651,1,1,37,male single,own,yes
+Arbol afinado,652,1,1,45,male single,own,yes
+Arbol afinado,653,1,1,42,male single,own,yes
+Arbol afinado,654,0,0,35,male single,own,yes
+Arbol afinado,655,0,1,22,male single,for free,yes
+Arbol afinado,656,1,1,41,male single,own,yes
+Arbol afinado,657,0,0,37,male single,own,yes
+Arbol afinado,658,0,1,28,female div/dep/mar,own,yes
+Arbol afinado,659,0,1,41,male single,own,yes
+Arbol afinado,660,0,0,23,male mar/wid,rent,yes
+Arbol afinado,661,1,1,23,male mar/wid,own,yes
+Arbol afinado,662,0,0,50,male single,own,yes
+Arbol afinado,663,0,0,35,male single,own,yes
+Arbol afinado,664,0,0,50,female div/dep/mar,own,yes
+Arbol afinado,665,0,1,27,male single,own,yes
+Arbol afinado,666,0,1,34,male single,own,yes
+Arbol afinado,667,0,0,27,female div/dep/mar,own,yes
+Arbol afinado,668,1,1,43,male single,rent,yes
+Arbol afinado,669,0,0,47,male single,own,yes
+Arbol afinado,670,0,0,27,male single,own,yes
+Arbol afinado,671,0,0,31,male single,own,yes
+Arbol afinado,672,0,0,42,male single,own,yes
+Arbol afinado,673,0,0,24,male mar/wid,own,yes
+Arbol afinado,674,1,0,41,male single,own,yes
+Arbol afinado,675,0,0,26,female div/dep/mar,rent,yes
+Arbol afinado,676,0,0,33,male single,own,yes
+Arbol afinado,677,1,1,24,male mar/wid,own,yes
+Arbol afinado,678,0,1,64,male single,rent,yes
+Arbol afinado,679,0,0,26,female div/dep/mar,own,yes
+Arbol afinado,680,0,0,56,female div/dep/mar,own,yes
+Arbol afinado,681,0,0,37,male single,for free,yes
+Arbol afinado,682,0,0,33,male mar/wid,own,yes
+Arbol afinado,683,0,0,47,male mar/wid,for free,yes
+Arbol afinado,684,0,1,31,male single,own,yes
+Arbol afinado,685,0,0,34,male single,for free,yes
+Arbol afinado,686,0,0,27,male single,own,yes
+Arbol afinado,687,0,1,30,male single,for free,yes
+Arbol afinado,688,0,0,35,male single,own,yes
+Arbol afinado,689,0,1,31,male single,own,yes
+Arbol afinado,690,0,1,25,male div/sep,own,yes
+Arbol afinado,691,0,1,25,female div/dep/mar,own,yes
+Arbol afinado,692,0,1,29,male single,own,yes
+Arbol afinado,693,0,0,44,male single,own,yes
+Arbol afinado,694,0,0,28,male single,own,yes
+Arbol afinado,695,0,0,50,male single,rent,yes
+Arbol afinado,696,0,0,29,male single,own,no
+Arbol afinado,697,0,0,38,female div/dep/mar,own,yes
+Arbol afinado,698,0,0,24,male single,own,yes
+Arbol afinado,699,0,0,40,male single,rent,yes
+Arbol afinado,700,1,0,29,female div/dep/mar,rent,yes
+Arbol afinado,701,1,1,46,male single,for free,yes
+Arbol afinado,702,0,0,47,female div/dep/mar,for free,yes
+Arbol afinado,703,0,1,41,male single,own,yes
+Arbol afinado,704,0,1,32,female div/dep/mar,own,yes
+Arbol afinado,705,0,0,35,female div/dep/mar,for free,yes
+Arbol afinado,706,1,1,24,male single,own,yes
+Arbol afinado,707,1,1,25,female div/dep/mar,rent,yes
+Arbol afinado,708,0,0,25,female div/dep/mar,own,yes
+Arbol afinado,709,0,0,37,male single,own,yes
+Arbol afinado,710,0,0,32,male single,own,yes
+Arbol afinado,711,1,0,35,female div/dep/mar,for free,yes
+Arbol afinado,712,0,0,46,male single,own,yes
+Arbol afinado,713,0,0,25,male single,own,yes
+Arbol afinado,714,1,1,27,male single,own,yes
+Arbol afinado,715,0,0,63,male single,own,yes
+Arbol afinado,716,0,0,40,male single,own,yes
+Arbol afinado,717,0,0,32,male single,for free,yes
+Arbol afinado,718,0,0,31,male single,own,yes
+Arbol afinado,719,0,1,31,male mar/wid,own,yes
+Arbol afinado,720,1,0,34,male single,own,yes
+Arbol afinado,721,1,1,24,female div/dep/mar,rent,yes
+Arbol afinado,722,1,1,24,female div/dep/mar,own,yes
+Arbol afinado,723,0,0,66,female div/dep/mar,own,yes
+Arbol afinado,724,1,0,21,female div/dep/mar,rent,yes
+Arbol afinado,725,0,0,41,female div/dep/mar,own,yes
+Arbol afinado,726,0,0,47,male mar/wid,own,yes
+Arbol afinado,727,1,1,25,female div/dep/mar,rent,yes
+Arbol afinado,728,1,1,59,female div/dep/mar,rent,yes
+Arbol afinado,729,0,0,36,male div/sep,own,yes
+Arbol afinado,730,0,1,33,male single,own,yes
+Arbol afinado,731,1,1,21,male single,rent,yes
+Arbol afinado,732,0,0,44,female div/dep/mar,own,yes
+Arbol afinado,733,0,0,28,female div/dep/mar,rent,yes
+Arbol afinado,734,0,0,37,female div/dep/mar,own,yes
+Arbol afinado,735,0,1,29,female div/dep/mar,own,yes
+Arbol afinado,736,1,1,23,female div/dep/mar,rent,yes
+Arbol afinado,737,0,1,35,male single,own,yes
+Arbol afinado,738,0,0,45,male single,own,yes
+Arbol afinado,739,1,1,26,female div/dep/mar,rent,yes
+Arbol afinado,740,0,1,32,male single,own,yes
+Arbol afinado,741,0,0,23,male single,own,yes
+Arbol afinado,742,0,0,41,male single,own,yes
+Arbol afinado,743,0,1,22,male single,own,yes
+Arbol afinado,744,0,1,30,male single,own,yes
+Arbol afinado,745,0,1,28,male single,own,yes
+Arbol afinado,746,0,1,23,female div/dep/mar,rent,yes
+Arbol afinado,747,1,1,37,female div/dep/mar,own,yes
+Arbol afinado,748,0,0,26,male single,own,yes
+Arbol afinado,749,0,0,33,male single,own,yes
+Arbol afinado,750,0,0,49,female div/dep/mar,own,yes
+Arbol afinado,751,1,1,23,female div/dep/mar,own,yes
+Arbol afinado,752,0,0,23,female div/dep/mar,rent,yes
+Arbol afinado,753,0,0,25,female div/dep/mar,own,yes
+Arbol afinado,754,1,0,55,male single,for free,yes
+Arbol afinado,755,1,0,32,female div/dep/mar,rent,yes
+Arbol afinado,756,0,0,74,male single,own,no
+Arbol afinado,757,1,0,39,male single,for free,yes
+Arbol afinado,758,0,0,31,male single,own,yes
+Arbol afinado,759,1,1,35,male single,own,yes
+Arbol afinado,760,0,0,59,female div/dep/mar,own,yes
+Arbol afinado,761,1,1,24,female div/dep/mar,rent,yes
+Arbol afinado,762,0,1,24,male single,own,yes
+Arbol afinado,763,1,0,30,male single,for free,yes
+Arbol afinado,764,0,0,27,male mar/wid,own,yes
+Arbol afinado,765,0,0,40,male mar/wid,own,yes
+Arbol afinado,766,1,1,31,male div/sep,own,yes
+Arbol afinado,767,0,0,31,female div/dep/mar,rent,yes
+Arbol afinado,768,0,1,28,male single,rent,yes
+Arbol afinado,769,0,0,63,male single,own,yes
+Arbol afinado,770,0,0,26,female div/dep/mar,rent,yes
+Arbol afinado,771,1,1,25,female div/dep/mar,own,yes
+Arbol afinado,772,0,0,36,male single,own,yes
+Arbol afinado,773,0,1,52,male single,own,yes
+Arbol afinado,774,0,1,66,male single,for free,yes
+Arbol afinado,775,1,0,25,female div/dep/mar,rent,yes
+Arbol afinado,776,0,0,37,male single,own,yes
+Arbol afinado,777,0,1,25,female div/dep/mar,own,yes
+Arbol afinado,778,0,0,38,male single,own,yes
+Arbol afinado,779,0,1,67,female div/dep/mar,own,yes
+Arbol afinado,780,1,1,25,male single,own,yes
+Arbol afinado,781,0,0,60,male single,own,yes
+Arbol afinado,782,0,1,31,male single,own,yes
+Arbol afinado,783,1,1,23,female div/dep/mar,own,yes
+Arbol afinado,784,0,1,60,male div/sep,own,yes
+Arbol afinado,785,0,1,35,male single,own,yes
+Arbol afinado,786,0,0,40,male single,own,yes
+Arbol afinado,787,0,0,38,male single,own,yes
+Arbol afinado,788,1,1,50,male single,for free,yes
+Arbol afinado,789,1,1,27,male single,own,yes
+Arbol afinado,790,1,1,39,female div/dep/mar,own,yes
+Arbol afinado,791,0,0,41,male single,own,yes
+Arbol afinado,792,0,0,27,male mar/wid,own,yes
+Arbol afinado,793,0,0,51,male div/sep,for free,yes
+Arbol afinado,794,0,0,32,male single,rent,yes
+Arbol afinado,795,0,0,22,female div/dep/mar,rent,yes
+Arbol afinado,796,1,1,51,male single,for free,yes
+Arbol afinado,797,0,0,22,female div/dep/mar,rent,yes
+Arbol afinado,798,0,0,54,male mar/wid,own,yes
+Arbol afinado,799,0,0,35,male single,own,yes
+Arbol afinado,800,0,0,54,male single,for free,yes
+Arbol afinado,801,0,1,48,female div/dep/mar,rent,yes
+Arbol afinado,802,0,1,24,female div/dep/mar,own,yes
+Arbol afinado,803,0,0,35,male single,own,yes
+Arbol afinado,804,0,0,24,female div/dep/mar,rent,yes
+Arbol afinado,805,1,1,24,male single,own,yes
+Arbol afinado,806,0,0,26,male mar/wid,own,no
+Arbol afinado,807,0,0,65,male single,own,yes
+Arbol afinado,808,0,1,55,male single,for free,yes
+Arbol afinado,809,1,1,26,female div/dep/mar,rent,yes
+Arbol afinado,810,0,0,26,male mar/wid,own,yes
+Arbol afinado,811,0,0,28,male mar/wid,own,yes
+Arbol afinado,812,1,1,24,male single,own,yes
+Arbol afinado,813,1,1,54,male single,own,yes
+Arbol afinado,814,1,1,46,male single,for free,yes
+Arbol afinado,815,0,1,54,female div/dep/mar,rent,yes
+Arbol afinado,816,0,0,62,male div/sep,own,yes
+Arbol afinado,817,0,0,24,female div/dep/mar,rent,yes
+Arbol afinado,818,0,1,43,male div/sep,own,yes
+Arbol afinado,819,1,1,26,male mar/wid,own,yes
+Arbol afinado,820,0,0,27,male mar/wid,own,yes
+Arbol afinado,821,0,0,24,male mar/wid,own,yes
+Arbol afinado,822,1,1,41,male single,own,yes
+Arbol afinado,823,0,1,47,male single,own,yes
+Arbol afinado,824,0,0,35,male div/sep,own,yes
+Arbol afinado,825,0,1,30,male mar/wid,own,yes
+Arbol afinado,826,1,1,33,female div/dep/mar,rent,yes
+Arbol afinado,827,1,0,36,male single,own,yes
+Arbol afinado,828,1,1,47,male single,for free,yes
+Arbol afinado,829,0,0,38,male single,for free,yes
+Arbol afinado,830,0,0,44,male single,own,yes
+Arbol afinado,831,1,1,23,female div/dep/mar,rent,yes
+Arbol afinado,832,1,1,29,male single,rent,yes
+Arbol afinado,833,0,0,42,female div/dep/mar,own,yes
+Arbol afinado,834,1,0,25,female div/dep/mar,own,yes
+Arbol afinado,835,1,1,48,male single,own,yes
+Arbol afinado,836,0,0,21,female div/dep/mar,own,yes
+Arbol afinado,837,0,0,23,female div/dep/mar,rent,yes
+Arbol afinado,838,0,1,63,male single,own,yes
+Arbol afinado,839,0,0,46,male mar/wid,own,yes
+Arbol afinado,840,1,1,29,male single,own,yes
+Arbol afinado,841,0,0,28,male single,own,yes
+Arbol afinado,842,1,0,23,female div/dep/mar,own,yes
+Arbol afinado,843,0,0,50,male single,own,yes
+Arbol afinado,844,0,0,47,male single,own,yes
+Arbol afinado,845,0,0,35,male single,own,yes
+Arbol afinado,846,1,0,68,male single,rent,yes
+Arbol afinado,847,0,0,28,male mar/wid,own,yes
+Arbol afinado,848,0,0,59,male single,own,yes
+Arbol afinado,849,1,1,57,male single,own,yes
+Arbol afinado,850,1,1,33,male mar/wid,rent,no
+Arbol afinado,851,0,0,43,male single,own,yes
+Arbol afinado,852,0,0,35,male single,for free,yes
+Arbol afinado,853,1,1,32,male single,for free,yes
+Arbol afinado,854,0,0,45,male single,own,yes
+Arbol afinado,855,0,0,33,male mar/wid,own,yes
+Arbol afinado,856,0,0,40,female div/dep/mar,own,yes
+Arbol afinado,857,0,0,28,male single,for free,yes
+Arbol afinado,858,1,1,29,female div/dep/mar,own,yes
+Arbol afinado,859,0,0,26,male single,rent,no
+Arbol afinado,860,0,0,27,male single,own,yes
+Arbol afinado,861,1,0,28,male mar/wid,own,yes
+Arbol afinado,862,1,1,35,female div/dep/mar,own,yes
+Arbol afinado,863,0,0,32,male single,own,yes
+Arbol afinado,864,1,0,25,male single,rent,yes
+Arbol afinado,865,0,0,20,female div/dep/mar,rent,yes
+Arbol afinado,866,0,1,27,female div/dep/mar,own,yes
+Arbol afinado,867,0,0,42,male single,own,yes
+Arbol afinado,868,0,0,37,male single,own,yes
+Arbol afinado,869,0,1,24,female div/dep/mar,rent,yes
+Arbol afinado,870,0,0,40,female div/dep/mar,own,yes
+Arbol afinado,871,0,0,46,male single,own,no
+Arbol afinado,872,0,1,26,male single,own,yes
+Arbol afinado,873,0,0,24,female div/dep/mar,own,yes
+Arbol afinado,874,0,1,29,male single,own,yes
+Arbol afinado,875,0,1,40,female div/dep/mar,own,yes
+Arbol afinado,876,0,1,36,male single,for free,yes
+Arbol afinado,877,0,0,28,male single,own,yes
+Arbol afinado,878,1,1,27,male single,for free,yes
+Arbol afinado,879,0,0,36,male single,own,yes
+Arbol afinado,880,0,0,38,male single,own,yes
+Arbol afinado,881,0,0,48,male div/sep,for free,yes
+Arbol afinado,882,0,1,36,male single,own,yes
+Arbol afinado,883,0,0,65,female div/dep/mar,own,yes
+Arbol afinado,884,1,1,43,male div/sep,own,yes
+Arbol afinado,885,1,1,53,female div/dep/mar,own,yes
+Arbol afinado,886,0,0,34,male single,own,yes
+Arbol afinado,887,1,1,23,male single,own,yes
+Arbol afinado,888,0,0,34,male single,own,yes
+Arbol afinado,889,0,1,40,male single,rent,yes
+Arbol afinado,890,0,1,43,male single,own,yes
+Arbol afinado,891,0,0,46,male single,own,yes
+Arbol afinado,892,0,1,38,male single,own,no
+Arbol afinado,893,0,1,34,male single,own,yes
+Arbol afinado,894,0,0,29,male single,own,yes
+Arbol afinado,895,0,0,31,male single,own,yes
+Arbol afinado,896,0,1,28,female div/dep/mar,rent,yes
+Arbol afinado,897,0,0,35,female div/dep/mar,own,no
+Arbol afinado,898,0,1,33,female div/dep/mar,rent,yes
+Arbol afinado,899,1,1,42,male single,own,yes
+Arbol afinado,900,1,1,43,male single,rent,yes
+Arbol afinado,901,0,0,44,male div/sep,own,yes
+Arbol afinado,902,0,0,42,male single,for free,yes
+Arbol afinado,903,0,0,40,male mar/wid,rent,yes
+Arbol afinado,904,0,0,36,male single,own,yes
+Arbol afinado,905,0,1,20,male single,rent,yes
+Arbol afinado,906,0,1,24,male single,own,no
+Arbol afinado,907,0,1,27,male mar/wid,own,yes
+Arbol afinado,908,0,0,46,female div/dep/mar,own,yes
+Arbol afinado,909,0,0,33,female div/dep/mar,own,yes
+Arbol afinado,910,0,0,34,female div/dep/mar,own,yes
+Arbol afinado,911,1,1,25,female div/dep/mar,own,yes
+Arbol afinado,912,0,0,25,female div/dep/mar,own,yes
+Arbol afinado,913,0,0,28,male div/sep,own,yes
+Arbol afinado,914,1,1,31,male single,rent,yes
+Arbol afinado,915,1,1,32,female div/dep/mar,own,no
+Arbol afinado,916,0,0,32,male single,own,yes
+Arbol afinado,917,1,1,68,male single,own,yes
+Arbol afinado,918,1,1,33,male div/sep,own,yes
+Arbol afinado,919,1,1,39,male single,rent,yes
+Arbol afinado,920,0,0,28,female div/dep/mar,own,yes
+Arbol afinado,921,0,0,37,male single,own,yes
+Arbol afinado,922,1,0,22,female div/dep/mar,rent,yes
+Arbol afinado,923,0,1,30,male single,rent,yes
+Arbol afinado,924,1,1,55,male div/sep,own,yes
+Arbol afinado,925,1,1,46,male single,own,yes
+Arbol afinado,926,0,1,21,female div/dep/mar,rent,yes
+Arbol afinado,927,1,1,39,male single,for free,yes
+Arbol afinado,928,0,0,58,male single,own,yes
+Arbol afinado,929,0,1,43,male single,own,yes
+Arbol afinado,930,0,1,24,male single,own,no
+Arbol afinado,931,1,0,22,female div/dep/mar,own,yes
+Arbol afinado,932,0,0,30,male single,own,yes
+Arbol afinado,933,0,0,42,male single,own,yes
+Arbol afinado,934,0,1,23,female div/dep/mar,own,yes
+Arbol afinado,935,1,1,30,male single,own,yes
+Arbol afinado,936,1,0,28,female div/dep/mar,own,yes
+Arbol afinado,937,0,1,30,male mar/wid,rent,yes
+Arbol afinado,938,1,1,42,male single,for free,yes
+Arbol afinado,939,0,0,46,male single,own,yes
+Arbol afinado,940,0,0,45,male single,own,yes
+Arbol afinado,941,0,0,31,male single,own,no
+Arbol afinado,942,0,0,31,male single,own,yes
+Arbol afinado,943,0,0,42,male single,own,yes
+Arbol afinado,944,0,1,46,female div/dep/mar,rent,yes
+Arbol afinado,945,0,1,30,female div/dep/mar,own,yes
+Arbol afinado,946,1,1,30,male single,for free,yes
+Arbol afinado,947,0,0,38,male single,own,yes
+Arbol afinado,948,1,0,43,male mar/wid,own,yes
+Arbol afinado,949,1,0,31,male single,own,yes
+Arbol afinado,950,0,1,40,male mar/wid,own,yes
+Arbol afinado,951,1,1,24,male single,own,yes
+Arbol afinado,952,1,1,28,female div/dep/mar,rent,yes
+Arbol afinado,953,1,0,26,female div/dep/mar,own,yes
+Arbol afinado,954,0,1,29,female div/dep/mar,own,yes
+Arbol afinado,955,0,0,57,female div/dep/mar,rent,yes
+Arbol afinado,956,0,0,49,male single,own,yes
+Arbol afinado,957,0,0,37,male single,own,yes
+Arbol afinado,958,1,1,45,male single,own,yes
+Arbol afinado,959,0,1,30,male single,for free,yes
+Arbol afinado,960,0,0,30,male mar/wid,rent,yes
+Arbol afinado,961,0,1,47,male div/sep,own,yes
+Arbol afinado,962,0,0,29,male single,own,yes
+Arbol afinado,963,1,0,35,male single,own,yes
+Arbol afinado,964,0,0,22,male mar/wid,own,yes
+Arbol afinado,965,0,1,26,female div/dep/mar,own,yes
+Arbol afinado,966,1,1,23,male single,own,yes
+Arbol afinado,967,0,0,54,female div/dep/mar,rent,yes
+Arbol afinado,968,0,0,29,male mar/wid,rent,yes
+Arbol afinado,969,0,0,40,male single,own,yes
+Arbol afinado,970,0,1,22,male single,own,yes
+Arbol afinado,971,0,0,43,male single,own,yes
+Arbol afinado,972,1,1,29,female div/dep/mar,rent,yes
+Arbol afinado,973,1,1,36,male single,rent,yes
+Arbol afinado,974,0,0,33,female div/dep/mar,own,yes
+Arbol afinado,975,0,0,57,female div/dep/mar,own,yes
+Arbol afinado,976,0,0,64,female div/dep/mar,own,yes
+Arbol afinado,977,0,1,42,male single,own,yes
+Arbol afinado,978,1,0,47,male single,own,yes
+Arbol afinado,979,1,1,25,male mar/wid,rent,yes
+Arbol afinado,980,1,1,49,male single,own,yes
+Arbol afinado,981,1,1,33,male single,rent,yes
+Arbol afinado,982,0,0,28,female div/dep/mar,own,yes
+Arbol afinado,983,1,1,26,male single,own,yes
+Arbol afinado,984,0,0,30,male single,own,yes
+Arbol afinado,985,0,1,25,female div/dep/mar,rent,yes
+Arbol afinado,986,0,0,33,male div/sep,own,yes
+Arbol afinado,987,0,0,64,female div/dep/mar,own,yes
+Arbol afinado,988,0,1,29,male single,for free,yes
+Arbol afinado,989,0,1,48,male single,own,yes
+Arbol afinado,990,0,0,37,male single,own,yes
+Arbol afinado,991,0,0,34,male single,own,yes
+Arbol afinado,992,0,1,23,male mar/wid,rent,yes
+Arbol afinado,993,0,1,30,male single,own,yes
+Arbol afinado,994,0,0,50,male single,own,yes
+Arbol afinado,995,0,0,31,female div/dep/mar,own,yes
+Arbol afinado,996,0,1,40,male div/sep,own,yes
+Arbol afinado,997,0,0,38,male single,own,yes
+Arbol afinado,998,1,1,23,male single,for free,yes
+Arbol afinado,999,0,1,27,male single,own,yes
+Random Forest,0,0,0,67,male single,own,yes
+Random Forest,1,1,1,22,female div/dep/mar,own,yes
+Random Forest,2,0,0,49,male single,own,yes
+Random Forest,3,0,1,45,male single,for free,yes
+Random Forest,4,1,1,53,male single,for free,yes
+Random Forest,5,0,0,35,male single,for free,yes
+Random Forest,6,0,0,53,male single,own,yes
+Random Forest,7,0,1,35,male single,rent,yes
+Random Forest,8,0,0,61,male div/sep,own,yes
+Random Forest,9,1,1,28,male mar/wid,own,yes
+Random Forest,10,1,1,25,female div/dep/mar,rent,yes
+Random Forest,11,1,1,24,female div/dep/mar,rent,yes
+Random Forest,12,0,1,22,female div/dep/mar,own,yes
+Random Forest,13,1,0,60,male single,own,yes
+Random Forest,14,0,1,28,female div/dep/mar,rent,yes
+Random Forest,15,1,1,32,female div/dep/mar,own,yes
+Random Forest,16,0,0,53,male single,own,yes
+Random Forest,17,0,1,25,male single,own,yes
+Random Forest,18,1,1,44,female div/dep/mar,for free,yes
+Random Forest,19,0,0,31,male single,own,yes
+Random Forest,20,0,0,48,male single,own,yes
+Random Forest,21,0,0,44,male single,rent,yes
+Random Forest,22,0,0,48,male single,rent,no
+Random Forest,23,0,0,44,male single,own,yes
+Random Forest,24,0,0,26,male mar/wid,own,no
+Random Forest,25,0,0,36,male single,own,yes
+Random Forest,26,0,0,39,male mar/wid,own,yes
+Random Forest,27,0,0,42,female div/dep/mar,rent,yes
+Random Forest,28,0,0,34,male single,own,yes
+Random Forest,29,1,1,63,male single,own,yes
+Random Forest,30,0,0,36,male mar/wid,own,yes
+Random Forest,31,0,1,27,male single,own,yes
+Random Forest,32,0,1,30,male single,own,yes
+Random Forest,33,0,0,57,male single,rent,yes
+Random Forest,34,0,0,33,female div/dep/mar,own,yes
+Random Forest,35,1,1,25,male single,own,yes
+Random Forest,36,0,1,31,male single,for free,yes
+Random Forest,37,1,0,37,male single,own,yes
+Random Forest,38,0,0,37,male single,own,yes
+Random Forest,39,0,0,24,male single,own,yes
+Random Forest,40,0,0,30,male single,own,yes
+Random Forest,41,0,1,26,male div/sep,own,yes
+Random Forest,42,0,0,44,male single,own,yes
+Random Forest,43,0,0,24,male mar/wid,rent,yes
+Random Forest,44,1,1,58,female div/dep/mar,for free,yes
+Random Forest,45,0,0,35,female div/dep/mar,own,yes
+Random Forest,46,0,0,39,male single,own,yes
+Random Forest,47,0,0,23,female div/dep/mar,rent,yes
+Random Forest,48,0,0,39,male single,own,yes
+Random Forest,49,0,0,28,female div/dep/mar,own,yes
+Random Forest,50,0,0,29,male single,own,yes
+Random Forest,51,0,0,30,male single,own,yes
+Random Forest,52,0,0,25,male single,own,yes
+Random Forest,53,0,0,31,male single,own,yes
+Random Forest,54,1,1,57,male single,for free,yes
+Random Forest,55,0,0,26,male single,own,yes
+Random Forest,56,1,0,52,male single,own,yes
+Random Forest,57,0,0,31,female div/dep/mar,own,yes
+Random Forest,58,0,0,23,female div/dep/mar,own,yes
+Random Forest,59,1,1,23,female div/dep/mar,rent,yes
+Random Forest,60,0,0,27,male mar/wid,own,yes
+Random Forest,61,0,0,50,male single,own,yes
+Random Forest,62,1,1,61,male single,for free,yes
+Random Forest,63,1,1,25,male single,own,yes
+Random Forest,64,0,0,26,female div/dep/mar,own,yes
+Random Forest,65,0,0,48,male single,own,yes
+Random Forest,66,0,0,29,female div/dep/mar,own,yes
+Random Forest,67,0,1,22,male mar/wid,own,yes
+Random Forest,68,1,0,37,male single,for free,yes
+Random Forest,69,0,0,25,female div/dep/mar,own,yes
+Random Forest,70,0,0,30,female div/dep/mar,own,yes
+Random Forest,71,0,0,46,male single,rent,yes
+Random Forest,72,0,0,51,male single,for free,yes
+Random Forest,73,0,1,41,female div/dep/mar,own,yes
+Random Forest,74,1,1,40,male single,own,yes
+Random Forest,75,0,0,66,male single,for free,yes
+Random Forest,76,1,1,34,male single,own,yes
+Random Forest,77,0,0,51,male single,own,yes
+Random Forest,78,0,0,39,male single,own,yes
+Random Forest,79,0,0,22,male mar/wid,own,yes
+Random Forest,80,1,0,44,female div/dep/mar,own,yes
+Random Forest,81,0,0,47,male single,own,yes
+Random Forest,82,0,0,24,female div/dep/mar,rent,yes
+Random Forest,83,0,1,58,female div/dep/mar,own,yes
+Random Forest,84,0,0,52,male single,own,yes
+Random Forest,85,0,0,29,female div/dep/mar,own,yes
+Random Forest,86,0,0,27,female div/dep/mar,own,yes
+Random Forest,87,1,0,47,male single,for free,yes
+Random Forest,88,0,1,30,male single,own,yes
+Random Forest,89,1,1,28,male single,own,yes
+Random Forest,90,0,0,56,male single,own,yes
+Random Forest,91,0,0,54,male single,own,yes
+Random Forest,92,1,0,33,female div/dep/mar,own,yes
+Random Forest,93,0,0,20,male single,rent,yes
+Random Forest,94,0,0,54,male single,own,yes
+Random Forest,95,1,1,58,male single,rent,yes
+Random Forest,96,0,0,61,female div/dep/mar,own,yes
+Random Forest,97,0,1,34,male single,own,yes
+Random Forest,98,0,0,36,male single,own,yes
+Random Forest,99,0,0,36,male single,rent,yes
+Random Forest,100,0,0,41,male mar/wid,rent,yes
+Random Forest,101,0,1,24,male single,rent,yes
+Random Forest,102,0,0,24,female div/dep/mar,own,yes
+Random Forest,103,0,0,35,male single,rent,yes
+Random Forest,104,0,0,26,male mar/wid,rent,yes
+Random Forest,105,1,0,39,male single,own,yes
+Random Forest,106,1,0,39,male single,own,yes
+Random Forest,107,0,0,32,male single,own,yes
+Random Forest,108,0,1,30,female div/dep/mar,own,no
+Random Forest,109,0,1,35,male mar/wid,own,yes
+Random Forest,110,0,0,31,male div/sep,own,yes
+Random Forest,111,0,0,23,female div/dep/mar,rent,yes
+Random Forest,112,0,1,28,male single,rent,yes
+Random Forest,113,1,0,25,female div/dep/mar,own,yes
+Random Forest,114,0,0,35,male mar/wid,own,yes
+Random Forest,115,0,0,47,male single,own,yes
+Random Forest,116,1,0,30,female div/dep/mar,own,yes
+Random Forest,117,0,0,27,female div/dep/mar,rent,no
+Random Forest,118,1,0,23,female div/dep/mar,own,yes
+Random Forest,119,0,0,36,male div/sep,own,yes
+Random Forest,120,1,1,25,female div/dep/mar,own,yes
+Random Forest,121,0,0,41,female div/dep/mar,rent,yes
+Random Forest,122,0,0,24,male single,rent,yes
+Random Forest,123,0,0,63,male single,for free,yes
+Random Forest,124,1,0,27,female div/dep/mar,rent,yes
+Random Forest,125,0,0,30,male single,own,yes
+Random Forest,126,0,1,40,male mar/wid,own,yes
+Random Forest,127,1,1,30,male single,own,yes
+Random Forest,128,0,0,34,male single,own,yes
+Random Forest,129,1,0,29,female div/dep/mar,own,yes
+Random Forest,130,0,0,24,female div/dep/mar,own,yes
+Random Forest,131,1,1,29,male single,own,yes
+Random Forest,132,0,0,27,male single,own,yes
+Random Forest,133,0,0,47,male single,for free,yes
+Random Forest,134,0,0,21,female div/dep/mar,own,yes
+Random Forest,135,0,0,38,female div/dep/mar,own,yes
+Random Forest,136,0,0,27,male single,own,yes
+Random Forest,137,1,0,66,male single,own,yes
+Random Forest,138,0,0,35,male single,own,yes
+Random Forest,139,0,0,44,female div/dep/mar,rent,yes
+Random Forest,140,0,0,27,male mar/wid,own,no
+Random Forest,141,0,1,30,female div/dep/mar,own,yes
+Random Forest,142,0,1,27,male single,own,yes
+Random Forest,143,1,0,22,male single,own,yes
+Random Forest,144,0,0,23,female div/dep/mar,own,yes
+Random Forest,145,0,1,30,male single,own,yes
+Random Forest,146,0,0,39,female div/dep/mar,own,yes
+Random Forest,147,0,0,51,female div/dep/mar,own,yes
+Random Forest,148,0,1,28,male single,own,yes
+Random Forest,149,0,0,46,male single,own,yes
+Random Forest,150,0,0,42,male single,for free,yes
+Random Forest,151,0,0,38,male single,own,no
+Random Forest,152,0,0,24,male single,own,yes
+Random Forest,153,0,0,29,female div/dep/mar,rent,yes
+Random Forest,154,0,1,36,male single,rent,yes
+Random Forest,155,1,0,20,female div/dep/mar,rent,yes
+Random Forest,156,0,0,48,male single,own,no
+Random Forest,157,0,1,45,male mar/wid,own,yes
+Random Forest,158,0,0,38,male single,own,yes
+Random Forest,159,0,0,34,male single,own,yes
+Random Forest,160,0,0,36,male single,own,yes
+Random Forest,161,0,0,30,female div/dep/mar,own,yes
+Random Forest,162,0,0,36,male single,own,yes
+Random Forest,163,0,1,70,male single,for free,yes
+Random Forest,164,0,0,36,male single,own,yes
+Random Forest,165,0,0,32,male single,own,yes
+Random Forest,166,1,1,33,female div/dep/mar,own,yes
+Random Forest,167,0,0,20,female div/dep/mar,own,yes
+Random Forest,168,0,0,25,female div/dep/mar,rent,yes
+Random Forest,169,1,0,31,male div/sep,own,yes
+Random Forest,170,1,1,33,male single,rent,yes
+Random Forest,171,0,0,26,female div/dep/mar,own,yes
+Random Forest,172,1,1,34,female div/dep/mar,own,yes
+Random Forest,173,0,0,33,male single,own,no
+Random Forest,174,1,0,26,male single,own,yes
+Random Forest,175,1,0,53,female div/dep/mar,own,yes
+Random Forest,176,0,1,42,male div/sep,own,yes
+Random Forest,177,0,0,52,male single,own,yes
+Random Forest,178,0,0,31,male single,rent,yes
+Random Forest,179,0,1,65,male single,own,yes
+Random Forest,180,1,0,28,male div/sep,own,yes
+Random Forest,181,1,1,30,male div/sep,own,yes
+Random Forest,182,1,1,40,male single,own,yes
+Random Forest,183,0,0,50,male single,own,yes
+Random Forest,184,1,1,36,male single,own,yes
+Random Forest,185,0,0,31,male single,own,yes
+Random Forest,186,1,0,74,female div/dep/mar,for free,yes
+Random Forest,187,0,1,68,male single,for free,yes
+Random Forest,188,1,1,20,male mar/wid,own,yes
+Random Forest,189,0,1,33,female div/dep/mar,own,yes
+Random Forest,190,1,0,54,male single,own,yes
+Random Forest,191,1,1,34,male single,for free,yes
+Random Forest,192,1,1,36,male single,own,yes
+Random Forest,193,0,0,29,male mar/wid,rent,yes
+Random Forest,194,1,1,21,male single,rent,yes
+Random Forest,195,1,0,34,female div/dep/mar,own,yes
+Random Forest,196,0,0,28,female div/dep/mar,own,yes
+Random Forest,197,1,1,27,female div/dep/mar,rent,yes
+Random Forest,198,0,0,36,male single,for free,yes
+Random Forest,199,1,1,40,male div/sep,own,yes
+Random Forest,200,0,0,52,male single,own,yes
+Random Forest,201,0,1,27,male mar/wid,own,yes
+Random Forest,202,0,0,26,male single,own,yes
+Random Forest,203,1,1,21,male mar/wid,rent,yes
+Random Forest,204,0,0,38,male single,own,yes
+Random Forest,205,0,0,38,male single,for free,yes
+Random Forest,206,0,0,43,male single,own,yes
+Random Forest,207,0,0,26,male single,own,yes
+Random Forest,208,0,1,21,male mar/wid,own,yes
+Random Forest,209,0,0,55,male single,own,no
+Random Forest,210,0,0,33,male single,own,yes
+Random Forest,211,0,0,45,female div/dep/mar,own,yes
+Random Forest,212,1,1,50,male single,own,yes
+Random Forest,213,1,0,66,male single,own,yes
+Random Forest,214,0,0,51,male single,own,yes
+Random Forest,215,0,0,39,female div/dep/mar,own,yes
+Random Forest,216,0,1,31,male single,own,yes
+Random Forest,217,0,1,23,male single,own,yes
+Random Forest,218,0,1,24,male div/sep,rent,yes
+Random Forest,219,0,0,64,female div/dep/mar,own,yes
+Random Forest,220,0,0,26,male mar/wid,own,yes
+Random Forest,221,0,1,23,female div/dep/mar,rent,yes
+Random Forest,222,0,0,30,male single,own,yes
+Random Forest,223,0,0,32,male single,own,yes
+Random Forest,224,0,0,30,male single,own,yes
+Random Forest,225,0,0,27,male single,own,yes
+Random Forest,226,1,1,27,male single,own,yes
+Random Forest,227,1,1,53,male single,for free,yes
+Random Forest,228,1,0,22,male single,own,yes
+Random Forest,229,0,1,22,male single,for free,yes
+Random Forest,230,1,0,26,male single,own,yes
+Random Forest,231,0,0,51,male single,for free,yes
+Random Forest,232,0,0,35,male single,own,yes
+Random Forest,233,0,0,25,male mar/wid,own,yes
+Random Forest,234,0,0,42,male single,own,yes
+Random Forest,235,1,0,30,male single,own,yes
+Random Forest,236,1,0,23,male single,own,yes
+Random Forest,237,1,0,61,male div/sep,rent,yes
+Random Forest,238,0,0,35,female div/dep/mar,own,yes
+Random Forest,239,0,1,39,male single,own,yes
+Random Forest,240,1,1,29,female div/dep/mar,own,yes
+Random Forest,241,0,0,51,male single,own,yes
+Random Forest,242,1,1,24,male single,for free,yes
+Random Forest,243,0,0,27,female div/dep/mar,own,yes
+Random Forest,244,0,0,35,female div/dep/mar,own,yes
+Random Forest,245,0,0,25,male single,own,yes
+Random Forest,246,0,0,52,male single,own,yes
+Random Forest,247,0,0,35,male single,rent,no
+Random Forest,248,0,0,26,male single,own,yes
+Random Forest,249,1,0,22,female div/dep/mar,rent,yes
+Random Forest,250,0,0,39,female div/dep/mar,own,yes
+Random Forest,251,0,0,46,female div/dep/mar,own,yes
+Random Forest,252,1,1,24,female div/dep/mar,own,yes
+Random Forest,253,0,0,35,male single,own,yes
+Random Forest,254,0,0,24,male single,own,yes
+Random Forest,255,0,0,27,male single,own,yes
+Random Forest,256,0,0,35,male single,own,yes
+Random Forest,257,1,0,29,male div/sep,for free,yes
+Random Forest,258,0,0,23,female div/dep/mar,own,yes
+Random Forest,259,0,0,57,female div/dep/mar,own,yes
+Random Forest,260,0,0,27,male single,own,yes
+Random Forest,261,0,1,55,female div/dep/mar,own,yes
+Random Forest,262,0,1,36,male single,for free,yes
+Random Forest,263,0,0,57,female div/dep/mar,for free,yes
+Random Forest,264,0,0,32,male single,own,no
+Random Forest,265,1,1,37,male single,own,yes
+Random Forest,266,0,0,36,male single,own,yes
+Random Forest,267,0,0,38,female div/dep/mar,own,yes
+Random Forest,268,1,1,45,male div/sep,own,no
+Random Forest,269,0,0,25,male single,own,yes
+Random Forest,270,0,0,32,male single,own,no
+Random Forest,271,0,0,37,female div/dep/mar,rent,yes
+Random Forest,272,0,1,36,male single,for free,yes
+Random Forest,273,1,1,28,male single,own,yes
+Random Forest,274,1,1,34,male div/sep,own,yes
+Random Forest,275,0,0,32,male single,own,yes
+Random Forest,276,0,0,26,female div/dep/mar,own,yes
+Random Forest,277,0,0,49,male div/sep,own,yes
+Random Forest,278,1,0,32,female div/dep/mar,own,yes
+Random Forest,279,0,0,29,male single,rent,yes
+Random Forest,280,0,0,23,male single,rent,yes
+Random Forest,281,0,0,50,male single,own,yes
+Random Forest,282,0,0,49,male single,own,yes
+Random Forest,283,0,0,63,male single,own,yes
+Random Forest,284,0,1,37,male div/sep,own,yes
+Random Forest,285,0,1,35,female div/dep/mar,own,yes
+Random Forest,286,0,1,26,male single,own,yes
+Random Forest,287,0,1,31,male single,for free,yes
+Random Forest,288,0,0,49,female div/dep/mar,own,yes
+Random Forest,289,1,1,48,male mar/wid,own,yes
+Random Forest,290,0,0,26,male mar/wid,own,no
+Random Forest,291,1,0,28,male mar/wid,rent,yes
+Random Forest,292,0,0,44,female div/dep/mar,for free,yes
+Random Forest,293,0,0,56,male single,for free,yes
+Random Forest,294,0,0,46,male div/sep,own,yes
+Random Forest,295,1,1,26,female div/dep/mar,own,yes
+Random Forest,296,0,0,20,female div/dep/mar,rent,yes
+Random Forest,297,0,0,45,male single,own,no
+Random Forest,298,0,0,43,male single,own,yes
+Random Forest,299,0,0,32,male single,own,yes
+Random Forest,300,0,0,54,female div/dep/mar,own,yes
+Random Forest,301,1,1,42,female div/dep/mar,own,yes
+Random Forest,302,1,0,37,male single,own,yes
+Random Forest,303,0,0,49,male single,own,yes
+Random Forest,304,1,1,44,male single,for free,yes
+Random Forest,305,0,0,33,male div/sep,own,yes
+Random Forest,306,0,0,24,female div/dep/mar,rent,yes
+Random Forest,307,1,1,33,male mar/wid,own,yes
+Random Forest,308,1,0,24,female div/dep/mar,own,yes
+Random Forest,309,0,0,22,male mar/wid,rent,yes
+Random Forest,310,0,0,40,male single,for free,yes
+Random Forest,311,0,0,25,male single,own,yes
+Random Forest,312,0,0,26,female div/dep/mar,own,yes
+Random Forest,313,1,1,25,male mar/wid,own,yes
+Random Forest,314,0,0,29,male single,own,no
+Random Forest,315,1,1,31,male single,own,yes
+Random Forest,316,0,0,38,male single,own,yes
+Random Forest,317,0,0,48,female div/dep/mar,own,yes
+Random Forest,318,0,0,32,male single,own,yes
+Random Forest,319,0,0,27,female div/dep/mar,own,yes
+Random Forest,320,1,1,28,male mar/wid,own,yes
+Random Forest,321,1,1,32,male div/sep,own,yes
+Random Forest,322,0,0,34,male single,for free,yes
+Random Forest,323,0,1,28,male single,own,yes
+Random Forest,324,0,0,36,female div/dep/mar,own,yes
+Random Forest,325,0,0,39,male single,own,no
+Random Forest,326,0,0,49,male single,rent,yes
+Random Forest,327,0,0,34,female div/dep/mar,own,yes
+Random Forest,328,0,1,31,male single,own,yes
+Random Forest,329,0,0,28,male single,own,yes
+Random Forest,330,0,0,75,male single,for free,yes
+Random Forest,331,1,0,30,female div/dep/mar,own,yes
+Random Forest,332,1,1,24,female div/dep/mar,own,yes
+Random Forest,333,1,0,24,female div/dep/mar,rent,yes
+Random Forest,334,1,1,23,male single,rent,yes
+Random Forest,335,1,0,44,male div/sep,rent,yes
+Random Forest,336,0,0,23,female div/dep/mar,own,yes
+Random Forest,337,1,1,24,female div/dep/mar,rent,yes
+Random Forest,338,0,1,28,male single,own,yes
+Random Forest,339,0,1,31,male div/sep,own,yes
+Random Forest,340,0,1,24,female div/dep/mar,for free,yes
+Random Forest,341,0,1,26,female div/dep/mar,rent,yes
+Random Forest,342,0,1,25,male mar/wid,rent,yes
+Random Forest,343,0,1,33,male single,own,yes
+Random Forest,344,0,0,37,male single,own,yes
+Random Forest,345,0,0,43,female div/dep/mar,own,yes
+Random Forest,346,0,0,23,male single,own,yes
+Random Forest,347,0,0,23,female div/dep/mar,rent,yes
+Random Forest,348,0,0,34,male single,own,yes
+Random Forest,349,1,0,32,male single,for free,yes
+Random Forest,350,0,0,23,female div/dep/mar,rent,yes
+Random Forest,351,1,1,29,female div/dep/mar,own,no
+Random Forest,352,0,0,38,male single,own,yes
+Random Forest,353,1,1,28,male single,rent,yes
+Random Forest,354,0,0,46,male single,for free,yes
+Random Forest,355,1,1,23,male single,own,yes
+Random Forest,356,0,0,49,male single,own,yes
+Random Forest,357,1,0,26,male single,own,yes
+Random Forest,358,0,0,28,male mar/wid,own,yes
+Random Forest,359,1,1,23,female div/dep/mar,rent,yes
+Random Forest,360,0,1,61,male single,for free,yes
+Random Forest,361,0,0,37,male single,own,yes
+Random Forest,362,0,0,36,female div/dep/mar,own,yes
+Random Forest,363,0,0,21,male mar/wid,rent,yes
+Random Forest,364,1,0,25,male single,own,yes
+Random Forest,365,0,0,36,male single,own,yes
+Random Forest,366,0,0,27,male single,own,yes
+Random Forest,367,0,0,22,female div/dep/mar,rent,yes
+Random Forest,368,1,1,42,male single,own,yes
+Random Forest,369,0,1,40,female div/dep/mar,rent,yes
+Random Forest,370,0,0,36,male single,own,yes
+Random Forest,371,0,0,33,male single,own,yes
+Random Forest,372,0,0,23,female div/dep/mar,rent,yes
+Random Forest,373,0,1,63,male single,for free,yes
+Random Forest,374,1,1,60,female div/dep/mar,for free,yes
+Random Forest,375,1,1,37,female div/dep/mar,rent,yes
+Random Forest,376,0,0,34,male mar/wid,own,yes
+Random Forest,377,0,0,36,male single,for free,yes
+Random Forest,378,1,1,57,male single,for free,yes
+Random Forest,379,0,0,52,female div/dep/mar,own,yes
+Random Forest,380,0,1,39,male single,own,yes
+Random Forest,381,1,1,38,female div/dep/mar,for free,yes
+Random Forest,382,0,0,25,female div/dep/mar,rent,yes
+Random Forest,383,0,1,26,male single,own,yes
+Random Forest,384,0,0,26,male single,own,yes
+Random Forest,385,0,0,25,female div/dep/mar,own,yes
+Random Forest,386,0,0,21,female div/dep/mar,rent,yes
+Random Forest,387,0,1,40,male single,own,yes
+Random Forest,388,0,0,27,male single,own,yes
+Random Forest,389,0,0,27,female div/dep/mar,own,yes
+Random Forest,390,0,0,30,male mar/wid,own,yes
+Random Forest,391,0,0,19,female div/dep/mar,rent,yes
+Random Forest,392,0,1,39,male single,for free,yes
+Random Forest,393,0,0,31,female div/dep/mar,own,yes
+Random Forest,394,0,0,31,male single,own,yes
+Random Forest,395,0,1,32,male single,rent,yes
+Random Forest,396,0,1,55,female div/dep/mar,for free,yes
+Random Forest,397,0,1,46,male mar/wid,own,yes
+Random Forest,398,1,1,46,male div/sep,rent,yes
+Random Forest,399,0,0,43,female div/dep/mar,own,yes
+Random Forest,400,0,0,39,male mar/wid,own,yes
+Random Forest,401,0,0,28,male mar/wid,own,yes
+Random Forest,402,1,1,27,male single,own,yes
+Random Forest,403,0,0,27,male single,own,yes
+Random Forest,404,0,0,43,male single,own,yes
+Random Forest,405,1,0,22,male mar/wid,own,yes
+Random Forest,406,0,0,43,male single,own,yes
+Random Forest,407,0,1,27,male mar/wid,own,no
+Random Forest,408,0,0,26,male div/sep,own,yes
+Random Forest,409,1,0,28,male mar/wid,own,yes
+Random Forest,410,0,1,20,female div/dep/mar,own,yes
+Random Forest,411,0,0,35,male single,own,yes
+Random Forest,412,1,0,42,male single,own,yes
+Random Forest,413,0,0,40,male single,rent,no
+Random Forest,414,1,1,35,female div/dep/mar,own,yes
+Random Forest,415,0,0,35,male single,own,yes
+Random Forest,416,1,0,33,male single,own,yes
+Random Forest,417,0,0,23,female div/dep/mar,rent,yes
+Random Forest,418,0,0,31,female div/dep/mar,own,yes
+Random Forest,419,1,1,33,female div/dep/mar,own,yes
+Random Forest,420,0,0,20,female div/dep/mar,rent,yes
+Random Forest,421,0,0,30,male single,own,yes
+Random Forest,422,0,0,47,male single,own,yes
+Random Forest,423,0,0,34,male single,own,yes
+Random Forest,424,1,0,25,female div/dep/mar,own,yes
+Random Forest,425,0,0,21,male mar/wid,rent,yes
+Random Forest,426,0,0,29,male single,own,yes
+Random Forest,427,0,0,46,male single,own,yes
+Random Forest,428,0,0,20,male single,own,yes
+Random Forest,429,1,0,55,female div/dep/mar,for free,yes
+Random Forest,430,0,0,74,male single,own,yes
+Random Forest,431,1,0,29,male single,own,yes
+Random Forest,432,0,0,36,male single,for free,yes
+Random Forest,433,0,0,33,male div/sep,own,yes
+Random Forest,434,0,0,25,male single,own,yes
+Random Forest,435,1,0,25,male mar/wid,own,yes
+Random Forest,436,0,0,23,male mar/wid,rent,yes
+Random Forest,437,0,0,37,female div/dep/mar,own,yes
+Random Forest,438,0,1,65,male single,own,yes
+Random Forest,439,1,0,26,female div/dep/mar,own,yes
+Random Forest,440,0,0,39,male single,own,yes
+Random Forest,441,0,0,30,female div/dep/mar,own,yes
+Random Forest,442,0,0,29,male single,own,yes
+Random Forest,443,1,0,41,male single,own,yes
+Random Forest,444,1,1,30,female div/dep/mar,own,yes
+Random Forest,445,0,0,41,female div/dep/mar,rent,yes
+Random Forest,446,1,1,34,female div/dep/mar,own,yes
+Random Forest,447,0,0,35,male single,own,yes
+Random Forest,448,0,0,55,female div/dep/mar,own,yes
+Random Forest,449,1,0,61,male mar/wid,own,yes
+Random Forest,450,0,0,30,male single,own,yes
+Random Forest,451,0,0,29,female div/dep/mar,own,yes
+Random Forest,452,0,0,34,male single,own,yes
+Random Forest,453,0,0,35,male single,own,yes
+Random Forest,454,1,1,31,male single,own,yes
+Random Forest,455,0,0,29,female div/dep/mar,own,yes
+Random Forest,456,0,0,36,male single,rent,yes
+Random Forest,457,1,0,35,male single,for free,yes
+Random Forest,458,0,0,27,female div/dep/mar,own,yes
+Random Forest,459,0,0,32,male single,own,yes
+Random Forest,460,0,0,37,male single,own,yes
+Random Forest,461,0,1,36,male single,own,yes
+Random Forest,462,0,0,34,female div/dep/mar,rent,yes
+Random Forest,463,0,0,38,male single,own,yes
+Random Forest,464,0,0,34,male single,own,yes
+Random Forest,465,0,1,63,male single,own,yes
+Random Forest,466,1,1,29,female div/dep/mar,rent,yes
+Random Forest,467,0,0,32,male single,own,yes
+Random Forest,468,0,0,26,female div/dep/mar,own,yes
+Random Forest,469,0,0,35,male single,own,yes
+Random Forest,470,1,0,22,male mar/wid,rent,yes
+Random Forest,471,1,1,23,female div/dep/mar,own,yes
+Random Forest,472,1,0,28,male single,own,yes
+Random Forest,473,0,0,36,male single,own,yes
+Random Forest,474,1,0,33,male mar/wid,own,yes
+Random Forest,475,1,0,26,female div/dep/mar,rent,yes
+Random Forest,476,0,0,24,male single,own,yes
+Random Forest,477,0,0,25,male single,own,yes
+Random Forest,478,0,0,39,male single,own,yes
+Random Forest,479,0,1,44,male single,own,yes
+Random Forest,480,0,0,23,female div/dep/mar,own,yes
+Random Forest,481,0,1,26,male single,own,yes
+Random Forest,482,0,0,57,female div/dep/mar,rent,yes
+Random Forest,483,0,0,30,female div/dep/mar,own,yes
+Random Forest,484,0,0,44,male single,own,yes
+Random Forest,485,1,0,47,male single,own,yes
+Random Forest,486,0,0,52,male single,own,yes
+Random Forest,487,0,0,62,female div/dep/mar,for free,yes
+Random Forest,488,0,0,35,male single,rent,no
+Random Forest,489,0,0,26,male single,rent,yes
+Random Forest,490,0,0,26,male single,own,yes
+Random Forest,491,1,1,42,female div/dep/mar,for free,yes
+Random Forest,492,0,0,27,female div/dep/mar,own,yes
+Random Forest,493,0,0,38,male single,own,yes
+Random Forest,494,0,0,39,male single,rent,no
+Random Forest,495,1,0,20,male mar/wid,own,yes
+Random Forest,496,1,1,29,male single,rent,yes
+Random Forest,497,0,0,40,male single,own,yes
+Random Forest,498,0,0,32,male mar/wid,own,yes
+Random Forest,499,0,0,28,male div/sep,own,yes
+Random Forest,500,1,0,27,female div/dep/mar,own,yes
+Random Forest,501,0,1,42,male single,for free,yes
+Random Forest,502,0,0,49,male div/sep,own,yes
+Random Forest,503,1,1,38,male single,own,yes
+Random Forest,504,1,1,24,female div/dep/mar,rent,yes
+Random Forest,505,1,0,27,male single,own,yes
+Random Forest,506,0,0,36,male single,own,yes
+Random Forest,507,1,1,34,male single,own,yes
+Random Forest,508,0,0,28,male mar/wid,own,yes
+Random Forest,509,0,0,45,male single,own,yes
+Random Forest,510,1,1,26,male single,own,yes
+Random Forest,511,0,0,32,male single,for free,yes
+Random Forest,512,0,0,26,male single,rent,yes
+Random Forest,513,0,0,20,male mar/wid,rent,yes
+Random Forest,514,0,0,54,male single,own,yes
+Random Forest,515,0,0,37,female div/dep/mar,own,no
+Random Forest,516,0,0,40,male single,own,no
+Random Forest,517,1,0,23,female div/dep/mar,rent,yes
+Random Forest,518,0,1,43,male single,own,yes
+Random Forest,519,0,0,36,male single,for free,yes
+Random Forest,520,0,0,44,male single,for free,yes
+Random Forest,521,1,0,24,female div/dep/mar,own,yes
+Random Forest,522,1,1,53,male single,for free,yes
+Random Forest,523,0,0,23,female div/dep/mar,own,yes
+Random Forest,524,0,0,26,female div/dep/mar,own,yes
+Random Forest,525,0,1,30,male single,own,yes
+Random Forest,526,0,0,31,female div/dep/mar,own,yes
+Random Forest,527,0,0,42,male single,own,yes
+Random Forest,528,1,1,31,male div/sep,rent,yes
+Random Forest,529,0,0,41,male single,own,yes
+Random Forest,530,0,1,32,male single,own,yes
+Random Forest,531,1,0,28,female div/dep/mar,rent,yes
+Random Forest,532,0,0,41,male mar/wid,rent,yes
+Random Forest,533,0,0,26,male mar/wid,own,yes
+Random Forest,534,0,0,25,male single,own,yes
+Random Forest,535,1,0,33,male div/sep,rent,yes
+Random Forest,536,0,1,75,female div/dep/mar,own,yes
+Random Forest,537,0,0,37,female div/dep/mar,own,yes
+Random Forest,538,1,1,42,male single,for free,yes
+Random Forest,539,0,1,45,female div/dep/mar,own,yes
+Random Forest,540,1,0,23,male mar/wid,rent,yes
+Random Forest,541,0,0,60,male single,for free,yes
+Random Forest,542,1,1,31,male single,own,yes
+Random Forest,543,1,0,34,male single,own,yes
+Random Forest,544,0,0,61,male single,own,yes
+Random Forest,545,1,1,43,male single,for free,yes
+Random Forest,546,0,0,37,female div/dep/mar,own,yes
+Random Forest,547,0,0,32,male single,own,yes
+Random Forest,548,1,0,24,female div/dep/mar,own,yes
+Random Forest,549,0,0,35,male single,for free,yes
+Random Forest,550,0,0,23,female div/dep/mar,own,yes
+Random Forest,551,0,0,45,male single,own,yes
+Random Forest,552,1,1,34,male mar/wid,own,yes
+Random Forest,553,0,0,27,male single,own,yes
+Random Forest,554,0,1,67,female div/dep/mar,own,yes
+Random Forest,555,1,1,22,male single,own,yes
+Random Forest,556,1,1,28,female div/dep/mar,own,yes
+Random Forest,557,1,0,29,female div/dep/mar,own,yes
+Random Forest,558,1,1,27,male single,own,yes
+Random Forest,559,1,0,31,male single,own,yes
+Random Forest,560,0,0,49,male single,for free,yes
+Random Forest,561,1,1,24,male single,rent,yes
+Random Forest,562,0,0,29,female div/dep/mar,own,yes
+Random Forest,563,1,1,37,male single,for free,yes
+Random Forest,564,0,0,37,male single,own,yes
+Random Forest,565,0,1,23,female div/dep/mar,rent,yes
+Random Forest,566,1,1,36,male div/sep,own,yes
+Random Forest,567,0,0,34,male single,own,yes
+Random Forest,568,0,0,41,male single,own,yes
+Random Forest,569,1,1,31,female div/dep/mar,own,yes
+Random Forest,570,1,1,23,female div/dep/mar,rent,yes
+Random Forest,571,0,0,38,male single,own,yes
+Random Forest,572,0,0,26,female div/dep/mar,rent,yes
+Random Forest,573,0,0,22,female div/dep/mar,own,yes
+Random Forest,574,0,0,27,male single,own,yes
+Random Forest,575,0,0,24,female div/dep/mar,own,yes
+Random Forest,576,0,0,27,female div/dep/mar,own,yes
+Random Forest,577,0,0,33,female div/dep/mar,own,yes
+Random Forest,578,1,1,27,male div/sep,own,yes
+Random Forest,579,0,0,27,male mar/wid,own,yes
+Random Forest,580,1,1,30,male single,own,yes
+Random Forest,581,0,0,49,male single,own,yes
+Random Forest,582,0,0,26,female div/dep/mar,rent,yes
+Random Forest,583,1,0,33,male single,rent,yes
+Random Forest,584,0,0,52,female div/dep/mar,for free,yes
+Random Forest,585,1,1,20,female div/dep/mar,rent,yes
+Random Forest,586,0,0,36,male single,rent,yes
+Random Forest,587,0,0,21,male single,own,yes
+Random Forest,588,1,0,47,male mar/wid,own,yes
+Random Forest,589,1,0,60,male single,own,yes
+Random Forest,590,0,0,58,female div/dep/mar,own,yes
+Random Forest,591,0,0,42,female div/dep/mar,rent,yes
+Random Forest,592,0,0,36,female div/dep/mar,own,yes
+Random Forest,593,1,1,20,female div/dep/mar,rent,yes
+Random Forest,594,1,0,40,male single,own,yes
+Random Forest,595,1,0,32,female div/dep/mar,own,yes
+Random Forest,596,1,1,23,female div/dep/mar,rent,yes
+Random Forest,597,1,1,36,male single,own,yes
+Random Forest,598,1,0,31,male single,own,yes
+Random Forest,599,0,0,32,male single,for free,yes
+Random Forest,600,0,0,45,female div/dep/mar,own,yes
+Random Forest,601,1,1,30,female div/dep/mar,own,yes
+Random Forest,602,1,1,34,female div/dep/mar,for free,yes
+Random Forest,603,1,0,28,female div/dep/mar,own,yes
+Random Forest,604,0,0,23,female div/dep/mar,own,yes
+Random Forest,605,0,0,22,male single,own,yes
+Random Forest,606,0,0,74,male single,own,yes
+Random Forest,607,1,1,50,female div/dep/mar,for free,yes
+Random Forest,608,0,0,33,male single,own,yes
+Random Forest,609,0,0,45,male single,for free,yes
+Random Forest,610,1,1,22,female div/dep/mar,own,yes
+Random Forest,611,1,0,48,female div/dep/mar,for free,yes
+Random Forest,612,0,0,29,female div/dep/mar,own,yes
+Random Forest,613,0,0,22,female div/dep/mar,rent,no
+Random Forest,614,1,0,22,female div/dep/mar,own,yes
+Random Forest,615,0,1,48,male single,own,yes
+Random Forest,616,0,0,27,male single,for free,yes
+Random Forest,617,0,0,37,male single,rent,yes
+Random Forest,618,1,1,21,female div/dep/mar,rent,yes
+Random Forest,619,0,0,49,male div/sep,own,yes
+Random Forest,620,0,0,27,male single,own,yes
+Random Forest,621,1,0,32,male single,own,yes
+Random Forest,622,1,0,38,male div/sep,own,yes
+Random Forest,623,0,0,22,female div/dep/mar,rent,yes
+Random Forest,624,1,1,65,male single,for free,yes
+Random Forest,625,0,0,35,male single,own,yes
+Random Forest,626,0,0,41,male single,own,yes
+Random Forest,627,1,1,29,male single,own,yes
+Random Forest,628,0,0,36,male single,own,yes
+Random Forest,629,0,0,64,male single,own,yes
+Random Forest,630,0,0,28,female div/dep/mar,own,yes
+Random Forest,631,1,1,44,male single,own,yes
+Random Forest,632,0,0,23,male single,own,yes
+Random Forest,633,1,0,19,female div/dep/mar,rent,yes
+Random Forest,634,1,1,25,female div/dep/mar,own,yes
+Random Forest,635,0,0,47,male single,own,yes
+Random Forest,636,0,0,28,female div/dep/mar,own,yes
+Random Forest,637,0,1,21,male single,own,yes
+Random Forest,638,0,0,34,female div/dep/mar,own,yes
+Random Forest,639,1,1,26,male single,own,yes
+Random Forest,640,1,1,27,female div/dep/mar,own,yes
+Random Forest,641,0,0,38,male single,own,yes
+Random Forest,642,1,0,40,male single,own,yes
+Random Forest,643,0,0,33,male mar/wid,own,yes
+Random Forest,644,0,0,32,male mar/wid,own,yes
+Random Forest,645,1,0,27,male single,rent,yes
+Random Forest,646,0,1,32,male div/sep,own,yes
+Random Forest,647,1,0,26,female div/dep/mar,own,yes
+Random Forest,648,1,1,38,male single,for free,yes
+Random Forest,649,1,0,40,male single,rent,yes
+Random Forest,650,0,1,50,male single,for free,yes
+Random Forest,651,1,0,37,male single,own,yes
+Random Forest,652,1,0,45,male single,own,yes
+Random Forest,653,1,1,42,male single,own,yes
+Random Forest,654,0,0,35,male single,own,yes
+Random Forest,655,0,0,22,male single,for free,yes
+Random Forest,656,1,1,41,male single,own,yes
+Random Forest,657,0,0,37,male single,own,yes
+Random Forest,658,0,1,28,female div/dep/mar,own,yes
+Random Forest,659,0,1,41,male single,own,yes
+Random Forest,660,0,1,23,male mar/wid,rent,yes
+Random Forest,661,1,1,23,male mar/wid,own,yes
+Random Forest,662,0,0,50,male single,own,yes
+Random Forest,663,0,1,35,male single,own,yes
+Random Forest,664,0,0,50,female div/dep/mar,own,yes
+Random Forest,665,0,0,27,male single,own,yes
+Random Forest,666,0,0,34,male single,own,yes
+Random Forest,667,0,0,27,female div/dep/mar,own,yes
+Random Forest,668,1,0,43,male single,rent,yes
+Random Forest,669,0,0,47,male single,own,yes
+Random Forest,670,0,0,27,male single,own,yes
+Random Forest,671,0,1,31,male single,own,yes
+Random Forest,672,0,0,42,male single,own,yes
+Random Forest,673,0,0,24,male mar/wid,own,yes
+Random Forest,674,1,0,41,male single,own,yes
+Random Forest,675,0,0,26,female div/dep/mar,rent,yes
+Random Forest,676,0,0,33,male single,own,yes
+Random Forest,677,1,1,24,male mar/wid,own,yes
+Random Forest,678,0,1,64,male single,rent,yes
+Random Forest,679,0,0,26,female div/dep/mar,own,yes
+Random Forest,680,0,0,56,female div/dep/mar,own,yes
+Random Forest,681,0,0,37,male single,for free,yes
+Random Forest,682,0,0,33,male mar/wid,own,yes
+Random Forest,683,0,0,47,male mar/wid,for free,yes
+Random Forest,684,0,1,31,male single,own,yes
+Random Forest,685,0,0,34,male single,for free,yes
+Random Forest,686,0,0,27,male single,own,yes
+Random Forest,687,0,1,30,male single,for free,yes
+Random Forest,688,0,0,35,male single,own,yes
+Random Forest,689,0,0,31,male single,own,yes
+Random Forest,690,0,1,25,male div/sep,own,yes
+Random Forest,691,0,0,25,female div/dep/mar,own,yes
+Random Forest,692,0,1,29,male single,own,yes
+Random Forest,693,0,0,44,male single,own,yes
+Random Forest,694,0,0,28,male single,own,yes
+Random Forest,695,0,0,50,male single,rent,yes
+Random Forest,696,0,0,29,male single,own,no
+Random Forest,697,0,0,38,female div/dep/mar,own,yes
+Random Forest,698,0,0,24,male single,own,yes
+Random Forest,699,0,0,40,male single,rent,yes
+Random Forest,700,1,0,29,female div/dep/mar,rent,yes
+Random Forest,701,1,1,46,male single,for free,yes
+Random Forest,702,0,0,47,female div/dep/mar,for free,yes
+Random Forest,703,0,1,41,male single,own,yes
+Random Forest,704,0,1,32,female div/dep/mar,own,yes
+Random Forest,705,0,0,35,female div/dep/mar,for free,yes
+Random Forest,706,1,1,24,male single,own,yes
+Random Forest,707,1,1,25,female div/dep/mar,rent,yes
+Random Forest,708,0,0,25,female div/dep/mar,own,yes
+Random Forest,709,0,0,37,male single,own,yes
+Random Forest,710,0,0,32,male single,own,yes
+Random Forest,711,1,1,35,female div/dep/mar,for free,yes
+Random Forest,712,0,0,46,male single,own,yes
+Random Forest,713,0,0,25,male single,own,yes
+Random Forest,714,1,1,27,male single,own,yes
+Random Forest,715,0,0,63,male single,own,yes
+Random Forest,716,0,0,40,male single,own,yes
+Random Forest,717,0,0,32,male single,for free,yes
+Random Forest,718,0,0,31,male single,own,yes
+Random Forest,719,0,1,31,male mar/wid,own,yes
+Random Forest,720,1,0,34,male single,own,yes
+Random Forest,721,1,1,24,female div/dep/mar,rent,yes
+Random Forest,722,1,1,24,female div/dep/mar,own,yes
+Random Forest,723,0,1,66,female div/dep/mar,own,yes
+Random Forest,724,1,0,21,female div/dep/mar,rent,yes
+Random Forest,725,0,0,41,female div/dep/mar,own,yes
+Random Forest,726,0,0,47,male mar/wid,own,yes
+Random Forest,727,1,1,25,female div/dep/mar,rent,yes
+Random Forest,728,1,1,59,female div/dep/mar,rent,yes
+Random Forest,729,0,0,36,male div/sep,own,yes
+Random Forest,730,0,1,33,male single,own,yes
+Random Forest,731,1,1,21,male single,rent,yes
+Random Forest,732,0,0,44,female div/dep/mar,own,yes
+Random Forest,733,0,0,28,female div/dep/mar,rent,yes
+Random Forest,734,0,0,37,female div/dep/mar,own,yes
+Random Forest,735,0,0,29,female div/dep/mar,own,yes
+Random Forest,736,1,0,23,female div/dep/mar,rent,yes
+Random Forest,737,0,1,35,male single,own,yes
+Random Forest,738,0,0,45,male single,own,yes
+Random Forest,739,1,1,26,female div/dep/mar,rent,yes
+Random Forest,740,0,1,32,male single,own,yes
+Random Forest,741,0,1,23,male single,own,yes
+Random Forest,742,0,0,41,male single,own,yes
+Random Forest,743,0,0,22,male single,own,yes
+Random Forest,744,0,1,30,male single,own,yes
+Random Forest,745,0,0,28,male single,own,yes
+Random Forest,746,0,0,23,female div/dep/mar,rent,yes
+Random Forest,747,1,1,37,female div/dep/mar,own,yes
+Random Forest,748,0,0,26,male single,own,yes
+Random Forest,749,0,0,33,male single,own,yes
+Random Forest,750,0,0,49,female div/dep/mar,own,yes
+Random Forest,751,1,1,23,female div/dep/mar,own,yes
+Random Forest,752,0,0,23,female div/dep/mar,rent,yes
+Random Forest,753,0,0,25,female div/dep/mar,own,yes
+Random Forest,754,1,0,55,male single,for free,yes
+Random Forest,755,1,1,32,female div/dep/mar,rent,yes
+Random Forest,756,0,0,74,male single,own,no
+Random Forest,757,1,0,39,male single,for free,yes
+Random Forest,758,0,0,31,male single,own,yes
+Random Forest,759,1,0,35,male single,own,yes
+Random Forest,760,0,0,59,female div/dep/mar,own,yes
+Random Forest,761,1,1,24,female div/dep/mar,rent,yes
+Random Forest,762,0,1,24,male single,own,yes
+Random Forest,763,1,0,30,male single,for free,yes
+Random Forest,764,0,0,27,male mar/wid,own,yes
+Random Forest,765,0,0,40,male mar/wid,own,yes
+Random Forest,766,1,1,31,male div/sep,own,yes
+Random Forest,767,0,0,31,female div/dep/mar,rent,yes
+Random Forest,768,0,0,28,male single,rent,yes
+Random Forest,769,0,0,63,male single,own,yes
+Random Forest,770,0,0,26,female div/dep/mar,rent,yes
+Random Forest,771,1,1,25,female div/dep/mar,own,yes
+Random Forest,772,0,0,36,male single,own,yes
+Random Forest,773,0,0,52,male single,own,yes
+Random Forest,774,0,0,66,male single,for free,yes
+Random Forest,775,1,1,25,female div/dep/mar,rent,yes
+Random Forest,776,0,0,37,male single,own,yes
+Random Forest,777,0,0,25,female div/dep/mar,own,yes
+Random Forest,778,0,0,38,male single,own,yes
+Random Forest,779,0,0,67,female div/dep/mar,own,yes
+Random Forest,780,1,0,25,male single,own,yes
+Random Forest,781,0,0,60,male single,own,yes
+Random Forest,782,0,1,31,male single,own,yes
+Random Forest,783,1,1,23,female div/dep/mar,own,yes
+Random Forest,784,0,0,60,male div/sep,own,yes
+Random Forest,785,0,0,35,male single,own,yes
+Random Forest,786,0,0,40,male single,own,yes
+Random Forest,787,0,0,38,male single,own,yes
+Random Forest,788,1,1,50,male single,for free,yes
+Random Forest,789,1,1,27,male single,own,yes
+Random Forest,790,1,0,39,female div/dep/mar,own,yes
+Random Forest,791,0,0,41,male single,own,yes
+Random Forest,792,0,0,27,male mar/wid,own,yes
+Random Forest,793,0,0,51,male div/sep,for free,yes
+Random Forest,794,0,0,32,male single,rent,yes
+Random Forest,795,0,0,22,female div/dep/mar,rent,yes
+Random Forest,796,1,0,51,male single,for free,yes
+Random Forest,797,0,0,22,female div/dep/mar,rent,yes
+Random Forest,798,0,0,54,male mar/wid,own,yes
+Random Forest,799,0,0,35,male single,own,yes
+Random Forest,800,0,0,54,male single,for free,yes
+Random Forest,801,0,0,48,female div/dep/mar,rent,yes
+Random Forest,802,0,1,24,female div/dep/mar,own,yes
+Random Forest,803,0,0,35,male single,own,yes
+Random Forest,804,0,0,24,female div/dep/mar,rent,yes
+Random Forest,805,1,1,24,male single,own,yes
+Random Forest,806,0,0,26,male mar/wid,own,no
+Random Forest,807,0,0,65,male single,own,yes
+Random Forest,808,0,1,55,male single,for free,yes
+Random Forest,809,1,1,26,female div/dep/mar,rent,yes
+Random Forest,810,0,1,26,male mar/wid,own,yes
+Random Forest,811,0,0,28,male mar/wid,own,yes
+Random Forest,812,1,0,24,male single,own,yes
+Random Forest,813,1,1,54,male single,own,yes
+Random Forest,814,1,1,46,male single,for free,yes
+Random Forest,815,0,1,54,female div/dep/mar,rent,yes
+Random Forest,816,0,0,62,male div/sep,own,yes
+Random Forest,817,0,0,24,female div/dep/mar,rent,yes
+Random Forest,818,0,1,43,male div/sep,own,yes
+Random Forest,819,1,1,26,male mar/wid,own,yes
+Random Forest,820,0,0,27,male mar/wid,own,yes
+Random Forest,821,0,0,24,male mar/wid,own,yes
+Random Forest,822,1,1,41,male single,own,yes
+Random Forest,823,0,0,47,male single,own,yes
+Random Forest,824,0,0,35,male div/sep,own,yes
+Random Forest,825,0,1,30,male mar/wid,own,yes
+Random Forest,826,1,0,33,female div/dep/mar,rent,yes
+Random Forest,827,1,0,36,male single,own,yes
+Random Forest,828,1,0,47,male single,for free,yes
+Random Forest,829,0,1,38,male single,for free,yes
+Random Forest,830,0,0,44,male single,own,yes
+Random Forest,831,1,1,23,female div/dep/mar,rent,yes
+Random Forest,832,1,1,29,male single,rent,yes
+Random Forest,833,0,0,42,female div/dep/mar,own,yes
+Random Forest,834,1,0,25,female div/dep/mar,own,yes
+Random Forest,835,1,1,48,male single,own,yes
+Random Forest,836,0,0,21,female div/dep/mar,own,yes
+Random Forest,837,0,0,23,female div/dep/mar,rent,yes
+Random Forest,838,0,0,63,male single,own,yes
+Random Forest,839,0,0,46,male mar/wid,own,yes
+Random Forest,840,1,1,29,male single,own,yes
+Random Forest,841,0,0,28,male single,own,yes
+Random Forest,842,1,0,23,female div/dep/mar,own,yes
+Random Forest,843,0,0,50,male single,own,yes
+Random Forest,844,0,0,47,male single,own,yes
+Random Forest,845,0,0,35,male single,own,yes
+Random Forest,846,1,0,68,male single,rent,yes
+Random Forest,847,0,0,28,male mar/wid,own,yes
+Random Forest,848,0,0,59,male single,own,yes
+Random Forest,849,1,1,57,male single,own,yes
+Random Forest,850,1,0,33,male mar/wid,rent,no
+Random Forest,851,0,0,43,male single,own,yes
+Random Forest,852,0,0,35,male single,for free,yes
+Random Forest,853,1,1,32,male single,for free,yes
+Random Forest,854,0,1,45,male single,own,yes
+Random Forest,855,0,0,33,male mar/wid,own,yes
+Random Forest,856,0,0,40,female div/dep/mar,own,yes
+Random Forest,857,0,0,28,male single,for free,yes
+Random Forest,858,1,0,29,female div/dep/mar,own,yes
+Random Forest,859,0,0,26,male single,rent,no
+Random Forest,860,0,0,27,male single,own,yes
+Random Forest,861,1,0,28,male mar/wid,own,yes
+Random Forest,862,1,1,35,female div/dep/mar,own,yes
+Random Forest,863,0,0,32,male single,own,yes
+Random Forest,864,1,0,25,male single,rent,yes
+Random Forest,865,0,0,20,female div/dep/mar,rent,yes
+Random Forest,866,0,1,27,female div/dep/mar,own,yes
+Random Forest,867,0,0,42,male single,own,yes
+Random Forest,868,0,1,37,male single,own,yes
+Random Forest,869,0,1,24,female div/dep/mar,rent,yes
+Random Forest,870,0,1,40,female div/dep/mar,own,yes
+Random Forest,871,0,0,46,male single,own,no
+Random Forest,872,0,1,26,male single,own,yes
+Random Forest,873,0,0,24,female div/dep/mar,own,yes
+Random Forest,874,0,0,29,male single,own,yes
+Random Forest,875,0,0,40,female div/dep/mar,own,yes
+Random Forest,876,0,1,36,male single,for free,yes
+Random Forest,877,0,0,28,male single,own,yes
+Random Forest,878,1,1,27,male single,for free,yes
+Random Forest,879,0,0,36,male single,own,yes
+Random Forest,880,0,0,38,male single,own,yes
+Random Forest,881,0,0,48,male div/sep,for free,yes
+Random Forest,882,0,0,36,male single,own,yes
+Random Forest,883,0,0,65,female div/dep/mar,own,yes
+Random Forest,884,1,1,43,male div/sep,own,yes
+Random Forest,885,1,1,53,female div/dep/mar,own,yes
+Random Forest,886,0,0,34,male single,own,yes
+Random Forest,887,1,1,23,male single,own,yes
+Random Forest,888,0,0,34,male single,own,yes
+Random Forest,889,0,1,40,male single,rent,yes
+Random Forest,890,0,0,43,male single,own,yes
+Random Forest,891,0,0,46,male single,own,yes
+Random Forest,892,0,0,38,male single,own,no
+Random Forest,893,0,0,34,male single,own,yes
+Random Forest,894,0,0,29,male single,own,yes
+Random Forest,895,0,0,31,male single,own,yes
+Random Forest,896,0,1,28,female div/dep/mar,rent,yes
+Random Forest,897,0,0,35,female div/dep/mar,own,no
+Random Forest,898,0,0,33,female div/dep/mar,rent,yes
+Random Forest,899,1,0,42,male single,own,yes
+Random Forest,900,1,0,43,male single,rent,yes
+Random Forest,901,0,0,44,male div/sep,own,yes
+Random Forest,902,0,0,42,male single,for free,yes
+Random Forest,903,0,0,40,male mar/wid,rent,yes
+Random Forest,904,0,0,36,male single,own,yes
+Random Forest,905,0,0,20,male single,rent,yes
+Random Forest,906,0,0,24,male single,own,no
+Random Forest,907,0,0,27,male mar/wid,own,yes
+Random Forest,908,0,0,46,female div/dep/mar,own,yes
+Random Forest,909,0,0,33,female div/dep/mar,own,yes
+Random Forest,910,0,0,34,female div/dep/mar,own,yes
+Random Forest,911,1,1,25,female div/dep/mar,own,yes
+Random Forest,912,0,0,25,female div/dep/mar,own,yes
+Random Forest,913,0,0,28,male div/sep,own,yes
+Random Forest,914,1,1,31,male single,rent,yes
+Random Forest,915,1,1,32,female div/dep/mar,own,no
+Random Forest,916,0,0,32,male single,own,yes
+Random Forest,917,1,1,68,male single,own,yes
+Random Forest,918,1,1,33,male div/sep,own,yes
+Random Forest,919,1,1,39,male single,rent,yes
+Random Forest,920,0,0,28,female div/dep/mar,own,yes
+Random Forest,921,0,1,37,male single,own,yes
+Random Forest,922,1,0,22,female div/dep/mar,rent,yes
+Random Forest,923,0,0,30,male single,rent,yes
+Random Forest,924,1,1,55,male div/sep,own,yes
+Random Forest,925,1,1,46,male single,own,yes
+Random Forest,926,0,1,21,female div/dep/mar,rent,yes
+Random Forest,927,1,1,39,male single,for free,yes
+Random Forest,928,0,0,58,male single,own,yes
+Random Forest,929,0,0,43,male single,own,yes
+Random Forest,930,0,1,24,male single,own,no
+Random Forest,931,1,0,22,female div/dep/mar,own,yes
+Random Forest,932,0,0,30,male single,own,yes
+Random Forest,933,0,0,42,male single,own,yes
+Random Forest,934,0,0,23,female div/dep/mar,own,yes
+Random Forest,935,1,1,30,male single,own,yes
+Random Forest,936,1,0,28,female div/dep/mar,own,yes
+Random Forest,937,0,0,30,male mar/wid,rent,yes
+Random Forest,938,1,1,42,male single,for free,yes
+Random Forest,939,0,0,46,male single,own,yes
+Random Forest,940,0,0,45,male single,own,yes
+Random Forest,941,0,0,31,male single,own,no
+Random Forest,942,0,0,31,male single,own,yes
+Random Forest,943,0,0,42,male single,own,yes
+Random Forest,944,0,0,46,female div/dep/mar,rent,yes
+Random Forest,945,0,1,30,female div/dep/mar,own,yes
+Random Forest,946,1,1,30,male single,for free,yes
+Random Forest,947,0,0,38,male single,own,yes
+Random Forest,948,1,0,43,male mar/wid,own,yes
+Random Forest,949,1,0,31,male single,own,yes
+Random Forest,950,0,0,40,male mar/wid,own,yes
+Random Forest,951,1,1,24,male single,own,yes
+Random Forest,952,1,0,28,female div/dep/mar,rent,yes
+Random Forest,953,1,1,26,female div/dep/mar,own,yes
+Random Forest,954,0,1,29,female div/dep/mar,own,yes
+Random Forest,955,0,0,57,female div/dep/mar,rent,yes
+Random Forest,956,0,0,49,male single,own,yes
+Random Forest,957,0,0,37,male single,own,yes
+Random Forest,958,1,1,45,male single,own,yes
+Random Forest,959,0,1,30,male single,for free,yes
+Random Forest,960,0,0,30,male mar/wid,rent,yes
+Random Forest,961,0,1,47,male div/sep,own,yes
+Random Forest,962,0,0,29,male single,own,yes
+Random Forest,963,1,0,35,male single,own,yes
+Random Forest,964,0,0,22,male mar/wid,own,yes
+Random Forest,965,0,1,26,female div/dep/mar,own,yes
+Random Forest,966,1,0,23,male single,own,yes
+Random Forest,967,0,0,54,female div/dep/mar,rent,yes
+Random Forest,968,0,0,29,male mar/wid,rent,yes
+Random Forest,969,0,0,40,male single,own,yes
+Random Forest,970,0,0,22,male single,own,yes
+Random Forest,971,0,0,43,male single,own,yes
+Random Forest,972,1,1,29,female div/dep/mar,rent,yes
+Random Forest,973,1,1,36,male single,rent,yes
+Random Forest,974,0,0,33,female div/dep/mar,own,yes
+Random Forest,975,0,0,57,female div/dep/mar,own,yes
+Random Forest,976,0,0,64,female div/dep/mar,own,yes
+Random Forest,977,0,0,42,male single,own,yes
+Random Forest,978,1,0,47,male single,own,yes
+Random Forest,979,1,1,25,male mar/wid,rent,yes
+Random Forest,980,1,1,49,male single,own,yes
+Random Forest,981,1,0,33,male single,rent,yes
+Random Forest,982,0,0,28,female div/dep/mar,own,yes
+Random Forest,983,1,0,26,male single,own,yes
+Random Forest,984,0,0,30,male single,own,yes
+Random Forest,985,0,1,25,female div/dep/mar,rent,yes
+Random Forest,986,0,1,33,male div/sep,own,yes
+Random Forest,987,0,0,64,female div/dep/mar,own,yes
+Random Forest,988,0,1,29,male single,for free,yes
+Random Forest,989,0,1,48,male single,own,yes
+Random Forest,990,0,0,37,male single,own,yes
+Random Forest,991,0,0,34,male single,own,yes
+Random Forest,992,0,0,23,male mar/wid,rent,yes
+Random Forest,993,0,1,30,male single,own,yes
+Random Forest,994,0,0,50,male single,own,yes
+Random Forest,995,0,0,31,female div/dep/mar,own,yes
+Random Forest,996,0,1,40,male div/sep,own,yes
+Random Forest,997,0,0,38,male single,own,yes
+Random Forest,998,1,1,23,male single,for free,yes
+Random Forest,999,0,1,27,male single,own,yes
+Boosting,0,0,0,67,male single,own,yes
+Boosting,1,1,1,22,female div/dep/mar,own,yes
+Boosting,2,0,0,49,male single,own,yes
+Boosting,3,0,1,45,male single,for free,yes
+Boosting,4,1,1,53,male single,for free,yes
+Boosting,5,0,0,35,male single,for free,yes
+Boosting,6,0,0,53,male single,own,yes
+Boosting,7,0,0,35,male single,rent,yes
+Boosting,8,0,0,61,male div/sep,own,yes
+Boosting,9,1,1,28,male mar/wid,own,yes
+Boosting,10,1,1,25,female div/dep/mar,rent,yes
+Boosting,11,1,1,24,female div/dep/mar,rent,yes
+Boosting,12,0,0,22,female div/dep/mar,own,yes
+Boosting,13,1,1,60,male single,own,yes
+Boosting,14,0,1,28,female div/dep/mar,rent,yes
+Boosting,15,1,1,32,female div/dep/mar,own,yes
+Boosting,16,0,0,53,male single,own,yes
+Boosting,17,0,0,25,male single,own,yes
+Boosting,18,1,1,44,female div/dep/mar,for free,yes
+Boosting,19,0,0,31,male single,own,yes
+Boosting,20,0,0,48,male single,own,yes
+Boosting,21,0,0,44,male single,rent,yes
+Boosting,22,0,0,48,male single,rent,no
+Boosting,23,0,0,44,male single,own,yes
+Boosting,24,0,0,26,male mar/wid,own,no
+Boosting,25,0,0,36,male single,own,yes
+Boosting,26,0,0,39,male mar/wid,own,yes
+Boosting,27,0,0,42,female div/dep/mar,rent,yes
+Boosting,28,0,0,34,male single,own,yes
+Boosting,29,1,1,63,male single,own,yes
+Boosting,30,0,1,36,male mar/wid,own,yes
+Boosting,31,0,1,27,male single,own,yes
+Boosting,32,0,0,30,male single,own,yes
+Boosting,33,0,0,57,male single,rent,yes
+Boosting,34,0,0,33,female div/dep/mar,own,yes
+Boosting,35,1,1,25,male single,own,yes
+Boosting,36,0,1,31,male single,for free,yes
+Boosting,37,1,1,37,male single,own,yes
+Boosting,38,0,0,37,male single,own,yes
+Boosting,39,0,0,24,male single,own,yes
+Boosting,40,0,0,30,male single,own,yes
+Boosting,41,0,0,26,male div/sep,own,yes
+Boosting,42,0,0,44,male single,own,yes
+Boosting,43,0,0,24,male mar/wid,rent,yes
+Boosting,44,1,1,58,female div/dep/mar,for free,yes
+Boosting,45,0,0,35,female div/dep/mar,own,yes
+Boosting,46,0,0,39,male single,own,yes
+Boosting,47,0,0,23,female div/dep/mar,rent,yes
+Boosting,48,0,0,39,male single,own,yes
+Boosting,49,0,0,28,female div/dep/mar,own,yes
+Boosting,50,0,0,29,male single,own,yes
+Boosting,51,0,0,30,male single,own,yes
+Boosting,52,0,0,25,male single,own,yes
+Boosting,53,0,0,31,male single,own,yes
+Boosting,54,1,1,57,male single,for free,yes
+Boosting,55,0,0,26,male single,own,yes
+Boosting,56,1,0,52,male single,own,yes
+Boosting,57,0,0,31,female div/dep/mar,own,yes
+Boosting,58,0,1,23,female div/dep/mar,own,yes
+Boosting,59,1,1,23,female div/dep/mar,rent,yes
+Boosting,60,0,0,27,male mar/wid,own,yes
+Boosting,61,0,0,50,male single,own,yes
+Boosting,62,1,1,61,male single,for free,yes
+Boosting,63,1,1,25,male single,own,yes
+Boosting,64,0,0,26,female div/dep/mar,own,yes
+Boosting,65,0,0,48,male single,own,yes
+Boosting,66,0,0,29,female div/dep/mar,own,yes
+Boosting,67,0,0,22,male mar/wid,own,yes
+Boosting,68,1,0,37,male single,for free,yes
+Boosting,69,0,0,25,female div/dep/mar,own,yes
+Boosting,70,0,0,30,female div/dep/mar,own,yes
+Boosting,71,0,0,46,male single,rent,yes
+Boosting,72,0,0,51,male single,for free,yes
+Boosting,73,0,0,41,female div/dep/mar,own,yes
+Boosting,74,1,0,40,male single,own,yes
+Boosting,75,0,0,66,male single,for free,yes
+Boosting,76,1,1,34,male single,own,yes
+Boosting,77,0,0,51,male single,own,yes
+Boosting,78,0,0,39,male single,own,yes
+Boosting,79,0,0,22,male mar/wid,own,yes
+Boosting,80,1,0,44,female div/dep/mar,own,yes
+Boosting,81,0,0,47,male single,own,yes
+Boosting,82,0,0,24,female div/dep/mar,rent,yes
+Boosting,83,0,0,58,female div/dep/mar,own,yes
+Boosting,84,0,0,52,male single,own,yes
+Boosting,85,0,0,29,female div/dep/mar,own,yes
+Boosting,86,0,0,27,female div/dep/mar,own,yes
+Boosting,87,1,1,47,male single,for free,yes
+Boosting,88,0,0,30,male single,own,yes
+Boosting,89,1,1,28,male single,own,yes
+Boosting,90,0,0,56,male single,own,yes
+Boosting,91,0,0,54,male single,own,yes
+Boosting,92,1,0,33,female div/dep/mar,own,yes
+Boosting,93,0,0,20,male single,rent,yes
+Boosting,94,0,0,54,male single,own,yes
+Boosting,95,1,1,58,male single,rent,yes
+Boosting,96,0,0,61,female div/dep/mar,own,yes
+Boosting,97,0,0,34,male single,own,yes
+Boosting,98,0,0,36,male single,own,yes
+Boosting,99,0,0,36,male single,rent,yes
+Boosting,100,0,0,41,male mar/wid,rent,yes
+Boosting,101,0,1,24,male single,rent,yes
+Boosting,102,0,0,24,female div/dep/mar,own,yes
+Boosting,103,0,0,35,male single,rent,yes
+Boosting,104,0,0,26,male mar/wid,rent,yes
+Boosting,105,1,0,39,male single,own,yes
+Boosting,106,1,0,39,male single,own,yes
+Boosting,107,0,0,32,male single,own,yes
+Boosting,108,0,1,30,female div/dep/mar,own,no
+Boosting,109,0,0,35,male mar/wid,own,yes
+Boosting,110,0,0,31,male div/sep,own,yes
+Boosting,111,0,0,23,female div/dep/mar,rent,yes
+Boosting,112,0,0,28,male single,rent,yes
+Boosting,113,1,0,25,female div/dep/mar,own,yes
+Boosting,114,0,0,35,male mar/wid,own,yes
+Boosting,115,0,0,47,male single,own,yes
+Boosting,116,1,0,30,female div/dep/mar,own,yes
+Boosting,117,0,0,27,female div/dep/mar,rent,no
+Boosting,118,1,0,23,female div/dep/mar,own,yes
+Boosting,119,0,0,36,male div/sep,own,yes
+Boosting,120,1,1,25,female div/dep/mar,own,yes
+Boosting,121,0,0,41,female div/dep/mar,rent,yes
+Boosting,122,0,0,24,male single,rent,yes
+Boosting,123,0,0,63,male single,for free,yes
+Boosting,124,1,0,27,female div/dep/mar,rent,yes
+Boosting,125,0,0,30,male single,own,yes
+Boosting,126,0,1,40,male mar/wid,own,yes
+Boosting,127,1,0,30,male single,own,yes
+Boosting,128,0,0,34,male single,own,yes
+Boosting,129,1,0,29,female div/dep/mar,own,yes
+Boosting,130,0,0,24,female div/dep/mar,own,yes
+Boosting,131,1,1,29,male single,own,yes
+Boosting,132,0,0,27,male single,own,yes
+Boosting,133,0,0,47,male single,for free,yes
+Boosting,134,0,0,21,female div/dep/mar,own,yes
+Boosting,135,0,0,38,female div/dep/mar,own,yes
+Boosting,136,0,0,27,male single,own,yes
+Boosting,137,1,0,66,male single,own,yes
+Boosting,138,0,0,35,male single,own,yes
+Boosting,139,0,0,44,female div/dep/mar,rent,yes
+Boosting,140,0,0,27,male mar/wid,own,no
+Boosting,141,0,1,30,female div/dep/mar,own,yes
+Boosting,142,0,1,27,male single,own,yes
+Boosting,143,1,0,22,male single,own,yes
+Boosting,144,0,0,23,female div/dep/mar,own,yes
+Boosting,145,0,1,30,male single,own,yes
+Boosting,146,0,0,39,female div/dep/mar,own,yes
+Boosting,147,0,0,51,female div/dep/mar,own,yes
+Boosting,148,0,1,28,male single,own,yes
+Boosting,149,0,0,46,male single,own,yes
+Boosting,150,0,0,42,male single,for free,yes
+Boosting,151,0,0,38,male single,own,no
+Boosting,152,0,0,24,male single,own,yes
+Boosting,153,0,0,29,female div/dep/mar,rent,yes
+Boosting,154,0,0,36,male single,rent,yes
+Boosting,155,1,1,20,female div/dep/mar,rent,yes
+Boosting,156,0,0,48,male single,own,no
+Boosting,157,0,1,45,male mar/wid,own,yes
+Boosting,158,0,0,38,male single,own,yes
+Boosting,159,0,0,34,male single,own,yes
+Boosting,160,0,0,36,male single,own,yes
+Boosting,161,0,0,30,female div/dep/mar,own,yes
+Boosting,162,0,0,36,male single,own,yes
+Boosting,163,0,0,70,male single,for free,yes
+Boosting,164,0,0,36,male single,own,yes
+Boosting,165,0,0,32,male single,own,yes
+Boosting,166,1,1,33,female div/dep/mar,own,yes
+Boosting,167,0,0,20,female div/dep/mar,own,yes
+Boosting,168,0,0,25,female div/dep/mar,rent,yes
+Boosting,169,1,1,31,male div/sep,own,yes
+Boosting,170,1,1,33,male single,rent,yes
+Boosting,171,0,0,26,female div/dep/mar,own,yes
+Boosting,172,1,1,34,female div/dep/mar,own,yes
+Boosting,173,0,0,33,male single,own,no
+Boosting,174,1,0,26,male single,own,yes
+Boosting,175,1,0,53,female div/dep/mar,own,yes
+Boosting,176,0,1,42,male div/sep,own,yes
+Boosting,177,0,0,52,male single,own,yes
+Boosting,178,0,0,31,male single,rent,yes
+Boosting,179,0,1,65,male single,own,yes
+Boosting,180,1,0,28,male div/sep,own,yes
+Boosting,181,1,0,30,male div/sep,own,yes
+Boosting,182,1,1,40,male single,own,yes
+Boosting,183,0,0,50,male single,own,yes
+Boosting,184,1,1,36,male single,own,yes
+Boosting,185,0,0,31,male single,own,yes
+Boosting,186,1,0,74,female div/dep/mar,for free,yes
+Boosting,187,0,1,68,male single,for free,yes
+Boosting,188,1,1,20,male mar/wid,own,yes
+Boosting,189,0,1,33,female div/dep/mar,own,yes
+Boosting,190,1,0,54,male single,own,yes
+Boosting,191,1,1,34,male single,for free,yes
+Boosting,192,1,0,36,male single,own,yes
+Boosting,193,0,0,29,male mar/wid,rent,yes
+Boosting,194,1,1,21,male single,rent,yes
+Boosting,195,1,0,34,female div/dep/mar,own,yes
+Boosting,196,0,0,28,female div/dep/mar,own,yes
+Boosting,197,1,0,27,female div/dep/mar,rent,yes
+Boosting,198,0,0,36,male single,for free,yes
+Boosting,199,1,0,40,male div/sep,own,yes
+Boosting,200,0,0,52,male single,own,yes
+Boosting,201,0,1,27,male mar/wid,own,yes
+Boosting,202,0,0,26,male single,own,yes
+Boosting,203,1,0,21,male mar/wid,rent,yes
+Boosting,204,0,0,38,male single,own,yes
+Boosting,205,0,1,38,male single,for free,yes
+Boosting,206,0,0,43,male single,own,yes
+Boosting,207,0,0,26,male single,own,yes
+Boosting,208,0,0,21,male mar/wid,own,yes
+Boosting,209,0,0,55,male single,own,no
+Boosting,210,0,0,33,male single,own,yes
+Boosting,211,0,0,45,female div/dep/mar,own,yes
+Boosting,212,1,0,50,male single,own,yes
+Boosting,213,1,0,66,male single,own,yes
+Boosting,214,0,0,51,male single,own,yes
+Boosting,215,0,0,39,female div/dep/mar,own,yes
+Boosting,216,0,0,31,male single,own,yes
+Boosting,217,0,1,23,male single,own,yes
+Boosting,218,0,0,24,male div/sep,rent,yes
+Boosting,219,0,0,64,female div/dep/mar,own,yes
+Boosting,220,0,0,26,male mar/wid,own,yes
+Boosting,221,0,0,23,female div/dep/mar,rent,yes
+Boosting,222,0,0,30,male single,own,yes
+Boosting,223,0,0,32,male single,own,yes
+Boosting,224,0,0,30,male single,own,yes
+Boosting,225,0,0,27,male single,own,yes
+Boosting,226,1,0,27,male single,own,yes
+Boosting,227,1,1,53,male single,for free,yes
+Boosting,228,1,0,22,male single,own,yes
+Boosting,229,0,1,22,male single,for free,yes
+Boosting,230,1,0,26,male single,own,yes
+Boosting,231,0,0,51,male single,for free,yes
+Boosting,232,0,0,35,male single,own,yes
+Boosting,233,0,0,25,male mar/wid,own,yes
+Boosting,234,0,0,42,male single,own,yes
+Boosting,235,1,0,30,male single,own,yes
+Boosting,236,1,1,23,male single,own,yes
+Boosting,237,1,0,61,male div/sep,rent,yes
+Boosting,238,0,0,35,female div/dep/mar,own,yes
+Boosting,239,0,0,39,male single,own,yes
+Boosting,240,1,1,29,female div/dep/mar,own,yes
+Boosting,241,0,0,51,male single,own,yes
+Boosting,242,1,1,24,male single,for free,yes
+Boosting,243,0,0,27,female div/dep/mar,own,yes
+Boosting,244,0,0,35,female div/dep/mar,own,yes
+Boosting,245,0,0,25,male single,own,yes
+Boosting,246,0,0,52,male single,own,yes
+Boosting,247,0,1,35,male single,rent,no
+Boosting,248,0,1,26,male single,own,yes
+Boosting,249,1,0,22,female div/dep/mar,rent,yes
+Boosting,250,0,0,39,female div/dep/mar,own,yes
+Boosting,251,0,0,46,female div/dep/mar,own,yes
+Boosting,252,1,1,24,female div/dep/mar,own,yes
+Boosting,253,0,0,35,male single,own,yes
+Boosting,254,0,0,24,male single,own,yes
+Boosting,255,0,0,27,male single,own,yes
+Boosting,256,0,0,35,male single,own,yes
+Boosting,257,1,1,29,male div/sep,for free,yes
+Boosting,258,0,0,23,female div/dep/mar,own,yes
+Boosting,259,0,0,57,female div/dep/mar,own,yes
+Boosting,260,0,0,27,male single,own,yes
+Boosting,261,0,1,55,female div/dep/mar,own,yes
+Boosting,262,0,1,36,male single,for free,yes
+Boosting,263,0,0,57,female div/dep/mar,for free,yes
+Boosting,264,0,0,32,male single,own,no
+Boosting,265,1,1,37,male single,own,yes
+Boosting,266,0,0,36,male single,own,yes
+Boosting,267,0,0,38,female div/dep/mar,own,yes
+Boosting,268,1,0,45,male div/sep,own,no
+Boosting,269,0,0,25,male single,own,yes
+Boosting,270,0,0,32,male single,own,no
+Boosting,271,0,0,37,female div/dep/mar,rent,yes
+Boosting,272,0,1,36,male single,for free,yes
+Boosting,273,1,1,28,male single,own,yes
+Boosting,274,1,1,34,male div/sep,own,yes
+Boosting,275,0,0,32,male single,own,yes
+Boosting,276,0,0,26,female div/dep/mar,own,yes
+Boosting,277,0,0,49,male div/sep,own,yes
+Boosting,278,1,0,32,female div/dep/mar,own,yes
+Boosting,279,0,0,29,male single,rent,yes
+Boosting,280,0,0,23,male single,rent,yes
+Boosting,281,0,0,50,male single,own,yes
+Boosting,282,0,0,49,male single,own,yes
+Boosting,283,0,0,63,male single,own,yes
+Boosting,284,0,1,37,male div/sep,own,yes
+Boosting,285,0,1,35,female div/dep/mar,own,yes
+Boosting,286,0,1,26,male single,own,yes
+Boosting,287,0,1,31,male single,for free,yes
+Boosting,288,0,0,49,female div/dep/mar,own,yes
+Boosting,289,1,1,48,male mar/wid,own,yes
+Boosting,290,0,0,26,male mar/wid,own,no
+Boosting,291,1,1,28,male mar/wid,rent,yes
+Boosting,292,0,0,44,female div/dep/mar,for free,yes
+Boosting,293,0,0,56,male single,for free,yes
+Boosting,294,0,0,46,male div/sep,own,yes
+Boosting,295,1,1,26,female div/dep/mar,own,yes
+Boosting,296,0,0,20,female div/dep/mar,rent,yes
+Boosting,297,0,0,45,male single,own,no
+Boosting,298,0,0,43,male single,own,yes
+Boosting,299,0,0,32,male single,own,yes
+Boosting,300,0,0,54,female div/dep/mar,own,yes
+Boosting,301,1,0,42,female div/dep/mar,own,yes
+Boosting,302,1,0,37,male single,own,yes
+Boosting,303,0,0,49,male single,own,yes
+Boosting,304,1,0,44,male single,for free,yes
+Boosting,305,0,0,33,male div/sep,own,yes
+Boosting,306,0,0,24,female div/dep/mar,rent,yes
+Boosting,307,1,1,33,male mar/wid,own,yes
+Boosting,308,1,0,24,female div/dep/mar,own,yes
+Boosting,309,0,0,22,male mar/wid,rent,yes
+Boosting,310,0,0,40,male single,for free,yes
+Boosting,311,0,0,25,male single,own,yes
+Boosting,312,0,0,26,female div/dep/mar,own,yes
+Boosting,313,1,1,25,male mar/wid,own,yes
+Boosting,314,0,0,29,male single,own,no
+Boosting,315,1,1,31,male single,own,yes
+Boosting,316,0,0,38,male single,own,yes
+Boosting,317,0,0,48,female div/dep/mar,own,yes
+Boosting,318,0,0,32,male single,own,yes
+Boosting,319,0,0,27,female div/dep/mar,own,yes
+Boosting,320,1,1,28,male mar/wid,own,yes
+Boosting,321,1,1,32,male div/sep,own,yes
+Boosting,322,0,0,34,male single,for free,yes
+Boosting,323,0,1,28,male single,own,yes
+Boosting,324,0,0,36,female div/dep/mar,own,yes
+Boosting,325,0,0,39,male single,own,no
+Boosting,326,0,0,49,male single,rent,yes
+Boosting,327,0,0,34,female div/dep/mar,own,yes
+Boosting,328,0,0,31,male single,own,yes
+Boosting,329,0,0,28,male single,own,yes
+Boosting,330,0,0,75,male single,for free,yes
+Boosting,331,1,0,30,female div/dep/mar,own,yes
+Boosting,332,1,1,24,female div/dep/mar,own,yes
+Boosting,333,1,0,24,female div/dep/mar,rent,yes
+Boosting,334,1,1,23,male single,rent,yes
+Boosting,335,1,0,44,male div/sep,rent,yes
+Boosting,336,0,0,23,female div/dep/mar,own,yes
+Boosting,337,1,1,24,female div/dep/mar,rent,yes
+Boosting,338,0,1,28,male single,own,yes
+Boosting,339,0,1,31,male div/sep,own,yes
+Boosting,340,0,1,24,female div/dep/mar,for free,yes
+Boosting,341,0,0,26,female div/dep/mar,rent,yes
+Boosting,342,0,1,25,male mar/wid,rent,yes
+Boosting,343,0,1,33,male single,own,yes
+Boosting,344,0,0,37,male single,own,yes
+Boosting,345,0,0,43,female div/dep/mar,own,yes
+Boosting,346,0,0,23,male single,own,yes
+Boosting,347,0,0,23,female div/dep/mar,rent,yes
+Boosting,348,0,0,34,male single,own,yes
+Boosting,349,1,0,32,male single,for free,yes
+Boosting,350,0,0,23,female div/dep/mar,rent,yes
+Boosting,351,1,1,29,female div/dep/mar,own,no
+Boosting,352,0,0,38,male single,own,yes
+Boosting,353,1,1,28,male single,rent,yes
+Boosting,354,0,0,46,male single,for free,yes
+Boosting,355,1,1,23,male single,own,yes
+Boosting,356,0,0,49,male single,own,yes
+Boosting,357,1,0,26,male single,own,yes
+Boosting,358,0,0,28,male mar/wid,own,yes
+Boosting,359,1,1,23,female div/dep/mar,rent,yes
+Boosting,360,0,1,61,male single,for free,yes
+Boosting,361,0,0,37,male single,own,yes
+Boosting,362,0,0,36,female div/dep/mar,own,yes
+Boosting,363,0,0,21,male mar/wid,rent,yes
+Boosting,364,1,0,25,male single,own,yes
+Boosting,365,0,0,36,male single,own,yes
+Boosting,366,0,0,27,male single,own,yes
+Boosting,367,0,0,22,female div/dep/mar,rent,yes
+Boosting,368,1,1,42,male single,own,yes
+Boosting,369,0,0,40,female div/dep/mar,rent,yes
+Boosting,370,0,0,36,male single,own,yes
+Boosting,371,0,0,33,male single,own,yes
+Boosting,372,0,0,23,female div/dep/mar,rent,yes
+Boosting,373,0,0,63,male single,for free,yes
+Boosting,374,1,1,60,female div/dep/mar,for free,yes
+Boosting,375,1,1,37,female div/dep/mar,rent,yes
+Boosting,376,0,0,34,male mar/wid,own,yes
+Boosting,377,0,0,36,male single,for free,yes
+Boosting,378,1,1,57,male single,for free,yes
+Boosting,379,0,0,52,female div/dep/mar,own,yes
+Boosting,380,0,0,39,male single,own,yes
+Boosting,381,1,1,38,female div/dep/mar,for free,yes
+Boosting,382,0,0,25,female div/dep/mar,rent,yes
+Boosting,383,0,0,26,male single,own,yes
+Boosting,384,0,1,26,male single,own,yes
+Boosting,385,0,0,25,female div/dep/mar,own,yes
+Boosting,386,0,0,21,female div/dep/mar,rent,yes
+Boosting,387,0,0,40,male single,own,yes
+Boosting,388,0,0,27,male single,own,yes
+Boosting,389,0,0,27,female div/dep/mar,own,yes
+Boosting,390,0,0,30,male mar/wid,own,yes
+Boosting,391,0,0,19,female div/dep/mar,rent,yes
+Boosting,392,0,1,39,male single,for free,yes
+Boosting,393,0,0,31,female div/dep/mar,own,yes
+Boosting,394,0,0,31,male single,own,yes
+Boosting,395,0,1,32,male single,rent,yes
+Boosting,396,0,0,55,female div/dep/mar,for free,yes
+Boosting,397,0,1,46,male mar/wid,own,yes
+Boosting,398,1,1,46,male div/sep,rent,yes
+Boosting,399,0,0,43,female div/dep/mar,own,yes
+Boosting,400,0,0,39,male mar/wid,own,yes
+Boosting,401,0,0,28,male mar/wid,own,yes
+Boosting,402,1,1,27,male single,own,yes
+Boosting,403,0,0,27,male single,own,yes
+Boosting,404,0,0,43,male single,own,yes
+Boosting,405,1,0,22,male mar/wid,own,yes
+Boosting,406,0,0,43,male single,own,yes
+Boosting,407,0,1,27,male mar/wid,own,no
+Boosting,408,0,0,26,male div/sep,own,yes
+Boosting,409,1,0,28,male mar/wid,own,yes
+Boosting,410,0,0,20,female div/dep/mar,own,yes
+Boosting,411,0,0,35,male single,own,yes
+Boosting,412,1,0,42,male single,own,yes
+Boosting,413,0,0,40,male single,rent,no
+Boosting,414,1,1,35,female div/dep/mar,own,yes
+Boosting,415,0,0,35,male single,own,yes
+Boosting,416,1,0,33,male single,own,yes
+Boosting,417,0,1,23,female div/dep/mar,rent,yes
+Boosting,418,0,0,31,female div/dep/mar,own,yes
+Boosting,419,1,0,33,female div/dep/mar,own,yes
+Boosting,420,0,0,20,female div/dep/mar,rent,yes
+Boosting,421,0,0,30,male single,own,yes
+Boosting,422,0,0,47,male single,own,yes
+Boosting,423,0,0,34,male single,own,yes
+Boosting,424,1,0,25,female div/dep/mar,own,yes
+Boosting,425,0,0,21,male mar/wid,rent,yes
+Boosting,426,0,0,29,male single,own,yes
+Boosting,427,0,0,46,male single,own,yes
+Boosting,428,0,0,20,male single,own,yes
+Boosting,429,1,0,55,female div/dep/mar,for free,yes
+Boosting,430,0,0,74,male single,own,yes
+Boosting,431,1,1,29,male single,own,yes
+Boosting,432,0,0,36,male single,for free,yes
+Boosting,433,0,0,33,male div/sep,own,yes
+Boosting,434,0,0,25,male single,own,yes
+Boosting,435,1,0,25,male mar/wid,own,yes
+Boosting,436,0,0,23,male mar/wid,rent,yes
+Boosting,437,0,0,37,female div/dep/mar,own,yes
+Boosting,438,0,0,65,male single,own,yes
+Boosting,439,1,0,26,female div/dep/mar,own,yes
+Boosting,440,0,0,39,male single,own,yes
+Boosting,441,0,0,30,female div/dep/mar,own,yes
+Boosting,442,0,0,29,male single,own,yes
+Boosting,443,1,1,41,male single,own,yes
+Boosting,444,1,1,30,female div/dep/mar,own,yes
+Boosting,445,0,0,41,female div/dep/mar,rent,yes
+Boosting,446,1,1,34,female div/dep/mar,own,yes
+Boosting,447,0,0,35,male single,own,yes
+Boosting,448,0,0,55,female div/dep/mar,own,yes
+Boosting,449,1,0,61,male mar/wid,own,yes
+Boosting,450,0,0,30,male single,own,yes
+Boosting,451,0,0,29,female div/dep/mar,own,yes
+Boosting,452,0,0,34,male single,own,yes
+Boosting,453,0,0,35,male single,own,yes
+Boosting,454,1,0,31,male single,own,yes
+Boosting,455,0,0,29,female div/dep/mar,own,yes
+Boosting,456,0,0,36,male single,rent,yes
+Boosting,457,1,0,35,male single,for free,yes
+Boosting,458,0,0,27,female div/dep/mar,own,yes
+Boosting,459,0,0,32,male single,own,yes
+Boosting,460,0,0,37,male single,own,yes
+Boosting,461,0,1,36,male single,own,yes
+Boosting,462,0,0,34,female div/dep/mar,rent,yes
+Boosting,463,0,0,38,male single,own,yes
+Boosting,464,0,1,34,male single,own,yes
+Boosting,465,0,0,63,male single,own,yes
+Boosting,466,1,1,29,female div/dep/mar,rent,yes
+Boosting,467,0,0,32,male single,own,yes
+Boosting,468,0,1,26,female div/dep/mar,own,yes
+Boosting,469,0,0,35,male single,own,yes
+Boosting,470,1,0,22,male mar/wid,rent,yes
+Boosting,471,1,0,23,female div/dep/mar,own,yes
+Boosting,472,1,0,28,male single,own,yes
+Boosting,473,0,0,36,male single,own,yes
+Boosting,474,1,0,33,male mar/wid,own,yes
+Boosting,475,1,0,26,female div/dep/mar,rent,yes
+Boosting,476,0,0,24,male single,own,yes
+Boosting,477,0,0,25,male single,own,yes
+Boosting,478,0,0,39,male single,own,yes
+Boosting,479,0,0,44,male single,own,yes
+Boosting,480,0,0,23,female div/dep/mar,own,yes
+Boosting,481,0,1,26,male single,own,yes
+Boosting,482,0,0,57,female div/dep/mar,rent,yes
+Boosting,483,0,0,30,female div/dep/mar,own,yes
+Boosting,484,0,0,44,male single,own,yes
+Boosting,485,1,0,47,male single,own,yes
+Boosting,486,0,0,52,male single,own,yes
+Boosting,487,0,0,62,female div/dep/mar,for free,yes
+Boosting,488,0,0,35,male single,rent,no
+Boosting,489,0,0,26,male single,rent,yes
+Boosting,490,0,0,26,male single,own,yes
+Boosting,491,1,1,42,female div/dep/mar,for free,yes
+Boosting,492,0,0,27,female div/dep/mar,own,yes
+Boosting,493,0,0,38,male single,own,yes
+Boosting,494,0,0,39,male single,rent,no
+Boosting,495,1,0,20,male mar/wid,own,yes
+Boosting,496,1,1,29,male single,rent,yes
+Boosting,497,0,0,40,male single,own,yes
+Boosting,498,0,0,32,male mar/wid,own,yes
+Boosting,499,0,0,28,male div/sep,own,yes
+Boosting,500,1,0,27,female div/dep/mar,own,yes
+Boosting,501,0,0,42,male single,for free,yes
+Boosting,502,0,0,49,male div/sep,own,yes
+Boosting,503,1,1,38,male single,own,yes
+Boosting,504,1,1,24,female div/dep/mar,rent,yes
+Boosting,505,1,0,27,male single,own,yes
+Boosting,506,0,0,36,male single,own,yes
+Boosting,507,1,1,34,male single,own,yes
+Boosting,508,0,0,28,male mar/wid,own,yes
+Boosting,509,0,0,45,male single,own,yes
+Boosting,510,1,1,26,male single,own,yes
+Boosting,511,0,0,32,male single,for free,yes
+Boosting,512,0,0,26,male single,rent,yes
+Boosting,513,0,0,20,male mar/wid,rent,yes
+Boosting,514,0,0,54,male single,own,yes
+Boosting,515,0,0,37,female div/dep/mar,own,no
+Boosting,516,0,0,40,male single,own,no
+Boosting,517,1,0,23,female div/dep/mar,rent,yes
+Boosting,518,0,1,43,male single,own,yes
+Boosting,519,0,0,36,male single,for free,yes
+Boosting,520,0,0,44,male single,for free,yes
+Boosting,521,1,0,24,female div/dep/mar,own,yes
+Boosting,522,1,1,53,male single,for free,yes
+Boosting,523,0,0,23,female div/dep/mar,own,yes
+Boosting,524,0,0,26,female div/dep/mar,own,yes
+Boosting,525,0,1,30,male single,own,yes
+Boosting,526,0,0,31,female div/dep/mar,own,yes
+Boosting,527,0,0,42,male single,own,yes
+Boosting,528,1,0,31,male div/sep,rent,yes
+Boosting,529,0,0,41,male single,own,yes
+Boosting,530,0,1,32,male single,own,yes
+Boosting,531,1,0,28,female div/dep/mar,rent,yes
+Boosting,532,0,0,41,male mar/wid,rent,yes
+Boosting,533,0,0,26,male mar/wid,own,yes
+Boosting,534,0,0,25,male single,own,yes
+Boosting,535,1,0,33,male div/sep,rent,yes
+Boosting,536,0,0,75,female div/dep/mar,own,yes
+Boosting,537,0,0,37,female div/dep/mar,own,yes
+Boosting,538,1,1,42,male single,for free,yes
+Boosting,539,0,1,45,female div/dep/mar,own,yes
+Boosting,540,1,0,23,male mar/wid,rent,yes
+Boosting,541,0,0,60,male single,for free,yes
+Boosting,542,1,0,31,male single,own,yes
+Boosting,543,1,0,34,male single,own,yes
+Boosting,544,0,0,61,male single,own,yes
+Boosting,545,1,1,43,male single,for free,yes
+Boosting,546,0,0,37,female div/dep/mar,own,yes
+Boosting,547,0,0,32,male single,own,yes
+Boosting,548,1,0,24,female div/dep/mar,own,yes
+Boosting,549,0,0,35,male single,for free,yes
+Boosting,550,0,0,23,female div/dep/mar,own,yes
+Boosting,551,0,0,45,male single,own,yes
+Boosting,552,1,0,34,male mar/wid,own,yes
+Boosting,553,0,0,27,male single,own,yes
+Boosting,554,0,1,67,female div/dep/mar,own,yes
+Boosting,555,1,1,22,male single,own,yes
+Boosting,556,1,1,28,female div/dep/mar,own,yes
+Boosting,557,1,1,29,female div/dep/mar,own,yes
+Boosting,558,1,0,27,male single,own,yes
+Boosting,559,1,1,31,male single,own,yes
+Boosting,560,0,0,49,male single,for free,yes
+Boosting,561,1,1,24,male single,rent,yes
+Boosting,562,0,0,29,female div/dep/mar,own,yes
+Boosting,563,1,0,37,male single,for free,yes
+Boosting,564,0,0,37,male single,own,yes
+Boosting,565,0,1,23,female div/dep/mar,rent,yes
+Boosting,566,1,1,36,male div/sep,own,yes
+Boosting,567,0,0,34,male single,own,yes
+Boosting,568,0,0,41,male single,own,yes
+Boosting,569,1,1,31,female div/dep/mar,own,yes
+Boosting,570,1,1,23,female div/dep/mar,rent,yes
+Boosting,571,0,0,38,male single,own,yes
+Boosting,572,0,0,26,female div/dep/mar,rent,yes
+Boosting,573,0,0,22,female div/dep/mar,own,yes
+Boosting,574,0,0,27,male single,own,yes
+Boosting,575,0,0,24,female div/dep/mar,own,yes
+Boosting,576,0,0,27,female div/dep/mar,own,yes
+Boosting,577,0,0,33,female div/dep/mar,own,yes
+Boosting,578,1,0,27,male div/sep,own,yes
+Boosting,579,0,0,27,male mar/wid,own,yes
+Boosting,580,1,0,30,male single,own,yes
+Boosting,581,0,0,49,male single,own,yes
+Boosting,582,0,0,26,female div/dep/mar,rent,yes
+Boosting,583,1,0,33,male single,rent,yes
+Boosting,584,0,0,52,female div/dep/mar,for free,yes
+Boosting,585,1,1,20,female div/dep/mar,rent,yes
+Boosting,586,0,0,36,male single,rent,yes
+Boosting,587,0,0,21,male single,own,yes
+Boosting,588,1,1,47,male mar/wid,own,yes
+Boosting,589,1,0,60,male single,own,yes
+Boosting,590,0,0,58,female div/dep/mar,own,yes
+Boosting,591,0,0,42,female div/dep/mar,rent,yes
+Boosting,592,0,1,36,female div/dep/mar,own,yes
+Boosting,593,1,0,20,female div/dep/mar,rent,yes
+Boosting,594,1,0,40,male single,own,yes
+Boosting,595,1,1,32,female div/dep/mar,own,yes
+Boosting,596,1,1,23,female div/dep/mar,rent,yes
+Boosting,597,1,0,36,male single,own,yes
+Boosting,598,1,0,31,male single,own,yes
+Boosting,599,0,0,32,male single,for free,yes
+Boosting,600,0,0,45,female div/dep/mar,own,yes
+Boosting,601,1,0,30,female div/dep/mar,own,yes
+Boosting,602,1,1,34,female div/dep/mar,for free,yes
+Boosting,603,1,0,28,female div/dep/mar,own,yes
+Boosting,604,0,0,23,female div/dep/mar,own,yes
+Boosting,605,0,0,22,male single,own,yes
+Boosting,606,0,0,74,male single,own,yes
+Boosting,607,1,1,50,female div/dep/mar,for free,yes
+Boosting,608,0,1,33,male single,own,yes
+Boosting,609,0,0,45,male single,for free,yes
+Boosting,610,1,1,22,female div/dep/mar,own,yes
+Boosting,611,1,0,48,female div/dep/mar,for free,yes
+Boosting,612,0,0,29,female div/dep/mar,own,yes
+Boosting,613,0,0,22,female div/dep/mar,rent,no
+Boosting,614,1,0,22,female div/dep/mar,own,yes
+Boosting,615,0,1,48,male single,own,yes
+Boosting,616,0,0,27,male single,for free,yes
+Boosting,617,0,0,37,male single,rent,yes
+Boosting,618,1,0,21,female div/dep/mar,rent,yes
+Boosting,619,0,0,49,male div/sep,own,yes
+Boosting,620,0,0,27,male single,own,yes
+Boosting,621,1,0,32,male single,own,yes
+Boosting,622,1,0,38,male div/sep,own,yes
+Boosting,623,0,0,22,female div/dep/mar,rent,yes
+Boosting,624,1,1,65,male single,for free,yes
+Boosting,625,0,0,35,male single,own,yes
+Boosting,626,0,0,41,male single,own,yes
+Boosting,627,1,1,29,male single,own,yes
+Boosting,628,0,0,36,male single,own,yes
+Boosting,629,0,0,64,male single,own,yes
+Boosting,630,0,0,28,female div/dep/mar,own,yes
+Boosting,631,1,1,44,male single,own,yes
+Boosting,632,0,0,23,male single,own,yes
+Boosting,633,1,0,19,female div/dep/mar,rent,yes
+Boosting,634,1,1,25,female div/dep/mar,own,yes
+Boosting,635,0,0,47,male single,own,yes
+Boosting,636,0,0,28,female div/dep/mar,own,yes
+Boosting,637,0,0,21,male single,own,yes
+Boosting,638,0,0,34,female div/dep/mar,own,yes
+Boosting,639,1,1,26,male single,own,yes
+Boosting,640,1,1,27,female div/dep/mar,own,yes
+Boosting,641,0,0,38,male single,own,yes
+Boosting,642,1,0,40,male single,own,yes
+Boosting,643,0,0,33,male mar/wid,own,yes
+Boosting,644,0,0,32,male mar/wid,own,yes
+Boosting,645,1,0,27,male single,rent,yes
+Boosting,646,0,1,32,male div/sep,own,yes
+Boosting,647,1,0,26,female div/dep/mar,own,yes
+Boosting,648,1,1,38,male single,for free,yes
+Boosting,649,1,1,40,male single,rent,yes
+Boosting,650,0,1,50,male single,for free,yes
+Boosting,651,1,0,37,male single,own,yes
+Boosting,652,1,0,45,male single,own,yes
+Boosting,653,1,0,42,male single,own,yes
+Boosting,654,0,0,35,male single,own,yes
+Boosting,655,0,0,22,male single,for free,yes
+Boosting,656,1,1,41,male single,own,yes
+Boosting,657,0,0,37,male single,own,yes
+Boosting,658,0,1,28,female div/dep/mar,own,yes
+Boosting,659,0,0,41,male single,own,yes
+Boosting,660,0,0,23,male mar/wid,rent,yes
+Boosting,661,1,1,23,male mar/wid,own,yes
+Boosting,662,0,0,50,male single,own,yes
+Boosting,663,0,0,35,male single,own,yes
+Boosting,664,0,0,50,female div/dep/mar,own,yes
+Boosting,665,0,1,27,male single,own,yes
+Boosting,666,0,0,34,male single,own,yes
+Boosting,667,0,0,27,female div/dep/mar,own,yes
+Boosting,668,1,1,43,male single,rent,yes
+Boosting,669,0,0,47,male single,own,yes
+Boosting,670,0,0,27,male single,own,yes
+Boosting,671,0,0,31,male single,own,yes
+Boosting,672,0,0,42,male single,own,yes
+Boosting,673,0,0,24,male mar/wid,own,yes
+Boosting,674,1,1,41,male single,own,yes
+Boosting,675,0,0,26,female div/dep/mar,rent,yes
+Boosting,676,0,0,33,male single,own,yes
+Boosting,677,1,1,24,male mar/wid,own,yes
+Boosting,678,0,1,64,male single,rent,yes
+Boosting,679,0,0,26,female div/dep/mar,own,yes
+Boosting,680,0,0,56,female div/dep/mar,own,yes
+Boosting,681,0,0,37,male single,for free,yes
+Boosting,682,0,0,33,male mar/wid,own,yes
+Boosting,683,0,0,47,male mar/wid,for free,yes
+Boosting,684,0,0,31,male single,own,yes
+Boosting,685,0,0,34,male single,for free,yes
+Boosting,686,0,1,27,male single,own,yes
+Boosting,687,0,0,30,male single,for free,yes
+Boosting,688,0,0,35,male single,own,yes
+Boosting,689,0,0,31,male single,own,yes
+Boosting,690,0,1,25,male div/sep,own,yes
+Boosting,691,0,0,25,female div/dep/mar,own,yes
+Boosting,692,0,0,29,male single,own,yes
+Boosting,693,0,0,44,male single,own,yes
+Boosting,694,0,0,28,male single,own,yes
+Boosting,695,0,0,50,male single,rent,yes
+Boosting,696,0,0,29,male single,own,no
+Boosting,697,0,0,38,female div/dep/mar,own,yes
+Boosting,698,0,0,24,male single,own,yes
+Boosting,699,0,0,40,male single,rent,yes
+Boosting,700,1,0,29,female div/dep/mar,rent,yes
+Boosting,701,1,1,46,male single,for free,yes
+Boosting,702,0,0,47,female div/dep/mar,for free,yes
+Boosting,703,0,1,41,male single,own,yes
+Boosting,704,0,0,32,female div/dep/mar,own,yes
+Boosting,705,0,0,35,female div/dep/mar,for free,yes
+Boosting,706,1,1,24,male single,own,yes
+Boosting,707,1,0,25,female div/dep/mar,rent,yes
+Boosting,708,0,0,25,female div/dep/mar,own,yes
+Boosting,709,0,0,37,male single,own,yes
+Boosting,710,0,0,32,male single,own,yes
+Boosting,711,1,1,35,female div/dep/mar,for free,yes
+Boosting,712,0,0,46,male single,own,yes
+Boosting,713,0,0,25,male single,own,yes
+Boosting,714,1,1,27,male single,own,yes
+Boosting,715,0,0,63,male single,own,yes
+Boosting,716,0,0,40,male single,own,yes
+Boosting,717,0,0,32,male single,for free,yes
+Boosting,718,0,0,31,male single,own,yes
+Boosting,719,0,1,31,male mar/wid,own,yes
+Boosting,720,1,0,34,male single,own,yes
+Boosting,721,1,1,24,female div/dep/mar,rent,yes
+Boosting,722,1,0,24,female div/dep/mar,own,yes
+Boosting,723,0,1,66,female div/dep/mar,own,yes
+Boosting,724,1,0,21,female div/dep/mar,rent,yes
+Boosting,725,0,0,41,female div/dep/mar,own,yes
+Boosting,726,0,0,47,male mar/wid,own,yes
+Boosting,727,1,1,25,female div/dep/mar,rent,yes
+Boosting,728,1,1,59,female div/dep/mar,rent,yes
+Boosting,729,0,0,36,male div/sep,own,yes
+Boosting,730,0,0,33,male single,own,yes
+Boosting,731,1,1,21,male single,rent,yes
+Boosting,732,0,0,44,female div/dep/mar,own,yes
+Boosting,733,0,0,28,female div/dep/mar,rent,yes
+Boosting,734,0,0,37,female div/dep/mar,own,yes
+Boosting,735,0,0,29,female div/dep/mar,own,yes
+Boosting,736,1,0,23,female div/dep/mar,rent,yes
+Boosting,737,0,1,35,male single,own,yes
+Boosting,738,0,0,45,male single,own,yes
+Boosting,739,1,1,26,female div/dep/mar,rent,yes
+Boosting,740,0,1,32,male single,own,yes
+Boosting,741,0,0,23,male single,own,yes
+Boosting,742,0,0,41,male single,own,yes
+Boosting,743,0,1,22,male single,own,yes
+Boosting,744,0,1,30,male single,own,yes
+Boosting,745,0,0,28,male single,own,yes
+Boosting,746,0,0,23,female div/dep/mar,rent,yes
+Boosting,747,1,0,37,female div/dep/mar,own,yes
+Boosting,748,0,0,26,male single,own,yes
+Boosting,749,0,0,33,male single,own,yes
+Boosting,750,0,0,49,female div/dep/mar,own,yes
+Boosting,751,1,0,23,female div/dep/mar,own,yes
+Boosting,752,0,0,23,female div/dep/mar,rent,yes
+Boosting,753,0,0,25,female div/dep/mar,own,yes
+Boosting,754,1,0,55,male single,for free,yes
+Boosting,755,1,1,32,female div/dep/mar,rent,yes
+Boosting,756,0,0,74,male single,own,no
+Boosting,757,1,0,39,male single,for free,yes
+Boosting,758,0,0,31,male single,own,yes
+Boosting,759,1,0,35,male single,own,yes
+Boosting,760,0,0,59,female div/dep/mar,own,yes
+Boosting,761,1,1,24,female div/dep/mar,rent,yes
+Boosting,762,0,1,24,male single,own,yes
+Boosting,763,1,0,30,male single,for free,yes
+Boosting,764,0,0,27,male mar/wid,own,yes
+Boosting,765,0,0,40,male mar/wid,own,yes
+Boosting,766,1,0,31,male div/sep,own,yes
+Boosting,767,0,0,31,female div/dep/mar,rent,yes
+Boosting,768,0,0,28,male single,rent,yes
+Boosting,769,0,0,63,male single,own,yes
+Boosting,770,0,0,26,female div/dep/mar,rent,yes
+Boosting,771,1,1,25,female div/dep/mar,own,yes
+Boosting,772,0,0,36,male single,own,yes
+Boosting,773,0,0,52,male single,own,yes
+Boosting,774,0,0,66,male single,for free,yes
+Boosting,775,1,1,25,female div/dep/mar,rent,yes
+Boosting,776,0,0,37,male single,own,yes
+Boosting,777,0,0,25,female div/dep/mar,own,yes
+Boosting,778,0,0,38,male single,own,yes
+Boosting,779,0,0,67,female div/dep/mar,own,yes
+Boosting,780,1,0,25,male single,own,yes
+Boosting,781,0,0,60,male single,own,yes
+Boosting,782,0,0,31,male single,own,yes
+Boosting,783,1,1,23,female div/dep/mar,own,yes
+Boosting,784,0,0,60,male div/sep,own,yes
+Boosting,785,0,0,35,male single,own,yes
+Boosting,786,0,0,40,male single,own,yes
+Boosting,787,0,0,38,male single,own,yes
+Boosting,788,1,1,50,male single,for free,yes
+Boosting,789,1,1,27,male single,own,yes
+Boosting,790,1,1,39,female div/dep/mar,own,yes
+Boosting,791,0,0,41,male single,own,yes
+Boosting,792,0,0,27,male mar/wid,own,yes
+Boosting,793,0,0,51,male div/sep,for free,yes
+Boosting,794,0,0,32,male single,rent,yes
+Boosting,795,0,0,22,female div/dep/mar,rent,yes
+Boosting,796,1,0,51,male single,for free,yes
+Boosting,797,0,0,22,female div/dep/mar,rent,yes
+Boosting,798,0,0,54,male mar/wid,own,yes
+Boosting,799,0,0,35,male single,own,yes
+Boosting,800,0,0,54,male single,for free,yes
+Boosting,801,0,0,48,female div/dep/mar,rent,yes
+Boosting,802,0,1,24,female div/dep/mar,own,yes
+Boosting,803,0,0,35,male single,own,yes
+Boosting,804,0,0,24,female div/dep/mar,rent,yes
+Boosting,805,1,1,24,male single,own,yes
+Boosting,806,0,0,26,male mar/wid,own,no
+Boosting,807,0,0,65,male single,own,yes
+Boosting,808,0,1,55,male single,for free,yes
+Boosting,809,1,0,26,female div/dep/mar,rent,yes
+Boosting,810,0,1,26,male mar/wid,own,yes
+Boosting,811,0,0,28,male mar/wid,own,yes
+Boosting,812,1,1,24,male single,own,yes
+Boosting,813,1,1,54,male single,own,yes
+Boosting,814,1,1,46,male single,for free,yes
+Boosting,815,0,0,54,female div/dep/mar,rent,yes
+Boosting,816,0,0,62,male div/sep,own,yes
+Boosting,817,0,0,24,female div/dep/mar,rent,yes
+Boosting,818,0,1,43,male div/sep,own,yes
+Boosting,819,1,1,26,male mar/wid,own,yes
+Boosting,820,0,0,27,male mar/wid,own,yes
+Boosting,821,0,0,24,male mar/wid,own,yes
+Boosting,822,1,1,41,male single,own,yes
+Boosting,823,0,0,47,male single,own,yes
+Boosting,824,0,0,35,male div/sep,own,yes
+Boosting,825,0,1,30,male mar/wid,own,yes
+Boosting,826,1,0,33,female div/dep/mar,rent,yes
+Boosting,827,1,1,36,male single,own,yes
+Boosting,828,1,0,47,male single,for free,yes
+Boosting,829,0,1,38,male single,for free,yes
+Boosting,830,0,0,44,male single,own,yes
+Boosting,831,1,1,23,female div/dep/mar,rent,yes
+Boosting,832,1,1,29,male single,rent,yes
+Boosting,833,0,0,42,female div/dep/mar,own,yes
+Boosting,834,1,0,25,female div/dep/mar,own,yes
+Boosting,835,1,1,48,male single,own,yes
+Boosting,836,0,0,21,female div/dep/mar,own,yes
+Boosting,837,0,0,23,female div/dep/mar,rent,yes
+Boosting,838,0,0,63,male single,own,yes
+Boosting,839,0,0,46,male mar/wid,own,yes
+Boosting,840,1,1,29,male single,own,yes
+Boosting,841,0,0,28,male single,own,yes
+Boosting,842,1,0,23,female div/dep/mar,own,yes
+Boosting,843,0,0,50,male single,own,yes
+Boosting,844,0,0,47,male single,own,yes
+Boosting,845,0,0,35,male single,own,yes
+Boosting,846,1,0,68,male single,rent,yes
+Boosting,847,0,0,28,male mar/wid,own,yes
+Boosting,848,0,0,59,male single,own,yes
+Boosting,849,1,1,57,male single,own,yes
+Boosting,850,1,0,33,male mar/wid,rent,no
+Boosting,851,0,0,43,male single,own,yes
+Boosting,852,0,0,35,male single,for free,yes
+Boosting,853,1,1,32,male single,for free,yes
+Boosting,854,0,1,45,male single,own,yes
+Boosting,855,0,0,33,male mar/wid,own,yes
+Boosting,856,0,0,40,female div/dep/mar,own,yes
+Boosting,857,0,0,28,male single,for free,yes
+Boosting,858,1,0,29,female div/dep/mar,own,yes
+Boosting,859,0,0,26,male single,rent,no
+Boosting,860,0,0,27,male single,own,yes
+Boosting,861,1,0,28,male mar/wid,own,yes
+Boosting,862,1,0,35,female div/dep/mar,own,yes
+Boosting,863,0,0,32,male single,own,yes
+Boosting,864,1,0,25,male single,rent,yes
+Boosting,865,0,0,20,female div/dep/mar,rent,yes
+Boosting,866,0,1,27,female div/dep/mar,own,yes
+Boosting,867,0,0,42,male single,own,yes
+Boosting,868,0,0,37,male single,own,yes
+Boosting,869,0,1,24,female div/dep/mar,rent,yes
+Boosting,870,0,1,40,female div/dep/mar,own,yes
+Boosting,871,0,0,46,male single,own,no
+Boosting,872,0,0,26,male single,own,yes
+Boosting,873,0,0,24,female div/dep/mar,own,yes
+Boosting,874,0,0,29,male single,own,yes
+Boosting,875,0,0,40,female div/dep/mar,own,yes
+Boosting,876,0,1,36,male single,for free,yes
+Boosting,877,0,0,28,male single,own,yes
+Boosting,878,1,1,27,male single,for free,yes
+Boosting,879,0,0,36,male single,own,yes
+Boosting,880,0,0,38,male single,own,yes
+Boosting,881,0,0,48,male div/sep,for free,yes
+Boosting,882,0,0,36,male single,own,yes
+Boosting,883,0,0,65,female div/dep/mar,own,yes
+Boosting,884,1,1,43,male div/sep,own,yes
+Boosting,885,1,1,53,female div/dep/mar,own,yes
+Boosting,886,0,0,34,male single,own,yes
+Boosting,887,1,1,23,male single,own,yes
+Boosting,888,0,0,34,male single,own,yes
+Boosting,889,0,1,40,male single,rent,yes
+Boosting,890,0,1,43,male single,own,yes
+Boosting,891,0,0,46,male single,own,yes
+Boosting,892,0,0,38,male single,own,no
+Boosting,893,0,0,34,male single,own,yes
+Boosting,894,0,0,29,male single,own,yes
+Boosting,895,0,0,31,male single,own,yes
+Boosting,896,0,0,28,female div/dep/mar,rent,yes
+Boosting,897,0,0,35,female div/dep/mar,own,no
+Boosting,898,0,0,33,female div/dep/mar,rent,yes
+Boosting,899,1,0,42,male single,own,yes
+Boosting,900,1,0,43,male single,rent,yes
+Boosting,901,0,0,44,male div/sep,own,yes
+Boosting,902,0,0,42,male single,for free,yes
+Boosting,903,0,0,40,male mar/wid,rent,yes
+Boosting,904,0,0,36,male single,own,yes
+Boosting,905,0,0,20,male single,rent,yes
+Boosting,906,0,0,24,male single,own,no
+Boosting,907,0,0,27,male mar/wid,own,yes
+Boosting,908,0,0,46,female div/dep/mar,own,yes
+Boosting,909,0,0,33,female div/dep/mar,own,yes
+Boosting,910,0,1,34,female div/dep/mar,own,yes
+Boosting,911,1,0,25,female div/dep/mar,own,yes
+Boosting,912,0,0,25,female div/dep/mar,own,yes
+Boosting,913,0,0,28,male div/sep,own,yes
+Boosting,914,1,1,31,male single,rent,yes
+Boosting,915,1,1,32,female div/dep/mar,own,no
+Boosting,916,0,0,32,male single,own,yes
+Boosting,917,1,1,68,male single,own,yes
+Boosting,918,1,0,33,male div/sep,own,yes
+Boosting,919,1,1,39,male single,rent,yes
+Boosting,920,0,1,28,female div/dep/mar,own,yes
+Boosting,921,0,0,37,male single,own,yes
+Boosting,922,1,0,22,female div/dep/mar,rent,yes
+Boosting,923,0,0,30,male single,rent,yes
+Boosting,924,1,1,55,male div/sep,own,yes
+Boosting,925,1,1,46,male single,own,yes
+Boosting,926,0,1,21,female div/dep/mar,rent,yes
+Boosting,927,1,1,39,male single,for free,yes
+Boosting,928,0,0,58,male single,own,yes
+Boosting,929,0,0,43,male single,own,yes
+Boosting,930,0,1,24,male single,own,no
+Boosting,931,1,0,22,female div/dep/mar,own,yes
+Boosting,932,0,0,30,male single,own,yes
+Boosting,933,0,0,42,male single,own,yes
+Boosting,934,0,0,23,female div/dep/mar,own,yes
+Boosting,935,1,1,30,male single,own,yes
+Boosting,936,1,0,28,female div/dep/mar,own,yes
+Boosting,937,0,1,30,male mar/wid,rent,yes
+Boosting,938,1,1,42,male single,for free,yes
+Boosting,939,0,0,46,male single,own,yes
+Boosting,940,0,0,45,male single,own,yes
+Boosting,941,0,0,31,male single,own,no
+Boosting,942,0,0,31,male single,own,yes
+Boosting,943,0,0,42,male single,own,yes
+Boosting,944,0,0,46,female div/dep/mar,rent,yes
+Boosting,945,0,1,30,female div/dep/mar,own,yes
+Boosting,946,1,1,30,male single,for free,yes
+Boosting,947,0,0,38,male single,own,yes
+Boosting,948,1,0,43,male mar/wid,own,yes
+Boosting,949,1,0,31,male single,own,yes
+Boosting,950,0,0,40,male mar/wid,own,yes
+Boosting,951,1,0,24,male single,own,yes
+Boosting,952,1,0,28,female div/dep/mar,rent,yes
+Boosting,953,1,0,26,female div/dep/mar,own,yes
+Boosting,954,0,0,29,female div/dep/mar,own,yes
+Boosting,955,0,0,57,female div/dep/mar,rent,yes
+Boosting,956,0,0,49,male single,own,yes
+Boosting,957,0,0,37,male single,own,yes
+Boosting,958,1,0,45,male single,own,yes
+Boosting,959,0,0,30,male single,for free,yes
+Boosting,960,0,0,30,male mar/wid,rent,yes
+Boosting,961,0,1,47,male div/sep,own,yes
+Boosting,962,0,0,29,male single,own,yes
+Boosting,963,1,0,35,male single,own,yes
+Boosting,964,0,0,22,male mar/wid,own,yes
+Boosting,965,0,0,26,female div/dep/mar,own,yes
+Boosting,966,1,0,23,male single,own,yes
+Boosting,967,0,0,54,female div/dep/mar,rent,yes
+Boosting,968,0,0,29,male mar/wid,rent,yes
+Boosting,969,0,0,40,male single,own,yes
+Boosting,970,0,0,22,male single,own,yes
+Boosting,971,0,0,43,male single,own,yes
+Boosting,972,1,1,29,female div/dep/mar,rent,yes
+Boosting,973,1,1,36,male single,rent,yes
+Boosting,974,0,0,33,female div/dep/mar,own,yes
+Boosting,975,0,1,57,female div/dep/mar,own,yes
+Boosting,976,0,0,64,female div/dep/mar,own,yes
+Boosting,977,0,0,42,male single,own,yes
+Boosting,978,1,0,47,male single,own,yes
+Boosting,979,1,1,25,male mar/wid,rent,yes
+Boosting,980,1,1,49,male single,own,yes
+Boosting,981,1,1,33,male single,rent,yes
+Boosting,982,0,0,28,female div/dep/mar,own,yes
+Boosting,983,1,0,26,male single,own,yes
+Boosting,984,0,0,30,male single,own,yes
+Boosting,985,0,0,25,female div/dep/mar,rent,yes
+Boosting,986,0,0,33,male div/sep,own,yes
+Boosting,987,0,0,64,female div/dep/mar,own,yes
+Boosting,988,0,0,29,male single,for free,yes
+Boosting,989,0,1,48,male single,own,yes
+Boosting,990,0,0,37,male single,own,yes
+Boosting,991,0,0,34,male single,own,yes
+Boosting,992,0,0,23,male mar/wid,rent,yes
+Boosting,993,0,1,30,male single,own,yes
+Boosting,994,0,0,50,male single,own,yes
+Boosting,995,0,0,31,female div/dep/mar,own,yes
+Boosting,996,0,0,40,male div/sep,own,yes
+Boosting,997,0,0,38,male single,own,yes
+Boosting,998,1,1,23,male single,for free,yes
+Boosting,999,0,0,27,male single,own,yes
