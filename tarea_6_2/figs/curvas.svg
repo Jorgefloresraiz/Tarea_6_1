@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420">
+<rect width="1100" height="420" fill="white"/>
+<g font-family="Arial" font-size="15" fill="#222">
+<text x="60" y="25" font-size="22">6.1 Árbol sin afinar con 20 variables</text>
+<line x1="60" y1="310.0" x2="490" y2="310.0" stroke="#ddd"/>
+<text x="23" y="315.0" font-size="20">0.5</text>
+<line x1="60" y1="261.0" x2="490" y2="261.0" stroke="#ddd"/>
+<text x="23" y="266.0" font-size="20">0.6</text>
+<line x1="60" y1="212.00000000000003" x2="490" y2="212.00000000000003" stroke="#ddd"/>
+<text x="23" y="217.00000000000003" font-size="20">0.7</text>
+<line x1="60" y1="162.99999999999997" x2="490" y2="162.99999999999997" stroke="#ddd"/>
+<text x="23" y="167.99999999999997" font-size="20">0.8</text>
+<line x1="60" y1="114.0" x2="490" y2="114.0" stroke="#ddd"/>
+<text x="23" y="119.0" font-size="20">0.9</text>
+<line x1="60" y1="65.0" x2="490" y2="65.0" stroke="#ddd"/>
+<text x="23" y="70.0" font-size="20">1.0</text>
+<text x="48.0" y="334" font-size="20">120</text>
+<text x="133.36764705882354" y="334" font-size="20">255</text>
+<text x="220.0" y="334" font-size="20">392</text>
+<text x="306.0" y="334" font-size="20">528</text>
+<text x="392.0" y="334" font-size="20">664</text>
+<text x="478.0" y="334" font-size="20">800</text>
+<polyline points="60.0,65.0 145.36764705882354,65.0 232.0,65.0 318.0,65.0 404.0,65.0 490.0,65.0" fill="none" stroke="#222" stroke-width="3" stroke-dasharray="0"/>
+<circle cx="60.0" cy="65.0" r="3" fill="#222"/>
+<circle cx="145.36764705882354" cy="65.0" r="3" fill="#222"/>
+<circle cx="232.0" cy="65.0" r="3" fill="#222"/>
+<circle cx="318.0" cy="65.0" r="3" fill="#222"/>
+<circle cx="404.0" cy="65.0" r="3" fill="#222"/>
+<circle cx="490.0" cy="65.0" r="3" fill="#222"/>
+<polyline points="60.0,236.99 145.36764705882354,230.13 232.0,226.7 318.0,230.62 404.0,231.11000000000004 490.0,212.97999999999996" fill="none" stroke="#176b9b" stroke-width="3" stroke-dasharray="0"/>
+<circle cx="60.0" cy="236.99" r="3" fill="#176b9b"/>
+<circle cx="145.36764705882354" cy="230.13" r="3" fill="#176b9b"/>
+<circle cx="232.0" cy="226.7" r="3" fill="#176b9b"/>
+<circle cx="318.0" cy="230.62" r="3" fill="#176b9b"/>
+<circle cx="404.0" cy="231.11000000000004" r="3" fill="#176b9b"/>
+<circle cx="490.0" cy="212.97999999999996" r="3" fill="#176b9b"/>
+<line x1="60" y1="360" x2="85" y2="360" stroke="#222" stroke-width="3" stroke-dasharray="0"/>
+<text x="93" y="365" font-size="20">Entrenamiento</text>
+<line x1="60" y1="380" x2="85" y2="380" stroke="#176b9b" stroke-width="3" stroke-dasharray="0"/>
+<text x="93" y="385" font-size="20">Validación</text>
+<text x="625" y="25" font-size="22">6.2 Árbol afinado con 16 variables</text>
+<line x1="625" y1="310.0" x2="1055" y2="310.0" stroke="#ddd"/>
+<text x="588" y="315.0" font-size="20">0.5</text>
+<line x1="625" y1="261.0" x2="1055" y2="261.0" stroke="#ddd"/>
+<text x="588" y="266.0" font-size="20">0.6</text>
+<line x1="625" y1="212.00000000000003" x2="1055" y2="212.00000000000003" stroke="#ddd"/>
+<text x="588" y="217.00000000000003" font-size="20">0.7</text>
+<line x1="625" y1="162.99999999999997" x2="1055" y2="162.99999999999997" stroke="#ddd"/>
+<text x="588" y="167.99999999999997" font-size="20">0.8</text>
+<line x1="625" y1="114.0" x2="1055" y2="114.0" stroke="#ddd"/>
+<text x="588" y="119.0" font-size="20">0.9</text>
+<line x1="625" y1="65.0" x2="1055" y2="65.0" stroke="#ddd"/>
+<text x="588" y="70.0" font-size="20">1.0</text>
+<text x="613.0" y="334" font-size="20">120</text>
+<text x="698.3676470588235" y="334" font-size="20">255</text>
+<text x="785.0" y="334" font-size="20">392</text>
+<text x="871.0" y="334" font-size="20">528</text>
+<text x="957.0" y="334" font-size="20">664</text>
+<text x="1043.0" y="334" font-size="20">800</text>
+<polyline points="625.0,172.79999999999998 710.3676470588235,200.27843137254905 797.0,210.24999999999997 883.0,204.94696969696966 969.0,209.0481927710843 1055.0,203.42499999999998" fill="none" stroke="#222" stroke-width="3" stroke-dasharray="0"/>
+<circle cx="625.0" cy="172.79999999999998" r="3" fill="#222"/>
+<circle cx="710.3676470588235" cy="200.27843137254905" r="3" fill="#222"/>
+<circle cx="797.0" cy="210.24999999999997" r="3" fill="#222"/>
+<circle cx="883.0" cy="204.94696969696966" r="3" fill="#222"/>
+<circle cx="969.0" cy="209.0481927710843" r="3" fill="#222"/>
+<circle cx="1055.0" cy="203.42499999999998" r="3" fill="#222"/>
+<polyline points="625.0,225.71999999999997 710.3676470588235,240.91 797.0,252.67000000000002 883.0,238.45999999999998 969.0,240.91 1055.0,230.62" fill="none" stroke="#176b9b" stroke-width="3" stroke-dasharray="0"/>
+<circle cx="625.0" cy="225.71999999999997" r="3" fill="#176b9b"/>
+<circle cx="710.3676470588235" cy="240.91" r="3" fill="#176b9b"/>
+<circle cx="797.0" cy="252.67000000000002" r="3" fill="#176b9b"/>
+<circle cx="883.0" cy="238.45999999999998" r="3" fill="#176b9b"/>
+<circle cx="969.0" cy="240.91" r="3" fill="#176b9b"/>
+<circle cx="1055.0" cy="230.62" r="3" fill="#176b9b"/>
+<polyline points="625.0,239.93 710.3676470588235,231.60000000000002 797.0,232.57999999999998 883.0,229.14999999999998 969.0,230.13 1055.0,213.47000000000003" fill="none" stroke="#9b5924" stroke-width="3" stroke-dasharray="6,4"/>
+<circle cx="625.0" cy="239.93" r="3" fill="#9b5924"/>
+<circle cx="710.3676470588235" cy="231.60000000000002" r="3" fill="#9b5924"/>
+<circle cx="797.0" cy="232.57999999999998" r="3" fill="#9b5924"/>
+<circle cx="883.0" cy="229.14999999999998" r="3" fill="#9b5924"/>
+<circle cx="969.0" cy="230.13" r="3" fill="#9b5924"/>
+<circle cx="1055.0" cy="213.47000000000003" r="3" fill="#9b5924"/>
+<line x1="625" y1="360" x2="650" y2="360" stroke="#222" stroke-width="3" stroke-dasharray="0"/>
+<text x="658" y="365" font-size="20">Entrenamiento afinado</text>
+<line x1="625" y1="380" x2="650" y2="380" stroke="#176b9b" stroke-width="3" stroke-dasharray="0"/>
+<text x="658" y="385" font-size="20">Validación afinado</text>
+<line x1="625" y1="400" x2="650" y2="400" stroke="#9b5924" stroke-width="3" stroke-dasharray="6,4"/>
+<text x="658" y="405" font-size="20">Validación sin afinar (16 variables)</text>
+</g></svg>

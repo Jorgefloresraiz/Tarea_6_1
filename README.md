@@ -47,3 +47,6 @@ Las métricas se calcularon mediante ejecución; no se copiaron del instructivo.
 - [Bitácora](BITACORA.md) y [cierre de auditoría](CIERRE_AUDITORIA.md).
 - Verificación: ocho pruebas unittest aprobadas, cero fallos y errores.
 - Repositorio: https://github.com/Jorgefloresraiz/Tarea_6_1
+
+## Continuación Tarea 6.2
+La optimización y auditoría posterior están en [tarea_6_2](tarea_6_2/README.md), con informe, bitácora, búsqueda anidada y pytest. La evidencia de la 6.1 se conserva.
