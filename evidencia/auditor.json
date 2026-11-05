@@ -1,0 +1,520 @@
+{
+  "alcance": "Tarea 6.1; sin busqueda/curvas/main_modulo6_original ni exigencias pendientes 6.2",
+  "python": "/Users/yero/Downloads/Tarea_5_1/.venv/bin/python",
+  "sha256_dataset": "82b9757965557e2318d267100d13283da961497a36938d1a384dea716a68f6f2",
+  "comprobaciones": [
+    {
+      "comprobacion": "sha256_dataset",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "datos 1000x21, 700 good, 300 bad, sin nulos ni duplicados",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "pliegue 0: indices reproducibles, disjuntos, 800/200, 60 bad validacion",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "pliegue 1: indices reproducibles, disjuntos, 800/200, 60 bad validacion",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "pliegue 2: indices reproducibles, disjuntos, 800/200, 60 bad validacion",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "pliegue 3: indices reproducibles, disjuntos, 800/200, 60 bad validacion",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "pliegue 4: indices reproducibles, disjuntos, 800/200, 60 bad validacion",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "cobertura OOF una vez por fila",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol alineacion OOF y categorias",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol metricas globales",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol accuracy pliegue 0",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol accuracy pliegue 1",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol accuracy pliegue 2",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol accuracy pliegue 3",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol accuracy pliegue 4",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol DE ddof0",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol resumen diez particiones",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol housing for free",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol housing own",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol housing rent",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol personal_status female div/dep/mar",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol personal_status male div/sep",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol personal_status male mar/wid",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol personal_status male single",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol reajuste independiente pliegue 0",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol reajuste independiente pliegue 4",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Árbol particion semilla 0 reajustada",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest alineacion OOF y categorias",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest metricas globales",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest accuracy pliegue 0",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest accuracy pliegue 1",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest accuracy pliegue 2",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest accuracy pliegue 3",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest accuracy pliegue 4",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest DE ddof0",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest resumen diez particiones",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest housing for free",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest housing own",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest housing rent",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest personal_status female div/dep/mar",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest personal_status male div/sep",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest personal_status male mar/wid",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest personal_status male single",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest reajuste independiente pliegue 0",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest reajuste independiente pliegue 4",
+      "estado": "PASA"
+    },
+    {
+      "comprobacion": "Random Forest particion semilla 0 reajustada",
+      "estado": "PASA"
+    }
+  ],
+  "metricas_recalculadas": [
+    {
+      "modelo": "Árbol",
+      "tn": 539,
+      "fp": 161,
+      "fn": 141,
+      "tp": 159,
+      "accuracy": 0.698,
+      "recall_bad": 0.53,
+      "balanced_accuracy": 0.65
+    },
+    {
+      "modelo": "Random Forest",
+      "tn": 645,
+      "fp": 55,
+      "fn": 188,
+      "tp": 112,
+      "accuracy": 0.757,
+      "recall_bad": 0.37333333333333335,
+      "balanced_accuracy": 0.6473809523809524
+    }
+  ],
+  "subgrupos_recalculados": [
+    {
+      "modelo": "Árbol",
+      "variable": "housing",
+      "grupo": "for free",
+      "n": 108,
+      "bad": 44,
+      "tn": 46,
+      "fp": 18,
+      "fn": 16,
+      "tp": 28,
+      "accuracy": 0.6851851851851852,
+      "recall_bad": 0.6363636363636364,
+      "fpr": 0.28125
+    },
+    {
+      "modelo": "Árbol",
+      "variable": "housing",
+      "grupo": "own",
+      "n": 713,
+      "bad": 186,
+      "tn": 416,
+      "fp": 111,
+      "fn": 93,
+      "tp": 93,
+      "accuracy": 0.7138849929873773,
+      "recall_bad": 0.5,
+      "fpr": 0.21062618595825428
+    },
+    {
+      "modelo": "Árbol",
+      "variable": "housing",
+      "grupo": "rent",
+      "n": 179,
+      "bad": 70,
+      "tn": 77,
+      "fp": 32,
+      "fn": 32,
+      "tp": 38,
+      "accuracy": 0.6424581005586593,
+      "recall_bad": 0.5428571428571428,
+      "fpr": 0.29357798165137616
+    },
+    {
+      "modelo": "Árbol",
+      "variable": "personal_status",
+      "grupo": "female div/dep/mar",
+      "n": 310,
+      "bad": 109,
+      "tn": 148,
+      "fp": 53,
+      "fn": 47,
+      "tp": 62,
+      "accuracy": 0.6774193548387096,
+      "recall_bad": 0.5688073394495413,
+      "fpr": 0.263681592039801
+    },
+    {
+      "modelo": "Árbol",
+      "variable": "personal_status",
+      "grupo": "male div/sep",
+      "n": 50,
+      "bad": 20,
+      "tn": 18,
+      "fp": 12,
+      "fn": 9,
+      "tp": 11,
+      "accuracy": 0.58,
+      "recall_bad": 0.55,
+      "fpr": 0.4
+    },
+    {
+      "modelo": "Árbol",
+      "variable": "personal_status",
+      "grupo": "male mar/wid",
+      "n": 92,
+      "bad": 25,
+      "tn": 56,
+      "fp": 11,
+      "fn": 12,
+      "tp": 13,
+      "accuracy": 0.75,
+      "recall_bad": 0.52,
+      "fpr": 0.16417910447761194
+    },
+    {
+      "modelo": "Árbol",
+      "variable": "personal_status",
+      "grupo": "male single",
+      "n": 548,
+      "bad": 146,
+      "tn": 317,
+      "fp": 85,
+      "fn": 73,
+      "tp": 73,
+      "accuracy": 0.7116788321167883,
+      "recall_bad": 0.5,
+      "fpr": 0.21144278606965175
+    },
+    {
+      "modelo": "Árbol",
+      "variable": "foreign_worker",
+      "grupo": "no",
+      "n": 37,
+      "bad": 4,
+      "tn": 27,
+      "fp": 6,
+      "fn": 1,
+      "tp": 3,
+      "accuracy": 0.8108108108108109,
+      "recall_bad": 0.75,
+      "fpr": 0.18181818181818182
+    },
+    {
+      "modelo": "Árbol",
+      "variable": "foreign_worker",
+      "grupo": "yes",
+      "n": 963,
+      "bad": 296,
+      "tn": 512,
+      "fp": 155,
+      "fn": 140,
+      "tp": 156,
+      "accuracy": 0.6936656282450675,
+      "recall_bad": 0.527027027027027,
+      "fpr": 0.23238380809595202
+    },
+    {
+      "modelo": "Random Forest",
+      "variable": "housing",
+      "grupo": "for free",
+      "n": 108,
+      "bad": 44,
+      "tn": 50,
+      "fp": 14,
+      "fn": 22,
+      "tp": 22,
+      "accuracy": 0.6666666666666666,
+      "recall_bad": 0.5,
+      "fpr": 0.21875
+    },
+    {
+      "modelo": "Random Forest",
+      "variable": "housing",
+      "grupo": "own",
+      "n": 713,
+      "bad": 186,
+      "tn": 496,
+      "fp": 31,
+      "fn": 126,
+      "tp": 60,
+      "accuracy": 0.7798036465638148,
+      "recall_bad": 0.3225806451612903,
+      "fpr": 0.058823529411764705
+    },
+    {
+      "modelo": "Random Forest",
+      "variable": "housing",
+      "grupo": "rent",
+      "n": 179,
+      "bad": 70,
+      "tn": 99,
+      "fp": 10,
+      "fn": 40,
+      "tp": 30,
+      "accuracy": 0.7206703910614525,
+      "recall_bad": 0.42857142857142855,
+      "fpr": 0.09174311926605505
+    },
+    {
+      "modelo": "Random Forest",
+      "variable": "personal_status",
+      "grupo": "female div/dep/mar",
+      "n": 310,
+      "bad": 109,
+      "tn": 182,
+      "fp": 19,
+      "fn": 63,
+      "tp": 46,
+      "accuracy": 0.7354838709677419,
+      "recall_bad": 0.42201834862385323,
+      "fpr": 0.0945273631840796
+    },
+    {
+      "modelo": "Random Forest",
+      "variable": "personal_status",
+      "grupo": "male div/sep",
+      "n": 50,
+      "bad": 20,
+      "tn": 25,
+      "fp": 5,
+      "fn": 14,
+      "tp": 6,
+      "accuracy": 0.62,
+      "recall_bad": 0.3,
+      "fpr": 0.16666666666666666
+    },
+    {
+      "modelo": "Random Forest",
+      "variable": "personal_status",
+      "grupo": "male mar/wid",
+      "n": 92,
+      "bad": 25,
+      "tn": 65,
+      "fp": 2,
+      "fn": 19,
+      "tp": 6,
+      "accuracy": 0.7717391304347826,
+      "recall_bad": 0.24,
+      "fpr": 0.029850746268656716
+    },
+    {
+      "modelo": "Random Forest",
+      "variable": "personal_status",
+      "grupo": "male single",
+      "n": 548,
+      "bad": 146,
+      "tn": 373,
+      "fp": 29,
+      "fn": 92,
+      "tp": 54,
+      "accuracy": 0.7791970802919708,
+      "recall_bad": 0.3698630136986301,
+      "fpr": 0.07213930348258707
+    },
+    {
+      "modelo": "Random Forest",
+      "variable": "foreign_worker",
+      "grupo": "no",
+      "n": 37,
+      "bad": 4,
+      "tn": 33,
+      "fp": 0,
+      "fn": 3,
+      "tp": 1,
+      "accuracy": 0.918918918918919,
+      "recall_bad": 0.25,
+      "fpr": 0.0
+    },
+    {
+      "modelo": "Random Forest",
+      "variable": "foreign_worker",
+      "grupo": "yes",
+      "n": 963,
+      "bad": 296,
+      "tn": 612,
+      "fp": 55,
+      "fn": 185,
+      "tp": 111,
+      "accuracy": 0.7507788161993769,
+      "recall_bad": 0.375,
+      "fpr": 0.08245877061469266
+    }
+  ],
+  "reajustes": [
+    {
+      "modelo": "Árbol",
+      "pliegue": 0,
+      "predicciones_coincidentes": 200
+    },
+    {
+      "modelo": "Árbol",
+      "pliegue": 4,
+      "predicciones_coincidentes": 200
+    },
+    {
+      "modelo": "Random Forest",
+      "pliegue": 0,
+      "predicciones_coincidentes": 200
+    },
+    {
+      "modelo": "Random Forest",
+      "pliegue": 4,
+      "predicciones_coincidentes": 200
+    }
+  ],
+  "limites": "Reajustados solo pliegues 0 y 4 y particion semilla 0 por modelo; resto validado desde evidencia OOF. No inferencia causal ni certificacion de equidad.",
+  "fecha_utc": "2026-11-05T01:44:55.989141+00:00",
+  "dictamen": {
+    "PASA": "Coherencia numerica y reproduccion acotada; 46 comprobaciones",
+    "RESERVA": [
+      "Pruebas TODO observadas; revisar al integrar cambios del responsable",
+      "Interpretacion de accuracy frente a recall y errores por grupos",
+      "Subgrupos publicados sin edad/foreign_worker/FPR; ampliar descriptivamente"
+    ],
+    "NO DETERMINABLE": [
+      "Equidad causal o generalizable",
+      "Representatividad, independencia personal/temporal y procedencia",
+      "Disponibilidad de predictores al decidir y semantica de etiquetas"
+    ]
+  },
+  "archivos_sha256": {
+    "datos.py": "6ff9447b120aa604c788df76530c49fe479b0f095c7ea3706d7c4e1e2cdc9d03",
+    "modelos.py": "a5fdf4774b9a7bdec9f8db23c52307a59b793d53029904f1d6c6a92012412d91",
+    "validacion.py": "eefef3cb8c8cc87be850f94f7351a534003d6f7e3389b32ff1cd05744bfb1683",
+    "experimento_61.py": "4ea96d259fc2664d8102b000a364d693020cfa491441cd9e42edce8a2cbfb732",
+    "RESULTADOS.md": "ef2ed4f1ee4bf05718486621ad3186711734026fd23e4ad46078af186727c019",
+    "datos/RESUMEN.md": "04a3104d2b96e213b2aa9e43f6978d69ec3b9ad0ec839d8b25e21f714d94adeb",
+    "tests/test_modelo.py": "102a99118530b77b090d18fd92877da20c0e0cafd4f0795c306fd6f857c8090b",
+    "evidencia/curva_arbol.csv": "6ed32a13db0299ba42947b2035aff5555292f3b4aef6e2896f9e7c5012180c64",
+    "evidencia/particiones.csv": "b750a4249b7430895979d790e415ae7af4c64ebad49ee98b54a437303f4e32f7",
+    "evidencia/pliegues_metricas.csv": "98e33267d63478ddbb8890d686f2572aaa2bcecf034440a380f5e755042070c0",
+    "evidencia/predicciones_oof.csv": "6a252010c226ecabd5cb18ee5610fa0e9ef632713aa1fee4c1614ae536632256",
+    "evidencia/subgrupos.csv": "4b38b408d4de986e6e001dd0e4787be2fc0374cba1bd0528cd218fec7d60f80b",
+    "evidencia/resultados.json": "31e81e78fe24d7714fd951130279c523ae8a374d923f5fcd0c77748acce11bd3",
+    "evidencia/pliegues.json": "68a649c83fd8a1908148d74c7ae287451812403765112811516ff2032147cd2f"
+  }
+}
