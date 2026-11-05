@@ -1,18 +1,16 @@
-"""Paso 2 · Los modelos y el Pipeline: la codificación va DENTRO del pipeline para que nada se filtre entre pliegues."""
-from sklearn.compose import ColumnTransformer          # ColumnTransformer: aplica una transformación solo a ciertas columnas
-from sklearn.ensemble import HistGradientBoostingClassifier, RandomForestClassifier  # los dos modelos de conjunto
-from sklearn.pipeline import Pipeline                  # Pipeline: encadena pasos (preparar → modelo) como una sola pieza
-from sklearn.preprocessing import OrdinalEncoder       # OrdinalEncoder: convierte cada categoría de texto en un número
-from sklearn.tree import DecisionTreeClassifier        # el árbol de decisión: nuestro modelo individual
+"""Configuraciones fijas; no se optimizan hiperparámetros en 6.1."""
+from sklearn.compose import ColumnTransformer
+from sklearn.ensemble import RandomForestClassifier,HistGradientBoostingClassifier
+from sklearn.pipeline import Pipeline
+from sklearn.preprocessing import OrdinalEncoder
+from sklearn.tree import DecisionTreeClassifier
 
-
-def crear_pipeline(modelo, cols_cat):
-    """Envuelve un modelo con su preparación de datos."""
-    # TODO 2 (en clase): OrdinalEncoder + ColumnTransformer + Pipeline
-    raise NotImplementedError("TODO 2: completar en clase")
-
+def crear_pipeline(modelo,cols_cat):
+    encoder=OrdinalEncoder(handle_unknown='use_encoded_value',unknown_value=-1)
+    prep=ColumnTransformer([('cat',encoder,cols_cat)],remainder='passthrough')
+    return Pipeline([('prep',prep),('modelo',modelo)])
 
 def tres_modelos():
-    """Los tres modelos que comparamos, con semilla fija."""
-    # TODO 3 (en clase): diccionario con Árbol, Random Forest y Boosting
-    raise NotImplementedError("TODO 3: completar en clase")
+    return {'Árbol':DecisionTreeClassifier(random_state=42),
+            'Random Forest':RandomForestClassifier(n_estimators=100,random_state=42,n_jobs=1),
+            'Boosting':HistGradientBoostingClassifier(random_state=42)}
