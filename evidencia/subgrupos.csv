@@ -1,0 +1,15 @@
+modelo,variable,grupo,n,bad_reales,accuracy,recall_bad
+Random Forest,housing,for free,108,44,0.6666666666666666,0.5
+Random Forest,housing,own,713,186,0.7798036465638148,0.3225806451612903
+Random Forest,housing,rent,179,70,0.7206703910614525,0.42857142857142855
+Random Forest,personal_status,female div/dep/mar,310,109,0.7354838709677419,0.42201834862385323
+Random Forest,personal_status,male div/sep,50,20,0.62,0.3
+Random Forest,personal_status,male mar/wid,92,25,0.7717391304347826,0.24
+Random Forest,personal_status,male single,548,146,0.7791970802919708,0.3698630136986301
+Árbol,housing,for free,108,44,0.6851851851851852,0.6363636363636364
+Árbol,housing,own,713,186,0.7138849929873773,0.5
+Árbol,housing,rent,179,70,0.6424581005586593,0.5428571428571428
+Árbol,personal_status,female div/dep/mar,310,109,0.6774193548387096,0.5688073394495413
+Árbol,personal_status,male div/sep,50,20,0.58,0.55
+Árbol,personal_status,male mar/wid,92,25,0.75,0.52
+Árbol,personal_status,male single,548,146,0.7116788321167883,0.5

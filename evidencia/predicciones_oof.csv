@@ -1,0 +1,2001 @@
+fila,modelo,y_true,y_pred,housing,personal_status
+0,Árbol,0,0,own,male single
+1,Árbol,1,0,own,female div/dep/mar
+2,Árbol,0,0,own,male single
+3,Árbol,0,0,for free,male single
+4,Árbol,1,1,for free,male single
+5,Árbol,0,1,for free,male single
+6,Árbol,0,0,own,male single
+7,Árbol,0,0,rent,male single
+8,Árbol,0,0,own,male div/sep
+9,Árbol,1,1,own,male mar/wid
+10,Árbol,1,1,rent,female div/dep/mar
+11,Árbol,1,1,rent,female div/dep/mar
+12,Árbol,0,0,own,female div/dep/mar
+13,Árbol,1,0,own,male single
+14,Árbol,0,1,rent,female div/dep/mar
+15,Árbol,1,0,own,female div/dep/mar
+16,Árbol,0,0,own,male single
+17,Árbol,0,0,own,male single
+18,Árbol,1,1,for free,female div/dep/mar
+19,Árbol,0,0,own,male single
+20,Árbol,0,0,own,male single
+21,Árbol,0,0,rent,male single
+22,Árbol,0,0,rent,male single
+23,Árbol,0,0,own,male single
+24,Árbol,0,0,own,male mar/wid
+25,Árbol,0,0,own,male single
+26,Árbol,0,1,own,male mar/wid
+27,Árbol,0,0,rent,female div/dep/mar
+28,Árbol,0,0,own,male single
+29,Árbol,1,0,own,male single
+30,Árbol,0,0,own,male mar/wid
+31,Árbol,0,0,own,male single
+32,Árbol,0,0,own,male single
+33,Árbol,0,0,rent,male single
+34,Árbol,0,0,own,female div/dep/mar
+35,Árbol,1,1,own,male single
+36,Árbol,0,1,for free,male single
+37,Árbol,1,0,own,male single
+38,Árbol,0,0,own,male single
+39,Árbol,0,0,own,male single
+40,Árbol,0,0,own,male single
+41,Árbol,0,1,own,male div/sep
+42,Árbol,0,1,own,male single
+43,Árbol,0,1,rent,male mar/wid
+44,Árbol,1,1,for free,female div/dep/mar
+45,Árbol,0,0,own,female div/dep/mar
+46,Árbol,0,0,own,male single
+47,Árbol,0,0,rent,female div/dep/mar
+48,Árbol,0,0,own,male single
+49,Árbol,0,1,own,female div/dep/mar
+50,Árbol,0,1,own,male single
+51,Árbol,0,0,own,male single
+52,Árbol,0,0,own,male single
+53,Árbol,0,0,own,male single
+54,Árbol,1,1,for free,male single
+55,Árbol,0,1,own,male single
+56,Árbol,1,0,own,male single
+57,Árbol,0,0,own,female div/dep/mar
+58,Árbol,0,0,own,female div/dep/mar
+59,Árbol,1,1,rent,female div/dep/mar
+60,Árbol,0,0,own,male mar/wid
+61,Árbol,0,0,own,male single
+62,Árbol,1,0,for free,male single
+63,Árbol,1,1,own,male single
+64,Árbol,0,0,own,female div/dep/mar
+65,Árbol,0,0,own,male single
+66,Árbol,0,0,own,female div/dep/mar
+67,Árbol,0,0,own,male mar/wid
+68,Árbol,1,0,for free,male single
+69,Árbol,0,0,own,female div/dep/mar
+70,Árbol,0,0,own,female div/dep/mar
+71,Árbol,0,0,rent,male single
+72,Árbol,0,0,for free,male single
+73,Árbol,0,1,own,female div/dep/mar
+74,Árbol,1,0,own,male single
+75,Árbol,0,0,for free,male single
+76,Árbol,1,1,own,male single
+77,Árbol,0,0,own,male single
+78,Árbol,0,0,own,male single
+79,Árbol,0,1,own,male mar/wid
+80,Árbol,1,0,own,female div/dep/mar
+81,Árbol,0,0,own,male single
+82,Árbol,0,1,rent,female div/dep/mar
+83,Árbol,0,1,own,female div/dep/mar
+84,Árbol,0,0,own,male single
+85,Árbol,0,0,own,female div/dep/mar
+86,Árbol,0,0,own,female div/dep/mar
+87,Árbol,1,0,for free,male single
+88,Árbol,0,0,own,male single
+89,Árbol,1,0,own,male single
+90,Árbol,0,0,own,male single
+91,Árbol,0,1,own,male single
+92,Árbol,1,1,own,female div/dep/mar
+93,Árbol,0,1,rent,male single
+94,Árbol,0,1,own,male single
+95,Árbol,1,0,rent,male single
+96,Árbol,0,0,own,female div/dep/mar
+97,Árbol,0,0,own,male single
+98,Árbol,0,1,own,male single
+99,Árbol,0,1,rent,male single
+100,Árbol,0,0,rent,male mar/wid
+101,Árbol,0,1,rent,male single
+102,Árbol,0,0,own,female div/dep/mar
+103,Árbol,0,0,rent,male single
+104,Árbol,0,0,rent,male mar/wid
+105,Árbol,1,1,own,male single
+106,Árbol,1,1,own,male single
+107,Árbol,0,0,own,male single
+108,Árbol,0,1,own,female div/dep/mar
+109,Árbol,0,0,own,male mar/wid
+110,Árbol,0,0,own,male div/sep
+111,Árbol,0,0,rent,female div/dep/mar
+112,Árbol,0,0,rent,male single
+113,Árbol,1,0,own,female div/dep/mar
+114,Árbol,0,1,own,male mar/wid
+115,Árbol,0,0,own,male single
+116,Árbol,1,0,own,female div/dep/mar
+117,Árbol,0,1,rent,female div/dep/mar
+118,Árbol,1,1,own,female div/dep/mar
+119,Árbol,0,1,own,male div/sep
+120,Árbol,1,1,own,female div/dep/mar
+121,Árbol,0,0,rent,female div/dep/mar
+122,Árbol,0,0,rent,male single
+123,Árbol,0,0,for free,male single
+124,Árbol,1,0,rent,female div/dep/mar
+125,Árbol,0,0,own,male single
+126,Árbol,0,0,own,male mar/wid
+127,Árbol,1,0,own,male single
+128,Árbol,0,0,own,male single
+129,Árbol,1,0,own,female div/dep/mar
+130,Árbol,0,1,own,female div/dep/mar
+131,Árbol,1,1,own,male single
+132,Árbol,0,0,own,male single
+133,Árbol,0,0,for free,male single
+134,Árbol,0,0,own,female div/dep/mar
+135,Árbol,0,0,own,female div/dep/mar
+136,Árbol,0,0,own,male single
+137,Árbol,1,0,own,male single
+138,Árbol,0,0,own,male single
+139,Árbol,0,1,rent,female div/dep/mar
+140,Árbol,0,0,own,male mar/wid
+141,Árbol,0,1,own,female div/dep/mar
+142,Árbol,0,0,own,male single
+143,Árbol,1,0,own,male single
+144,Árbol,0,0,own,female div/dep/mar
+145,Árbol,0,1,own,male single
+146,Árbol,0,0,own,female div/dep/mar
+147,Árbol,0,0,own,female div/dep/mar
+148,Árbol,0,1,own,male single
+149,Árbol,0,0,own,male single
+150,Árbol,0,1,for free,male single
+151,Árbol,0,0,own,male single
+152,Árbol,0,0,own,male single
+153,Árbol,0,0,rent,female div/dep/mar
+154,Árbol,0,1,rent,male single
+155,Árbol,1,0,rent,female div/dep/mar
+156,Árbol,0,0,own,male single
+157,Árbol,0,1,own,male mar/wid
+158,Árbol,0,1,own,male single
+159,Árbol,0,0,own,male single
+160,Árbol,0,0,own,male single
+161,Árbol,0,0,own,female div/dep/mar
+162,Árbol,0,0,own,male single
+163,Árbol,0,0,for free,male single
+164,Árbol,0,0,own,male single
+165,Árbol,0,0,own,male single
+166,Árbol,1,1,own,female div/dep/mar
+167,Árbol,0,1,own,female div/dep/mar
+168,Árbol,0,0,rent,female div/dep/mar
+169,Árbol,1,1,own,male div/sep
+170,Árbol,1,1,rent,male single
+171,Árbol,0,0,own,female div/dep/mar
+172,Árbol,1,1,own,female div/dep/mar
+173,Árbol,0,0,own,male single
+174,Árbol,1,0,own,male single
+175,Árbol,1,0,own,female div/dep/mar
+176,Árbol,0,0,own,male div/sep
+177,Árbol,0,0,own,male single
+178,Árbol,0,1,rent,male single
+179,Árbol,0,1,own,male single
+180,Árbol,1,0,own,male div/sep
+181,Árbol,1,0,own,male div/sep
+182,Árbol,1,1,own,male single
+183,Árbol,0,0,own,male single
+184,Árbol,1,0,own,male single
+185,Árbol,0,0,own,male single
+186,Árbol,1,0,for free,female div/dep/mar
+187,Árbol,0,1,for free,male single
+188,Árbol,1,1,own,male mar/wid
+189,Árbol,0,1,own,female div/dep/mar
+190,Árbol,1,0,own,male single
+191,Árbol,1,1,for free,male single
+192,Árbol,1,0,own,male single
+193,Árbol,0,0,rent,male mar/wid
+194,Árbol,1,1,rent,male single
+195,Árbol,1,0,own,female div/dep/mar
+196,Árbol,0,0,own,female div/dep/mar
+197,Árbol,1,1,rent,female div/dep/mar
+198,Árbol,0,0,for free,male single
+199,Árbol,1,0,own,male div/sep
+200,Árbol,0,0,own,male single
+201,Árbol,0,0,own,male mar/wid
+202,Árbol,0,0,own,male single
+203,Árbol,1,1,rent,male mar/wid
+204,Árbol,0,0,own,male single
+205,Árbol,0,1,for free,male single
+206,Árbol,0,0,own,male single
+207,Árbol,0,0,own,male single
+208,Árbol,0,1,own,male mar/wid
+209,Árbol,0,0,own,male single
+210,Árbol,0,0,own,male single
+211,Árbol,0,1,own,female div/dep/mar
+212,Árbol,1,0,own,male single
+213,Árbol,1,0,own,male single
+214,Árbol,0,0,own,male single
+215,Árbol,0,1,own,female div/dep/mar
+216,Árbol,0,0,own,male single
+217,Árbol,0,1,own,male single
+218,Árbol,0,1,rent,male div/sep
+219,Árbol,0,1,own,female div/dep/mar
+220,Árbol,0,0,own,male mar/wid
+221,Árbol,0,0,rent,female div/dep/mar
+222,Árbol,0,0,own,male single
+223,Árbol,0,0,own,male single
+224,Árbol,0,0,own,male single
+225,Árbol,0,0,own,male single
+226,Árbol,1,0,own,male single
+227,Árbol,1,1,for free,male single
+228,Árbol,1,0,own,male single
+229,Árbol,0,1,for free,male single
+230,Árbol,1,0,own,male single
+231,Árbol,0,0,for free,male single
+232,Árbol,0,1,own,male single
+233,Árbol,0,0,own,male mar/wid
+234,Árbol,0,0,own,male single
+235,Árbol,1,0,own,male single
+236,Árbol,1,1,own,male single
+237,Árbol,1,1,rent,male div/sep
+238,Árbol,0,0,own,female div/dep/mar
+239,Árbol,0,0,own,male single
+240,Árbol,1,1,own,female div/dep/mar
+241,Árbol,0,0,own,male single
+242,Árbol,1,1,for free,male single
+243,Árbol,0,0,own,female div/dep/mar
+244,Árbol,0,0,own,female div/dep/mar
+245,Árbol,0,0,own,male single
+246,Árbol,0,0,own,male single
+247,Árbol,0,1,rent,male single
+248,Árbol,0,0,own,male single
+249,Árbol,1,1,rent,female div/dep/mar
+250,Árbol,0,0,own,female div/dep/mar
+251,Árbol,0,1,own,female div/dep/mar
+252,Árbol,1,0,own,female div/dep/mar
+253,Árbol,0,0,own,male single
+254,Árbol,0,0,own,male single
+255,Árbol,0,1,own,male single
+256,Árbol,0,0,own,male single
+257,Árbol,1,1,for free,male div/sep
+258,Árbol,0,0,own,female div/dep/mar
+259,Árbol,0,0,own,female div/dep/mar
+260,Árbol,0,0,own,male single
+261,Árbol,0,1,own,female div/dep/mar
+262,Árbol,0,0,for free,male single
+263,Árbol,0,0,for free,female div/dep/mar
+264,Árbol,0,0,own,male single
+265,Árbol,1,1,own,male single
+266,Árbol,0,0,own,male single
+267,Árbol,0,0,own,female div/dep/mar
+268,Árbol,1,1,own,male div/sep
+269,Árbol,0,0,own,male single
+270,Árbol,0,0,own,male single
+271,Árbol,0,0,rent,female div/dep/mar
+272,Árbol,0,0,for free,male single
+273,Árbol,1,1,own,male single
+274,Árbol,1,0,own,male div/sep
+275,Árbol,0,0,own,male single
+276,Árbol,0,0,own,female div/dep/mar
+277,Árbol,0,0,own,male div/sep
+278,Árbol,1,0,own,female div/dep/mar
+279,Árbol,0,0,rent,male single
+280,Árbol,0,0,rent,male single
+281,Árbol,0,0,own,male single
+282,Árbol,0,0,own,male single
+283,Árbol,0,0,own,male single
+284,Árbol,0,1,own,male div/sep
+285,Árbol,0,0,own,female div/dep/mar
+286,Árbol,0,1,own,male single
+287,Árbol,0,0,for free,male single
+288,Árbol,0,0,own,female div/dep/mar
+289,Árbol,1,1,own,male mar/wid
+290,Árbol,0,0,own,male mar/wid
+291,Árbol,1,0,rent,male mar/wid
+292,Árbol,0,0,for free,female div/dep/mar
+293,Árbol,0,1,for free,male single
+294,Árbol,0,0,own,male div/sep
+295,Árbol,1,1,own,female div/dep/mar
+296,Árbol,0,0,rent,female div/dep/mar
+297,Árbol,0,0,own,male single
+298,Árbol,0,0,own,male single
+299,Árbol,0,0,own,male single
+300,Árbol,0,0,own,female div/dep/mar
+301,Árbol,1,0,own,female div/dep/mar
+302,Árbol,1,1,own,male single
+303,Árbol,0,0,own,male single
+304,Árbol,1,0,for free,male single
+305,Árbol,0,0,own,male div/sep
+306,Árbol,0,0,rent,female div/dep/mar
+307,Árbol,1,1,own,male mar/wid
+308,Árbol,1,0,own,female div/dep/mar
+309,Árbol,0,0,rent,male mar/wid
+310,Árbol,0,0,for free,male single
+311,Árbol,0,0,own,male single
+312,Árbol,0,0,own,female div/dep/mar
+313,Árbol,1,1,own,male mar/wid
+314,Árbol,0,0,own,male single
+315,Árbol,1,1,own,male single
+316,Árbol,0,0,own,male single
+317,Árbol,0,1,own,female div/dep/mar
+318,Árbol,0,0,own,male single
+319,Árbol,0,0,own,female div/dep/mar
+320,Árbol,1,1,own,male mar/wid
+321,Árbol,1,1,own,male div/sep
+322,Árbol,0,0,for free,male single
+323,Árbol,0,1,own,male single
+324,Árbol,0,1,own,female div/dep/mar
+325,Árbol,0,0,own,male single
+326,Árbol,0,0,rent,male single
+327,Árbol,0,0,own,female div/dep/mar
+328,Árbol,0,0,own,male single
+329,Árbol,0,1,own,male single
+330,Árbol,0,0,for free,male single
+331,Árbol,1,0,own,female div/dep/mar
+332,Árbol,1,1,own,female div/dep/mar
+333,Árbol,1,0,rent,female div/dep/mar
+334,Árbol,1,1,rent,male single
+335,Árbol,1,0,rent,male div/sep
+336,Árbol,0,0,own,female div/dep/mar
+337,Árbol,1,1,rent,female div/dep/mar
+338,Árbol,0,1,own,male single
+339,Árbol,0,0,own,male div/sep
+340,Árbol,0,1,for free,female div/dep/mar
+341,Árbol,0,0,rent,female div/dep/mar
+342,Árbol,0,0,rent,male mar/wid
+343,Árbol,0,1,own,male single
+344,Árbol,0,0,own,male single
+345,Árbol,0,0,own,female div/dep/mar
+346,Árbol,0,0,own,male single
+347,Árbol,0,0,rent,female div/dep/mar
+348,Árbol,0,0,own,male single
+349,Árbol,1,0,for free,male single
+350,Árbol,0,0,rent,female div/dep/mar
+351,Árbol,1,1,own,female div/dep/mar
+352,Árbol,0,0,own,male single
+353,Árbol,1,1,rent,male single
+354,Árbol,0,0,for free,male single
+355,Árbol,1,0,own,male single
+356,Árbol,0,0,own,male single
+357,Árbol,1,0,own,male single
+358,Árbol,0,0,own,male mar/wid
+359,Árbol,1,1,rent,female div/dep/mar
+360,Árbol,0,1,for free,male single
+361,Árbol,0,1,own,male single
+362,Árbol,0,0,own,female div/dep/mar
+363,Árbol,0,0,rent,male mar/wid
+364,Árbol,1,0,own,male single
+365,Árbol,0,0,own,male single
+366,Árbol,0,0,own,male single
+367,Árbol,0,0,rent,female div/dep/mar
+368,Árbol,1,1,own,male single
+369,Árbol,0,0,rent,female div/dep/mar
+370,Árbol,0,0,own,male single
+371,Árbol,0,0,own,male single
+372,Árbol,0,0,rent,female div/dep/mar
+373,Árbol,0,1,for free,male single
+374,Árbol,1,0,for free,female div/dep/mar
+375,Árbol,1,1,rent,female div/dep/mar
+376,Árbol,0,0,own,male mar/wid
+377,Árbol,0,0,for free,male single
+378,Árbol,1,1,for free,male single
+379,Árbol,0,0,own,female div/dep/mar
+380,Árbol,0,0,own,male single
+381,Árbol,1,1,for free,female div/dep/mar
+382,Árbol,0,0,rent,female div/dep/mar
+383,Árbol,0,0,own,male single
+384,Árbol,0,0,own,male single
+385,Árbol,0,0,own,female div/dep/mar
+386,Árbol,0,0,rent,female div/dep/mar
+387,Árbol,0,1,own,male single
+388,Árbol,0,0,own,male single
+389,Árbol,0,0,own,female div/dep/mar
+390,Árbol,0,0,own,male mar/wid
+391,Árbol,0,0,rent,female div/dep/mar
+392,Árbol,0,1,for free,male single
+393,Árbol,0,0,own,female div/dep/mar
+394,Árbol,0,0,own,male single
+395,Árbol,0,0,rent,male single
+396,Árbol,0,0,for free,female div/dep/mar
+397,Árbol,0,1,own,male mar/wid
+398,Árbol,1,0,rent,male div/sep
+399,Árbol,0,0,own,female div/dep/mar
+400,Árbol,0,0,own,male mar/wid
+401,Árbol,0,0,own,male mar/wid
+402,Árbol,1,0,own,male single
+403,Árbol,0,0,own,male single
+404,Árbol,0,0,own,male single
+405,Árbol,1,0,own,male mar/wid
+406,Árbol,0,0,own,male single
+407,Árbol,0,0,own,male mar/wid
+408,Árbol,0,0,own,male div/sep
+409,Árbol,1,0,own,male mar/wid
+410,Árbol,0,1,own,female div/dep/mar
+411,Árbol,0,0,own,male single
+412,Árbol,1,0,own,male single
+413,Árbol,0,0,rent,male single
+414,Árbol,1,1,own,female div/dep/mar
+415,Árbol,0,0,own,male single
+416,Árbol,1,0,own,male single
+417,Árbol,0,1,rent,female div/dep/mar
+418,Árbol,0,0,own,female div/dep/mar
+419,Árbol,1,1,own,female div/dep/mar
+420,Árbol,0,1,rent,female div/dep/mar
+421,Árbol,0,1,own,male single
+422,Árbol,0,1,own,male single
+423,Árbol,0,0,own,male single
+424,Árbol,1,0,own,female div/dep/mar
+425,Árbol,0,1,rent,male mar/wid
+426,Árbol,0,0,own,male single
+427,Árbol,0,0,own,male single
+428,Árbol,0,0,own,male single
+429,Árbol,1,1,for free,female div/dep/mar
+430,Árbol,0,0,own,male single
+431,Árbol,1,1,own,male single
+432,Árbol,0,0,for free,male single
+433,Árbol,0,0,own,male div/sep
+434,Árbol,0,1,own,male single
+435,Árbol,1,0,own,male mar/wid
+436,Árbol,0,0,rent,male mar/wid
+437,Árbol,0,0,own,female div/dep/mar
+438,Árbol,0,1,own,male single
+439,Árbol,1,0,own,female div/dep/mar
+440,Árbol,0,0,own,male single
+441,Árbol,0,0,own,female div/dep/mar
+442,Árbol,0,0,own,male single
+443,Árbol,1,0,own,male single
+444,Árbol,1,1,own,female div/dep/mar
+445,Árbol,0,0,rent,female div/dep/mar
+446,Árbol,1,1,own,female div/dep/mar
+447,Árbol,0,0,own,male single
+448,Árbol,0,0,own,female div/dep/mar
+449,Árbol,1,0,own,male mar/wid
+450,Árbol,0,0,own,male single
+451,Árbol,0,1,own,female div/dep/mar
+452,Árbol,0,0,own,male single
+453,Árbol,0,0,own,male single
+454,Árbol,1,0,own,male single
+455,Árbol,0,0,own,female div/dep/mar
+456,Árbol,0,0,rent,male single
+457,Árbol,1,0,for free,male single
+458,Árbol,0,0,own,female div/dep/mar
+459,Árbol,0,0,own,male single
+460,Árbol,0,0,own,male single
+461,Árbol,0,0,own,male single
+462,Árbol,0,1,rent,female div/dep/mar
+463,Árbol,0,1,own,male single
+464,Árbol,0,1,own,male single
+465,Árbol,0,1,own,male single
+466,Árbol,1,0,rent,female div/dep/mar
+467,Árbol,0,1,own,male single
+468,Árbol,0,1,own,female div/dep/mar
+469,Árbol,0,0,own,male single
+470,Árbol,1,0,rent,male mar/wid
+471,Árbol,1,0,own,female div/dep/mar
+472,Árbol,1,0,own,male single
+473,Árbol,0,0,own,male single
+474,Árbol,1,0,own,male mar/wid
+475,Árbol,1,0,rent,female div/dep/mar
+476,Árbol,0,0,own,male single
+477,Árbol,0,0,own,male single
+478,Árbol,0,0,own,male single
+479,Árbol,0,0,own,male single
+480,Árbol,0,0,own,female div/dep/mar
+481,Árbol,0,1,own,male single
+482,Árbol,0,0,rent,female div/dep/mar
+483,Árbol,0,0,own,female div/dep/mar
+484,Árbol,0,0,own,male single
+485,Árbol,1,0,own,male single
+486,Árbol,0,0,own,male single
+487,Árbol,0,0,for free,female div/dep/mar
+488,Árbol,0,1,rent,male single
+489,Árbol,0,0,rent,male single
+490,Árbol,0,0,own,male single
+491,Árbol,1,1,for free,female div/dep/mar
+492,Árbol,0,0,own,female div/dep/mar
+493,Árbol,0,0,own,male single
+494,Árbol,0,0,rent,male single
+495,Árbol,1,1,own,male mar/wid
+496,Árbol,1,1,rent,male single
+497,Árbol,0,0,own,male single
+498,Árbol,0,0,own,male mar/wid
+499,Árbol,0,0,own,male div/sep
+500,Árbol,1,0,own,female div/dep/mar
+501,Árbol,0,0,for free,male single
+502,Árbol,0,1,own,male div/sep
+503,Árbol,1,1,own,male single
+504,Árbol,1,1,rent,female div/dep/mar
+505,Árbol,1,0,own,male single
+506,Árbol,0,1,own,male single
+507,Árbol,1,1,own,male single
+508,Árbol,0,0,own,male mar/wid
+509,Árbol,0,0,own,male single
+510,Árbol,1,0,own,male single
+511,Árbol,0,0,for free,male single
+512,Árbol,0,0,rent,male single
+513,Árbol,0,0,rent,male mar/wid
+514,Árbol,0,0,own,male single
+515,Árbol,0,0,own,female div/dep/mar
+516,Árbol,0,0,own,male single
+517,Árbol,1,0,rent,female div/dep/mar
+518,Árbol,0,1,own,male single
+519,Árbol,0,0,for free,male single
+520,Árbol,0,0,for free,male single
+521,Árbol,1,1,own,female div/dep/mar
+522,Árbol,1,1,for free,male single
+523,Árbol,0,0,own,female div/dep/mar
+524,Árbol,0,0,own,female div/dep/mar
+525,Árbol,0,0,own,male single
+526,Árbol,0,0,own,female div/dep/mar
+527,Árbol,0,0,own,male single
+528,Árbol,1,0,rent,male div/sep
+529,Árbol,0,0,own,male single
+530,Árbol,0,0,own,male single
+531,Árbol,1,0,rent,female div/dep/mar
+532,Árbol,0,0,rent,male mar/wid
+533,Árbol,0,0,own,male mar/wid
+534,Árbol,0,0,own,male single
+535,Árbol,1,0,rent,male div/sep
+536,Árbol,0,1,own,female div/dep/mar
+537,Árbol,0,0,own,female div/dep/mar
+538,Árbol,1,1,for free,male single
+539,Árbol,0,0,own,female div/dep/mar
+540,Árbol,1,0,rent,male mar/wid
+541,Árbol,0,0,for free,male single
+542,Árbol,1,1,own,male single
+543,Árbol,1,0,own,male single
+544,Árbol,0,0,own,male single
+545,Árbol,1,1,for free,male single
+546,Árbol,0,0,own,female div/dep/mar
+547,Árbol,0,1,own,male single
+548,Árbol,1,1,own,female div/dep/mar
+549,Árbol,0,0,for free,male single
+550,Árbol,0,0,own,female div/dep/mar
+551,Árbol,0,0,own,male single
+552,Árbol,1,1,own,male mar/wid
+553,Árbol,0,0,own,male single
+554,Árbol,0,0,own,female div/dep/mar
+555,Árbol,1,1,own,male single
+556,Árbol,1,1,own,female div/dep/mar
+557,Árbol,1,0,own,female div/dep/mar
+558,Árbol,1,0,own,male single
+559,Árbol,1,1,own,male single
+560,Árbol,0,1,for free,male single
+561,Árbol,1,0,rent,male single
+562,Árbol,0,0,own,female div/dep/mar
+563,Árbol,1,0,for free,male single
+564,Árbol,0,0,own,male single
+565,Árbol,0,1,rent,female div/dep/mar
+566,Árbol,1,1,own,male div/sep
+567,Árbol,0,0,own,male single
+568,Árbol,0,0,own,male single
+569,Árbol,1,1,own,female div/dep/mar
+570,Árbol,1,1,rent,female div/dep/mar
+571,Árbol,0,0,own,male single
+572,Árbol,0,0,rent,female div/dep/mar
+573,Árbol,0,0,own,female div/dep/mar
+574,Árbol,0,0,own,male single
+575,Árbol,0,0,own,female div/dep/mar
+576,Árbol,0,0,own,female div/dep/mar
+577,Árbol,0,0,own,female div/dep/mar
+578,Árbol,1,1,own,male div/sep
+579,Árbol,0,0,own,male mar/wid
+580,Árbol,1,1,own,male single
+581,Árbol,0,0,own,male single
+582,Árbol,0,0,rent,female div/dep/mar
+583,Árbol,1,1,rent,male single
+584,Árbol,0,0,for free,female div/dep/mar
+585,Árbol,1,0,rent,female div/dep/mar
+586,Árbol,0,0,rent,male single
+587,Árbol,0,1,own,male single
+588,Árbol,1,1,own,male mar/wid
+589,Árbol,1,0,own,male single
+590,Árbol,0,1,own,female div/dep/mar
+591,Árbol,0,0,rent,female div/dep/mar
+592,Árbol,0,1,own,female div/dep/mar
+593,Árbol,1,0,rent,female div/dep/mar
+594,Árbol,1,1,own,male single
+595,Árbol,1,0,own,female div/dep/mar
+596,Árbol,1,1,rent,female div/dep/mar
+597,Árbol,1,0,own,male single
+598,Árbol,1,1,own,male single
+599,Árbol,0,0,for free,male single
+600,Árbol,0,0,own,female div/dep/mar
+601,Árbol,1,1,own,female div/dep/mar
+602,Árbol,1,1,for free,female div/dep/mar
+603,Árbol,1,0,own,female div/dep/mar
+604,Árbol,0,0,own,female div/dep/mar
+605,Árbol,0,0,own,male single
+606,Árbol,0,1,own,male single
+607,Árbol,1,1,for free,female div/dep/mar
+608,Árbol,0,0,own,male single
+609,Árbol,0,0,for free,male single
+610,Árbol,1,0,own,female div/dep/mar
+611,Árbol,1,0,for free,female div/dep/mar
+612,Árbol,0,0,own,female div/dep/mar
+613,Árbol,0,1,rent,female div/dep/mar
+614,Árbol,1,0,own,female div/dep/mar
+615,Árbol,0,1,own,male single
+616,Árbol,0,0,for free,male single
+617,Árbol,0,0,rent,male single
+618,Árbol,1,1,rent,female div/dep/mar
+619,Árbol,0,0,own,male div/sep
+620,Árbol,0,0,own,male single
+621,Árbol,1,0,own,male single
+622,Árbol,1,1,own,male div/sep
+623,Árbol,0,0,rent,female div/dep/mar
+624,Árbol,1,0,for free,male single
+625,Árbol,0,0,own,male single
+626,Árbol,0,0,own,male single
+627,Árbol,1,1,own,male single
+628,Árbol,0,0,own,male single
+629,Árbol,0,0,own,male single
+630,Árbol,0,1,own,female div/dep/mar
+631,Árbol,1,1,own,male single
+632,Árbol,0,1,own,male single
+633,Árbol,1,0,rent,female div/dep/mar
+634,Árbol,1,1,own,female div/dep/mar
+635,Árbol,0,0,own,male single
+636,Árbol,0,0,own,female div/dep/mar
+637,Árbol,0,1,own,male single
+638,Árbol,0,0,own,female div/dep/mar
+639,Árbol,1,1,own,male single
+640,Árbol,1,1,own,female div/dep/mar
+641,Árbol,0,1,own,male single
+642,Árbol,1,0,own,male single
+643,Árbol,0,0,own,male mar/wid
+644,Árbol,0,0,own,male mar/wid
+645,Árbol,1,1,rent,male single
+646,Árbol,0,0,own,male div/sep
+647,Árbol,1,0,own,female div/dep/mar
+648,Árbol,1,1,for free,male single
+649,Árbol,1,0,rent,male single
+650,Árbol,0,1,for free,male single
+651,Árbol,1,1,own,male single
+652,Árbol,1,0,own,male single
+653,Árbol,1,0,own,male single
+654,Árbol,0,0,own,male single
+655,Árbol,0,0,for free,male single
+656,Árbol,1,1,own,male single
+657,Árbol,0,0,own,male single
+658,Árbol,0,0,own,female div/dep/mar
+659,Árbol,0,0,own,male single
+660,Árbol,0,1,rent,male mar/wid
+661,Árbol,1,1,own,male mar/wid
+662,Árbol,0,0,own,male single
+663,Árbol,0,1,own,male single
+664,Árbol,0,0,own,female div/dep/mar
+665,Árbol,0,1,own,male single
+666,Árbol,0,0,own,male single
+667,Árbol,0,1,own,female div/dep/mar
+668,Árbol,1,0,rent,male single
+669,Árbol,0,0,own,male single
+670,Árbol,0,0,own,male single
+671,Árbol,0,1,own,male single
+672,Árbol,0,0,own,male single
+673,Árbol,0,0,own,male mar/wid
+674,Árbol,1,0,own,male single
+675,Árbol,0,0,rent,female div/dep/mar
+676,Árbol,0,0,own,male single
+677,Árbol,1,1,own,male mar/wid
+678,Árbol,0,0,rent,male single
+679,Árbol,0,0,own,female div/dep/mar
+680,Árbol,0,0,own,female div/dep/mar
+681,Árbol,0,0,for free,male single
+682,Árbol,0,0,own,male mar/wid
+683,Árbol,0,0,for free,male mar/wid
+684,Árbol,0,1,own,male single
+685,Árbol,0,0,for free,male single
+686,Árbol,0,1,own,male single
+687,Árbol,0,0,for free,male single
+688,Árbol,0,0,own,male single
+689,Árbol,0,0,own,male single
+690,Árbol,0,0,own,male div/sep
+691,Árbol,0,1,own,female div/dep/mar
+692,Árbol,0,0,own,male single
+693,Árbol,0,0,own,male single
+694,Árbol,0,0,own,male single
+695,Árbol,0,0,rent,male single
+696,Árbol,0,0,own,male single
+697,Árbol,0,0,own,female div/dep/mar
+698,Árbol,0,0,own,male single
+699,Árbol,0,0,rent,male single
+700,Árbol,1,0,rent,female div/dep/mar
+701,Árbol,1,1,for free,male single
+702,Árbol,0,1,for free,female div/dep/mar
+703,Árbol,0,1,own,male single
+704,Árbol,0,0,own,female div/dep/mar
+705,Árbol,0,1,for free,female div/dep/mar
+706,Árbol,1,1,own,male single
+707,Árbol,1,1,rent,female div/dep/mar
+708,Árbol,0,0,own,female div/dep/mar
+709,Árbol,0,1,own,male single
+710,Árbol,0,1,own,male single
+711,Árbol,1,1,for free,female div/dep/mar
+712,Árbol,0,0,own,male single
+713,Árbol,0,0,own,male single
+714,Árbol,1,1,own,male single
+715,Árbol,0,0,own,male single
+716,Árbol,0,0,own,male single
+717,Árbol,0,0,for free,male single
+718,Árbol,0,0,own,male single
+719,Árbol,0,1,own,male mar/wid
+720,Árbol,1,0,own,male single
+721,Árbol,1,1,rent,female div/dep/mar
+722,Árbol,1,1,own,female div/dep/mar
+723,Árbol,0,1,own,female div/dep/mar
+724,Árbol,1,0,rent,female div/dep/mar
+725,Árbol,0,0,own,female div/dep/mar
+726,Árbol,0,0,own,male mar/wid
+727,Árbol,1,1,rent,female div/dep/mar
+728,Árbol,1,1,rent,female div/dep/mar
+729,Árbol,0,1,own,male div/sep
+730,Árbol,0,0,own,male single
+731,Árbol,1,1,rent,male single
+732,Árbol,0,0,own,female div/dep/mar
+733,Árbol,0,1,rent,female div/dep/mar
+734,Árbol,0,0,own,female div/dep/mar
+735,Árbol,0,0,own,female div/dep/mar
+736,Árbol,1,1,rent,female div/dep/mar
+737,Árbol,0,0,own,male single
+738,Árbol,0,0,own,male single
+739,Árbol,1,0,rent,female div/dep/mar
+740,Árbol,0,1,own,male single
+741,Árbol,0,0,own,male single
+742,Árbol,0,0,own,male single
+743,Árbol,0,0,own,male single
+744,Árbol,0,0,own,male single
+745,Árbol,0,0,own,male single
+746,Árbol,0,0,rent,female div/dep/mar
+747,Árbol,1,1,own,female div/dep/mar
+748,Árbol,0,0,own,male single
+749,Árbol,0,0,own,male single
+750,Árbol,0,0,own,female div/dep/mar
+751,Árbol,1,1,own,female div/dep/mar
+752,Árbol,0,0,rent,female div/dep/mar
+753,Árbol,0,0,own,female div/dep/mar
+754,Árbol,1,0,for free,male single
+755,Árbol,1,1,rent,female div/dep/mar
+756,Árbol,0,0,own,male single
+757,Árbol,1,0,for free,male single
+758,Árbol,0,1,own,male single
+759,Árbol,1,0,own,male single
+760,Árbol,0,0,own,female div/dep/mar
+761,Árbol,1,1,rent,female div/dep/mar
+762,Árbol,0,1,own,male single
+763,Árbol,1,0,for free,male single
+764,Árbol,0,0,own,male mar/wid
+765,Árbol,0,0,own,male mar/wid
+766,Árbol,1,0,own,male div/sep
+767,Árbol,0,0,rent,female div/dep/mar
+768,Árbol,0,0,rent,male single
+769,Árbol,0,0,own,male single
+770,Árbol,0,1,rent,female div/dep/mar
+771,Árbol,1,1,own,female div/dep/mar
+772,Árbol,0,0,own,male single
+773,Árbol,0,0,own,male single
+774,Árbol,0,0,for free,male single
+775,Árbol,1,1,rent,female div/dep/mar
+776,Árbol,0,0,own,male single
+777,Árbol,0,0,own,female div/dep/mar
+778,Árbol,0,0,own,male single
+779,Árbol,0,0,own,female div/dep/mar
+780,Árbol,1,0,own,male single
+781,Árbol,0,0,own,male single
+782,Árbol,0,0,own,male single
+783,Árbol,1,1,own,female div/dep/mar
+784,Árbol,0,1,own,male div/sep
+785,Árbol,0,1,own,male single
+786,Árbol,0,0,own,male single
+787,Árbol,0,0,own,male single
+788,Árbol,1,1,for free,male single
+789,Árbol,1,1,own,male single
+790,Árbol,1,0,own,female div/dep/mar
+791,Árbol,0,0,own,male single
+792,Árbol,0,0,own,male mar/wid
+793,Árbol,0,0,for free,male div/sep
+794,Árbol,0,0,rent,male single
+795,Árbol,0,0,rent,female div/dep/mar
+796,Árbol,1,1,for free,male single
+797,Árbol,0,0,rent,female div/dep/mar
+798,Árbol,0,0,own,male mar/wid
+799,Árbol,0,0,own,male single
+800,Árbol,0,0,for free,male single
+801,Árbol,0,1,rent,female div/dep/mar
+802,Árbol,0,0,own,female div/dep/mar
+803,Árbol,0,0,own,male single
+804,Árbol,0,0,rent,female div/dep/mar
+805,Árbol,1,1,own,male single
+806,Árbol,0,0,own,male mar/wid
+807,Árbol,0,0,own,male single
+808,Árbol,0,1,for free,male single
+809,Árbol,1,1,rent,female div/dep/mar
+810,Árbol,0,0,own,male mar/wid
+811,Árbol,0,0,own,male mar/wid
+812,Árbol,1,1,own,male single
+813,Árbol,1,1,own,male single
+814,Árbol,1,1,for free,male single
+815,Árbol,0,1,rent,female div/dep/mar
+816,Árbol,0,0,own,male div/sep
+817,Árbol,0,0,rent,female div/dep/mar
+818,Árbol,0,1,own,male div/sep
+819,Árbol,1,0,own,male mar/wid
+820,Árbol,0,0,own,male mar/wid
+821,Árbol,0,0,own,male mar/wid
+822,Árbol,1,0,own,male single
+823,Árbol,0,0,own,male single
+824,Árbol,0,1,own,male div/sep
+825,Árbol,0,0,own,male mar/wid
+826,Árbol,1,0,rent,female div/dep/mar
+827,Árbol,1,0,own,male single
+828,Árbol,1,0,for free,male single
+829,Árbol,0,0,for free,male single
+830,Árbol,0,0,own,male single
+831,Árbol,1,1,rent,female div/dep/mar
+832,Árbol,1,0,rent,male single
+833,Árbol,0,0,own,female div/dep/mar
+834,Árbol,1,1,own,female div/dep/mar
+835,Árbol,1,1,own,male single
+836,Árbol,0,0,own,female div/dep/mar
+837,Árbol,0,0,rent,female div/dep/mar
+838,Árbol,0,0,own,male single
+839,Árbol,0,0,own,male mar/wid
+840,Árbol,1,1,own,male single
+841,Árbol,0,0,own,male single
+842,Árbol,1,0,own,female div/dep/mar
+843,Árbol,0,0,own,male single
+844,Árbol,0,0,own,male single
+845,Árbol,0,0,own,male single
+846,Árbol,1,0,rent,male single
+847,Árbol,0,0,own,male mar/wid
+848,Árbol,0,1,own,male single
+849,Árbol,1,1,own,male single
+850,Árbol,1,0,rent,male mar/wid
+851,Árbol,0,0,own,male single
+852,Árbol,0,0,for free,male single
+853,Árbol,1,1,for free,male single
+854,Árbol,0,0,own,male single
+855,Árbol,0,0,own,male mar/wid
+856,Árbol,0,0,own,female div/dep/mar
+857,Árbol,0,0,for free,male single
+858,Árbol,1,0,own,female div/dep/mar
+859,Árbol,0,0,rent,male single
+860,Árbol,0,0,own,male single
+861,Árbol,1,0,own,male mar/wid
+862,Árbol,1,1,own,female div/dep/mar
+863,Árbol,0,0,own,male single
+864,Árbol,1,0,rent,male single
+865,Árbol,0,1,rent,female div/dep/mar
+866,Árbol,0,1,own,female div/dep/mar
+867,Árbol,0,0,own,male single
+868,Árbol,0,0,own,male single
+869,Árbol,0,1,rent,female div/dep/mar
+870,Árbol,0,0,own,female div/dep/mar
+871,Árbol,0,0,own,male single
+872,Árbol,0,1,own,male single
+873,Árbol,0,0,own,female div/dep/mar
+874,Árbol,0,0,own,male single
+875,Árbol,0,0,own,female div/dep/mar
+876,Árbol,0,1,for free,male single
+877,Árbol,0,0,own,male single
+878,Árbol,1,1,for free,male single
+879,Árbol,0,0,own,male single
+880,Árbol,0,0,own,male single
+881,Árbol,0,0,for free,male div/sep
+882,Árbol,0,0,own,male single
+883,Árbol,0,0,own,female div/dep/mar
+884,Árbol,1,1,own,male div/sep
+885,Árbol,1,1,own,female div/dep/mar
+886,Árbol,0,0,own,male single
+887,Árbol,1,1,own,male single
+888,Árbol,0,0,own,male single
+889,Árbol,0,1,rent,male single
+890,Árbol,0,1,own,male single
+891,Árbol,0,0,own,male single
+892,Árbol,0,0,own,male single
+893,Árbol,0,0,own,male single
+894,Árbol,0,0,own,male single
+895,Árbol,0,0,own,male single
+896,Árbol,0,1,rent,female div/dep/mar
+897,Árbol,0,0,own,female div/dep/mar
+898,Árbol,0,0,rent,female div/dep/mar
+899,Árbol,1,0,own,male single
+900,Árbol,1,1,rent,male single
+901,Árbol,0,0,own,male div/sep
+902,Árbol,0,0,for free,male single
+903,Árbol,0,0,rent,male mar/wid
+904,Árbol,0,0,own,male single
+905,Árbol,0,0,rent,male single
+906,Árbol,0,0,own,male single
+907,Árbol,0,0,own,male mar/wid
+908,Árbol,0,0,own,female div/dep/mar
+909,Árbol,0,0,own,female div/dep/mar
+910,Árbol,0,0,own,female div/dep/mar
+911,Árbol,1,1,own,female div/dep/mar
+912,Árbol,0,1,own,female div/dep/mar
+913,Árbol,0,0,own,male div/sep
+914,Árbol,1,1,rent,male single
+915,Árbol,1,1,own,female div/dep/mar
+916,Árbol,0,0,own,male single
+917,Árbol,1,0,own,male single
+918,Árbol,1,1,own,male div/sep
+919,Árbol,1,1,rent,male single
+920,Árbol,0,1,own,female div/dep/mar
+921,Árbol,0,1,own,male single
+922,Árbol,1,0,rent,female div/dep/mar
+923,Árbol,0,0,rent,male single
+924,Árbol,1,1,own,male div/sep
+925,Árbol,1,1,own,male single
+926,Árbol,0,0,rent,female div/dep/mar
+927,Árbol,1,1,for free,male single
+928,Árbol,0,0,own,male single
+929,Árbol,0,0,own,male single
+930,Árbol,0,1,own,male single
+931,Árbol,1,0,own,female div/dep/mar
+932,Árbol,0,0,own,male single
+933,Árbol,0,0,own,male single
+934,Árbol,0,1,own,female div/dep/mar
+935,Árbol,1,1,own,male single
+936,Árbol,1,0,own,female div/dep/mar
+937,Árbol,0,1,rent,male mar/wid
+938,Árbol,1,1,for free,male single
+939,Árbol,0,0,own,male single
+940,Árbol,0,0,own,male single
+941,Árbol,0,0,own,male single
+942,Árbol,0,1,own,male single
+943,Árbol,0,0,own,male single
+944,Árbol,0,1,rent,female div/dep/mar
+945,Árbol,0,0,own,female div/dep/mar
+946,Árbol,1,0,for free,male single
+947,Árbol,0,0,own,male single
+948,Árbol,1,0,own,male mar/wid
+949,Árbol,1,0,own,male single
+950,Árbol,0,0,own,male mar/wid
+951,Árbol,1,0,own,male single
+952,Árbol,1,0,rent,female div/dep/mar
+953,Árbol,1,1,own,female div/dep/mar
+954,Árbol,0,0,own,female div/dep/mar
+955,Árbol,0,1,rent,female div/dep/mar
+956,Árbol,0,0,own,male single
+957,Árbol,0,0,own,male single
+958,Árbol,1,1,own,male single
+959,Árbol,0,1,for free,male single
+960,Árbol,0,0,rent,male mar/wid
+961,Árbol,0,1,own,male div/sep
+962,Árbol,0,0,own,male single
+963,Árbol,1,0,own,male single
+964,Árbol,0,0,own,male mar/wid
+965,Árbol,0,0,own,female div/dep/mar
+966,Árbol,1,0,own,male single
+967,Árbol,0,0,rent,female div/dep/mar
+968,Árbol,0,0,rent,male mar/wid
+969,Árbol,0,0,own,male single
+970,Árbol,0,0,own,male single
+971,Árbol,0,1,own,male single
+972,Árbol,1,1,rent,female div/dep/mar
+973,Árbol,1,1,rent,male single
+974,Árbol,0,0,own,female div/dep/mar
+975,Árbol,0,1,own,female div/dep/mar
+976,Árbol,0,0,own,female div/dep/mar
+977,Árbol,0,0,own,male single
+978,Árbol,1,1,own,male single
+979,Árbol,1,1,rent,male mar/wid
+980,Árbol,1,1,own,male single
+981,Árbol,1,0,rent,male single
+982,Árbol,0,0,own,female div/dep/mar
+983,Árbol,1,0,own,male single
+984,Árbol,0,1,own,male single
+985,Árbol,0,1,rent,female div/dep/mar
+986,Árbol,0,1,own,male div/sep
+987,Árbol,0,1,own,female div/dep/mar
+988,Árbol,0,0,for free,male single
+989,Árbol,0,0,own,male single
+990,Árbol,0,1,own,male single
+991,Árbol,0,1,own,male single
+992,Árbol,0,0,rent,male mar/wid
+993,Árbol,0,1,own,male single
+994,Árbol,0,0,own,male single
+995,Árbol,0,0,own,female div/dep/mar
+996,Árbol,0,1,own,male div/sep
+997,Árbol,0,0,own,male single
+998,Árbol,1,1,for free,male single
+999,Árbol,0,1,own,male single
+0,Random Forest,0,0,own,male single
+1,Random Forest,1,1,own,female div/dep/mar
+2,Random Forest,0,0,own,male single
+3,Random Forest,0,1,for free,male single
+4,Random Forest,1,0,for free,male single
+5,Random Forest,0,0,for free,male single
+6,Random Forest,0,0,own,male single
+7,Random Forest,0,0,rent,male single
+8,Random Forest,0,0,own,male div/sep
+9,Random Forest,1,1,own,male mar/wid
+10,Random Forest,1,1,rent,female div/dep/mar
+11,Random Forest,1,1,rent,female div/dep/mar
+12,Random Forest,0,0,own,female div/dep/mar
+13,Random Forest,1,0,own,male single
+14,Random Forest,0,1,rent,female div/dep/mar
+15,Random Forest,1,1,own,female div/dep/mar
+16,Random Forest,0,0,own,male single
+17,Random Forest,0,1,own,male single
+18,Random Forest,1,1,for free,female div/dep/mar
+19,Random Forest,0,0,own,male single
+20,Random Forest,0,0,own,male single
+21,Random Forest,0,0,rent,male single
+22,Random Forest,0,0,rent,male single
+23,Random Forest,0,0,own,male single
+24,Random Forest,0,0,own,male mar/wid
+25,Random Forest,0,0,own,male single
+26,Random Forest,0,0,own,male mar/wid
+27,Random Forest,0,0,rent,female div/dep/mar
+28,Random Forest,0,0,own,male single
+29,Random Forest,1,1,own,male single
+30,Random Forest,0,0,own,male mar/wid
+31,Random Forest,0,0,own,male single
+32,Random Forest,0,0,own,male single
+33,Random Forest,0,0,rent,male single
+34,Random Forest,0,0,own,female div/dep/mar
+35,Random Forest,1,1,own,male single
+36,Random Forest,0,0,for free,male single
+37,Random Forest,1,0,own,male single
+38,Random Forest,0,0,own,male single
+39,Random Forest,0,0,own,male single
+40,Random Forest,0,0,own,male single
+41,Random Forest,0,1,own,male div/sep
+42,Random Forest,0,0,own,male single
+43,Random Forest,0,0,rent,male mar/wid
+44,Random Forest,1,1,for free,female div/dep/mar
+45,Random Forest,0,0,own,female div/dep/mar
+46,Random Forest,0,0,own,male single
+47,Random Forest,0,0,rent,female div/dep/mar
+48,Random Forest,0,0,own,male single
+49,Random Forest,0,0,own,female div/dep/mar
+50,Random Forest,0,0,own,male single
+51,Random Forest,0,0,own,male single
+52,Random Forest,0,0,own,male single
+53,Random Forest,0,0,own,male single
+54,Random Forest,1,1,for free,male single
+55,Random Forest,0,0,own,male single
+56,Random Forest,1,0,own,male single
+57,Random Forest,0,0,own,female div/dep/mar
+58,Random Forest,0,0,own,female div/dep/mar
+59,Random Forest,1,1,rent,female div/dep/mar
+60,Random Forest,0,0,own,male mar/wid
+61,Random Forest,0,0,own,male single
+62,Random Forest,1,1,for free,male single
+63,Random Forest,1,1,own,male single
+64,Random Forest,0,0,own,female div/dep/mar
+65,Random Forest,0,0,own,male single
+66,Random Forest,0,0,own,female div/dep/mar
+67,Random Forest,0,0,own,male mar/wid
+68,Random Forest,1,0,for free,male single
+69,Random Forest,0,0,own,female div/dep/mar
+70,Random Forest,0,0,own,female div/dep/mar
+71,Random Forest,0,0,rent,male single
+72,Random Forest,0,0,for free,male single
+73,Random Forest,0,1,own,female div/dep/mar
+74,Random Forest,1,0,own,male single
+75,Random Forest,0,0,for free,male single
+76,Random Forest,1,1,own,male single
+77,Random Forest,0,0,own,male single
+78,Random Forest,0,0,own,male single
+79,Random Forest,0,0,own,male mar/wid
+80,Random Forest,1,0,own,female div/dep/mar
+81,Random Forest,0,0,own,male single
+82,Random Forest,0,0,rent,female div/dep/mar
+83,Random Forest,0,0,own,female div/dep/mar
+84,Random Forest,0,0,own,male single
+85,Random Forest,0,0,own,female div/dep/mar
+86,Random Forest,0,1,own,female div/dep/mar
+87,Random Forest,1,0,for free,male single
+88,Random Forest,0,0,own,male single
+89,Random Forest,1,0,own,male single
+90,Random Forest,0,0,own,male single
+91,Random Forest,0,0,own,male single
+92,Random Forest,1,0,own,female div/dep/mar
+93,Random Forest,0,0,rent,male single
+94,Random Forest,0,0,own,male single
+95,Random Forest,1,1,rent,male single
+96,Random Forest,0,0,own,female div/dep/mar
+97,Random Forest,0,0,own,male single
+98,Random Forest,0,0,own,male single
+99,Random Forest,0,0,rent,male single
+100,Random Forest,0,0,rent,male mar/wid
+101,Random Forest,0,1,rent,male single
+102,Random Forest,0,0,own,female div/dep/mar
+103,Random Forest,0,0,rent,male single
+104,Random Forest,0,0,rent,male mar/wid
+105,Random Forest,1,0,own,male single
+106,Random Forest,1,0,own,male single
+107,Random Forest,0,0,own,male single
+108,Random Forest,0,0,own,female div/dep/mar
+109,Random Forest,0,0,own,male mar/wid
+110,Random Forest,0,0,own,male div/sep
+111,Random Forest,0,0,rent,female div/dep/mar
+112,Random Forest,0,0,rent,male single
+113,Random Forest,1,0,own,female div/dep/mar
+114,Random Forest,0,0,own,male mar/wid
+115,Random Forest,0,0,own,male single
+116,Random Forest,1,0,own,female div/dep/mar
+117,Random Forest,0,0,rent,female div/dep/mar
+118,Random Forest,1,0,own,female div/dep/mar
+119,Random Forest,0,0,own,male div/sep
+120,Random Forest,1,0,own,female div/dep/mar
+121,Random Forest,0,0,rent,female div/dep/mar
+122,Random Forest,0,0,rent,male single
+123,Random Forest,0,0,for free,male single
+124,Random Forest,1,0,rent,female div/dep/mar
+125,Random Forest,0,0,own,male single
+126,Random Forest,0,0,own,male mar/wid
+127,Random Forest,1,0,own,male single
+128,Random Forest,0,0,own,male single
+129,Random Forest,1,0,own,female div/dep/mar
+130,Random Forest,0,0,own,female div/dep/mar
+131,Random Forest,1,1,own,male single
+132,Random Forest,0,0,own,male single
+133,Random Forest,0,0,for free,male single
+134,Random Forest,0,0,own,female div/dep/mar
+135,Random Forest,0,0,own,female div/dep/mar
+136,Random Forest,0,0,own,male single
+137,Random Forest,1,0,own,male single
+138,Random Forest,0,0,own,male single
+139,Random Forest,0,0,rent,female div/dep/mar
+140,Random Forest,0,0,own,male mar/wid
+141,Random Forest,0,1,own,female div/dep/mar
+142,Random Forest,0,0,own,male single
+143,Random Forest,1,0,own,male single
+144,Random Forest,0,0,own,female div/dep/mar
+145,Random Forest,0,1,own,male single
+146,Random Forest,0,0,own,female div/dep/mar
+147,Random Forest,0,0,own,female div/dep/mar
+148,Random Forest,0,1,own,male single
+149,Random Forest,0,0,own,male single
+150,Random Forest,0,0,for free,male single
+151,Random Forest,0,0,own,male single
+152,Random Forest,0,0,own,male single
+153,Random Forest,0,0,rent,female div/dep/mar
+154,Random Forest,0,0,rent,male single
+155,Random Forest,1,0,rent,female div/dep/mar
+156,Random Forest,0,0,own,male single
+157,Random Forest,0,0,own,male mar/wid
+158,Random Forest,0,0,own,male single
+159,Random Forest,0,0,own,male single
+160,Random Forest,0,0,own,male single
+161,Random Forest,0,0,own,female div/dep/mar
+162,Random Forest,0,0,own,male single
+163,Random Forest,0,1,for free,male single
+164,Random Forest,0,0,own,male single
+165,Random Forest,0,0,own,male single
+166,Random Forest,1,1,own,female div/dep/mar
+167,Random Forest,0,0,own,female div/dep/mar
+168,Random Forest,0,0,rent,female div/dep/mar
+169,Random Forest,1,0,own,male div/sep
+170,Random Forest,1,1,rent,male single
+171,Random Forest,0,0,own,female div/dep/mar
+172,Random Forest,1,1,own,female div/dep/mar
+173,Random Forest,0,0,own,male single
+174,Random Forest,1,0,own,male single
+175,Random Forest,1,0,own,female div/dep/mar
+176,Random Forest,0,0,own,male div/sep
+177,Random Forest,0,0,own,male single
+178,Random Forest,0,0,rent,male single
+179,Random Forest,0,0,own,male single
+180,Random Forest,1,0,own,male div/sep
+181,Random Forest,1,0,own,male div/sep
+182,Random Forest,1,0,own,male single
+183,Random Forest,0,0,own,male single
+184,Random Forest,1,1,own,male single
+185,Random Forest,0,0,own,male single
+186,Random Forest,1,0,for free,female div/dep/mar
+187,Random Forest,0,0,for free,male single
+188,Random Forest,1,0,own,male mar/wid
+189,Random Forest,0,1,own,female div/dep/mar
+190,Random Forest,1,0,own,male single
+191,Random Forest,1,1,for free,male single
+192,Random Forest,1,0,own,male single
+193,Random Forest,0,0,rent,male mar/wid
+194,Random Forest,1,1,rent,male single
+195,Random Forest,1,0,own,female div/dep/mar
+196,Random Forest,0,0,own,female div/dep/mar
+197,Random Forest,1,1,rent,female div/dep/mar
+198,Random Forest,0,0,for free,male single
+199,Random Forest,1,0,own,male div/sep
+200,Random Forest,0,0,own,male single
+201,Random Forest,0,1,own,male mar/wid
+202,Random Forest,0,0,own,male single
+203,Random Forest,1,0,rent,male mar/wid
+204,Random Forest,0,0,own,male single
+205,Random Forest,0,0,for free,male single
+206,Random Forest,0,0,own,male single
+207,Random Forest,0,0,own,male single
+208,Random Forest,0,1,own,male mar/wid
+209,Random Forest,0,0,own,male single
+210,Random Forest,0,0,own,male single
+211,Random Forest,0,0,own,female div/dep/mar
+212,Random Forest,1,0,own,male single
+213,Random Forest,1,0,own,male single
+214,Random Forest,0,0,own,male single
+215,Random Forest,0,0,own,female div/dep/mar
+216,Random Forest,0,1,own,male single
+217,Random Forest,0,0,own,male single
+218,Random Forest,0,1,rent,male div/sep
+219,Random Forest,0,0,own,female div/dep/mar
+220,Random Forest,0,0,own,male mar/wid
+221,Random Forest,0,1,rent,female div/dep/mar
+222,Random Forest,0,0,own,male single
+223,Random Forest,0,0,own,male single
+224,Random Forest,0,0,own,male single
+225,Random Forest,0,0,own,male single
+226,Random Forest,1,1,own,male single
+227,Random Forest,1,0,for free,male single
+228,Random Forest,1,0,own,male single
+229,Random Forest,0,0,for free,male single
+230,Random Forest,1,0,own,male single
+231,Random Forest,0,0,for free,male single
+232,Random Forest,0,0,own,male single
+233,Random Forest,0,0,own,male mar/wid
+234,Random Forest,0,0,own,male single
+235,Random Forest,1,0,own,male single
+236,Random Forest,1,0,own,male single
+237,Random Forest,1,0,rent,male div/sep
+238,Random Forest,0,0,own,female div/dep/mar
+239,Random Forest,0,0,own,male single
+240,Random Forest,1,1,own,female div/dep/mar
+241,Random Forest,0,0,own,male single
+242,Random Forest,1,1,for free,male single
+243,Random Forest,0,0,own,female div/dep/mar
+244,Random Forest,0,0,own,female div/dep/mar
+245,Random Forest,0,0,own,male single
+246,Random Forest,0,0,own,male single
+247,Random Forest,0,0,rent,male single
+248,Random Forest,0,0,own,male single
+249,Random Forest,1,0,rent,female div/dep/mar
+250,Random Forest,0,0,own,female div/dep/mar
+251,Random Forest,0,0,own,female div/dep/mar
+252,Random Forest,1,1,own,female div/dep/mar
+253,Random Forest,0,0,own,male single
+254,Random Forest,0,0,own,male single
+255,Random Forest,0,0,own,male single
+256,Random Forest,0,0,own,male single
+257,Random Forest,1,1,for free,male div/sep
+258,Random Forest,0,0,own,female div/dep/mar
+259,Random Forest,0,0,own,female div/dep/mar
+260,Random Forest,0,0,own,male single
+261,Random Forest,0,0,own,female div/dep/mar
+262,Random Forest,0,0,for free,male single
+263,Random Forest,0,0,for free,female div/dep/mar
+264,Random Forest,0,0,own,male single
+265,Random Forest,1,1,own,male single
+266,Random Forest,0,0,own,male single
+267,Random Forest,0,0,own,female div/dep/mar
+268,Random Forest,1,0,own,male div/sep
+269,Random Forest,0,0,own,male single
+270,Random Forest,0,0,own,male single
+271,Random Forest,0,0,rent,female div/dep/mar
+272,Random Forest,0,1,for free,male single
+273,Random Forest,1,0,own,male single
+274,Random Forest,1,1,own,male div/sep
+275,Random Forest,0,0,own,male single
+276,Random Forest,0,0,own,female div/dep/mar
+277,Random Forest,0,0,own,male div/sep
+278,Random Forest,1,0,own,female div/dep/mar
+279,Random Forest,0,0,rent,male single
+280,Random Forest,0,0,rent,male single
+281,Random Forest,0,0,own,male single
+282,Random Forest,0,0,own,male single
+283,Random Forest,0,0,own,male single
+284,Random Forest,0,1,own,male div/sep
+285,Random Forest,0,1,own,female div/dep/mar
+286,Random Forest,0,1,own,male single
+287,Random Forest,0,1,for free,male single
+288,Random Forest,0,0,own,female div/dep/mar
+289,Random Forest,1,1,own,male mar/wid
+290,Random Forest,0,0,own,male mar/wid
+291,Random Forest,1,0,rent,male mar/wid
+292,Random Forest,0,0,for free,female div/dep/mar
+293,Random Forest,0,0,for free,male single
+294,Random Forest,0,0,own,male div/sep
+295,Random Forest,1,1,own,female div/dep/mar
+296,Random Forest,0,0,rent,female div/dep/mar
+297,Random Forest,0,0,own,male single
+298,Random Forest,0,0,own,male single
+299,Random Forest,0,0,own,male single
+300,Random Forest,0,0,own,female div/dep/mar
+301,Random Forest,1,0,own,female div/dep/mar
+302,Random Forest,1,0,own,male single
+303,Random Forest,0,0,own,male single
+304,Random Forest,1,0,for free,male single
+305,Random Forest,0,0,own,male div/sep
+306,Random Forest,0,0,rent,female div/dep/mar
+307,Random Forest,1,0,own,male mar/wid
+308,Random Forest,1,0,own,female div/dep/mar
+309,Random Forest,0,0,rent,male mar/wid
+310,Random Forest,0,0,for free,male single
+311,Random Forest,0,0,own,male single
+312,Random Forest,0,0,own,female div/dep/mar
+313,Random Forest,1,1,own,male mar/wid
+314,Random Forest,0,0,own,male single
+315,Random Forest,1,1,own,male single
+316,Random Forest,0,0,own,male single
+317,Random Forest,0,0,own,female div/dep/mar
+318,Random Forest,0,0,own,male single
+319,Random Forest,0,0,own,female div/dep/mar
+320,Random Forest,1,1,own,male mar/wid
+321,Random Forest,1,1,own,male div/sep
+322,Random Forest,0,0,for free,male single
+323,Random Forest,0,0,own,male single
+324,Random Forest,0,0,own,female div/dep/mar
+325,Random Forest,0,0,own,male single
+326,Random Forest,0,0,rent,male single
+327,Random Forest,0,0,own,female div/dep/mar
+328,Random Forest,0,0,own,male single
+329,Random Forest,0,0,own,male single
+330,Random Forest,0,0,for free,male single
+331,Random Forest,1,0,own,female div/dep/mar
+332,Random Forest,1,1,own,female div/dep/mar
+333,Random Forest,1,0,rent,female div/dep/mar
+334,Random Forest,1,1,rent,male single
+335,Random Forest,1,0,rent,male div/sep
+336,Random Forest,0,0,own,female div/dep/mar
+337,Random Forest,1,0,rent,female div/dep/mar
+338,Random Forest,0,0,own,male single
+339,Random Forest,0,0,own,male div/sep
+340,Random Forest,0,1,for free,female div/dep/mar
+341,Random Forest,0,0,rent,female div/dep/mar
+342,Random Forest,0,0,rent,male mar/wid
+343,Random Forest,0,0,own,male single
+344,Random Forest,0,0,own,male single
+345,Random Forest,0,0,own,female div/dep/mar
+346,Random Forest,0,0,own,male single
+347,Random Forest,0,0,rent,female div/dep/mar
+348,Random Forest,0,0,own,male single
+349,Random Forest,1,0,for free,male single
+350,Random Forest,0,0,rent,female div/dep/mar
+351,Random Forest,1,0,own,female div/dep/mar
+352,Random Forest,0,0,own,male single
+353,Random Forest,1,1,rent,male single
+354,Random Forest,0,0,for free,male single
+355,Random Forest,1,1,own,male single
+356,Random Forest,0,0,own,male single
+357,Random Forest,1,0,own,male single
+358,Random Forest,0,0,own,male mar/wid
+359,Random Forest,1,1,rent,female div/dep/mar
+360,Random Forest,0,1,for free,male single
+361,Random Forest,0,0,own,male single
+362,Random Forest,0,0,own,female div/dep/mar
+363,Random Forest,0,0,rent,male mar/wid
+364,Random Forest,1,0,own,male single
+365,Random Forest,0,0,own,male single
+366,Random Forest,0,0,own,male single
+367,Random Forest,0,0,rent,female div/dep/mar
+368,Random Forest,1,1,own,male single
+369,Random Forest,0,1,rent,female div/dep/mar
+370,Random Forest,0,0,own,male single
+371,Random Forest,0,0,own,male single
+372,Random Forest,0,0,rent,female div/dep/mar
+373,Random Forest,0,0,for free,male single
+374,Random Forest,1,1,for free,female div/dep/mar
+375,Random Forest,1,1,rent,female div/dep/mar
+376,Random Forest,0,0,own,male mar/wid
+377,Random Forest,0,0,for free,male single
+378,Random Forest,1,1,for free,male single
+379,Random Forest,0,0,own,female div/dep/mar
+380,Random Forest,0,0,own,male single
+381,Random Forest,1,1,for free,female div/dep/mar
+382,Random Forest,0,0,rent,female div/dep/mar
+383,Random Forest,0,0,own,male single
+384,Random Forest,0,0,own,male single
+385,Random Forest,0,0,own,female div/dep/mar
+386,Random Forest,0,0,rent,female div/dep/mar
+387,Random Forest,0,0,own,male single
+388,Random Forest,0,0,own,male single
+389,Random Forest,0,0,own,female div/dep/mar
+390,Random Forest,0,0,own,male mar/wid
+391,Random Forest,0,0,rent,female div/dep/mar
+392,Random Forest,0,1,for free,male single
+393,Random Forest,0,0,own,female div/dep/mar
+394,Random Forest,0,0,own,male single
+395,Random Forest,0,1,rent,male single
+396,Random Forest,0,1,for free,female div/dep/mar
+397,Random Forest,0,0,own,male mar/wid
+398,Random Forest,1,0,rent,male div/sep
+399,Random Forest,0,0,own,female div/dep/mar
+400,Random Forest,0,0,own,male mar/wid
+401,Random Forest,0,0,own,male mar/wid
+402,Random Forest,1,0,own,male single
+403,Random Forest,0,0,own,male single
+404,Random Forest,0,0,own,male single
+405,Random Forest,1,0,own,male mar/wid
+406,Random Forest,0,0,own,male single
+407,Random Forest,0,0,own,male mar/wid
+408,Random Forest,0,0,own,male div/sep
+409,Random Forest,1,0,own,male mar/wid
+410,Random Forest,0,1,own,female div/dep/mar
+411,Random Forest,0,0,own,male single
+412,Random Forest,1,0,own,male single
+413,Random Forest,0,0,rent,male single
+414,Random Forest,1,1,own,female div/dep/mar
+415,Random Forest,0,0,own,male single
+416,Random Forest,1,0,own,male single
+417,Random Forest,0,0,rent,female div/dep/mar
+418,Random Forest,0,0,own,female div/dep/mar
+419,Random Forest,1,0,own,female div/dep/mar
+420,Random Forest,0,0,rent,female div/dep/mar
+421,Random Forest,0,0,own,male single
+422,Random Forest,0,0,own,male single
+423,Random Forest,0,0,own,male single
+424,Random Forest,1,0,own,female div/dep/mar
+425,Random Forest,0,0,rent,male mar/wid
+426,Random Forest,0,0,own,male single
+427,Random Forest,0,0,own,male single
+428,Random Forest,0,0,own,male single
+429,Random Forest,1,0,for free,female div/dep/mar
+430,Random Forest,0,0,own,male single
+431,Random Forest,1,1,own,male single
+432,Random Forest,0,0,for free,male single
+433,Random Forest,0,0,own,male div/sep
+434,Random Forest,0,0,own,male single
+435,Random Forest,1,0,own,male mar/wid
+436,Random Forest,0,0,rent,male mar/wid
+437,Random Forest,0,0,own,female div/dep/mar
+438,Random Forest,0,0,own,male single
+439,Random Forest,1,0,own,female div/dep/mar
+440,Random Forest,0,0,own,male single
+441,Random Forest,0,0,own,female div/dep/mar
+442,Random Forest,0,0,own,male single
+443,Random Forest,1,0,own,male single
+444,Random Forest,1,1,own,female div/dep/mar
+445,Random Forest,0,0,rent,female div/dep/mar
+446,Random Forest,1,1,own,female div/dep/mar
+447,Random Forest,0,0,own,male single
+448,Random Forest,0,0,own,female div/dep/mar
+449,Random Forest,1,0,own,male mar/wid
+450,Random Forest,0,0,own,male single
+451,Random Forest,0,0,own,female div/dep/mar
+452,Random Forest,0,0,own,male single
+453,Random Forest,0,0,own,male single
+454,Random Forest,1,0,own,male single
+455,Random Forest,0,0,own,female div/dep/mar
+456,Random Forest,0,0,rent,male single
+457,Random Forest,1,0,for free,male single
+458,Random Forest,0,0,own,female div/dep/mar
+459,Random Forest,0,0,own,male single
+460,Random Forest,0,0,own,male single
+461,Random Forest,0,0,own,male single
+462,Random Forest,0,0,rent,female div/dep/mar
+463,Random Forest,0,0,own,male single
+464,Random Forest,0,0,own,male single
+465,Random Forest,0,0,own,male single
+466,Random Forest,1,0,rent,female div/dep/mar
+467,Random Forest,0,0,own,male single
+468,Random Forest,0,0,own,female div/dep/mar
+469,Random Forest,0,0,own,male single
+470,Random Forest,1,0,rent,male mar/wid
+471,Random Forest,1,0,own,female div/dep/mar
+472,Random Forest,1,0,own,male single
+473,Random Forest,0,0,own,male single
+474,Random Forest,1,0,own,male mar/wid
+475,Random Forest,1,0,rent,female div/dep/mar
+476,Random Forest,0,0,own,male single
+477,Random Forest,0,0,own,male single
+478,Random Forest,0,0,own,male single
+479,Random Forest,0,0,own,male single
+480,Random Forest,0,0,own,female div/dep/mar
+481,Random Forest,0,1,own,male single
+482,Random Forest,0,0,rent,female div/dep/mar
+483,Random Forest,0,0,own,female div/dep/mar
+484,Random Forest,0,0,own,male single
+485,Random Forest,1,0,own,male single
+486,Random Forest,0,0,own,male single
+487,Random Forest,0,0,for free,female div/dep/mar
+488,Random Forest,0,0,rent,male single
+489,Random Forest,0,0,rent,male single
+490,Random Forest,0,0,own,male single
+491,Random Forest,1,1,for free,female div/dep/mar
+492,Random Forest,0,0,own,female div/dep/mar
+493,Random Forest,0,0,own,male single
+494,Random Forest,0,0,rent,male single
+495,Random Forest,1,0,own,male mar/wid
+496,Random Forest,1,1,rent,male single
+497,Random Forest,0,0,own,male single
+498,Random Forest,0,0,own,male mar/wid
+499,Random Forest,0,0,own,male div/sep
+500,Random Forest,1,0,own,female div/dep/mar
+501,Random Forest,0,1,for free,male single
+502,Random Forest,0,0,own,male div/sep
+503,Random Forest,1,0,own,male single
+504,Random Forest,1,1,rent,female div/dep/mar
+505,Random Forest,1,0,own,male single
+506,Random Forest,0,0,own,male single
+507,Random Forest,1,0,own,male single
+508,Random Forest,0,0,own,male mar/wid
+509,Random Forest,0,0,own,male single
+510,Random Forest,1,0,own,male single
+511,Random Forest,0,0,for free,male single
+512,Random Forest,0,0,rent,male single
+513,Random Forest,0,0,rent,male mar/wid
+514,Random Forest,0,0,own,male single
+515,Random Forest,0,0,own,female div/dep/mar
+516,Random Forest,0,0,own,male single
+517,Random Forest,1,0,rent,female div/dep/mar
+518,Random Forest,0,0,own,male single
+519,Random Forest,0,0,for free,male single
+520,Random Forest,0,0,for free,male single
+521,Random Forest,1,0,own,female div/dep/mar
+522,Random Forest,1,1,for free,male single
+523,Random Forest,0,0,own,female div/dep/mar
+524,Random Forest,0,0,own,female div/dep/mar
+525,Random Forest,0,0,own,male single
+526,Random Forest,0,0,own,female div/dep/mar
+527,Random Forest,0,0,own,male single
+528,Random Forest,1,1,rent,male div/sep
+529,Random Forest,0,0,own,male single
+530,Random Forest,0,0,own,male single
+531,Random Forest,1,0,rent,female div/dep/mar
+532,Random Forest,0,0,rent,male mar/wid
+533,Random Forest,0,0,own,male mar/wid
+534,Random Forest,0,0,own,male single
+535,Random Forest,1,0,rent,male div/sep
+536,Random Forest,0,0,own,female div/dep/mar
+537,Random Forest,0,0,own,female div/dep/mar
+538,Random Forest,1,1,for free,male single
+539,Random Forest,0,0,own,female div/dep/mar
+540,Random Forest,1,0,rent,male mar/wid
+541,Random Forest,0,0,for free,male single
+542,Random Forest,1,0,own,male single
+543,Random Forest,1,0,own,male single
+544,Random Forest,0,0,own,male single
+545,Random Forest,1,1,for free,male single
+546,Random Forest,0,0,own,female div/dep/mar
+547,Random Forest,0,0,own,male single
+548,Random Forest,1,0,own,female div/dep/mar
+549,Random Forest,0,0,for free,male single
+550,Random Forest,0,0,own,female div/dep/mar
+551,Random Forest,0,0,own,male single
+552,Random Forest,1,0,own,male mar/wid
+553,Random Forest,0,0,own,male single
+554,Random Forest,0,0,own,female div/dep/mar
+555,Random Forest,1,0,own,male single
+556,Random Forest,1,0,own,female div/dep/mar
+557,Random Forest,1,0,own,female div/dep/mar
+558,Random Forest,1,0,own,male single
+559,Random Forest,1,0,own,male single
+560,Random Forest,0,0,for free,male single
+561,Random Forest,1,1,rent,male single
+562,Random Forest,0,0,own,female div/dep/mar
+563,Random Forest,1,0,for free,male single
+564,Random Forest,0,0,own,male single
+565,Random Forest,0,1,rent,female div/dep/mar
+566,Random Forest,1,0,own,male div/sep
+567,Random Forest,0,0,own,male single
+568,Random Forest,0,0,own,male single
+569,Random Forest,1,1,own,female div/dep/mar
+570,Random Forest,1,1,rent,female div/dep/mar
+571,Random Forest,0,0,own,male single
+572,Random Forest,0,0,rent,female div/dep/mar
+573,Random Forest,0,0,own,female div/dep/mar
+574,Random Forest,0,0,own,male single
+575,Random Forest,0,0,own,female div/dep/mar
+576,Random Forest,0,0,own,female div/dep/mar
+577,Random Forest,0,0,own,female div/dep/mar
+578,Random Forest,1,1,own,male div/sep
+579,Random Forest,0,0,own,male mar/wid
+580,Random Forest,1,0,own,male single
+581,Random Forest,0,0,own,male single
+582,Random Forest,0,0,rent,female div/dep/mar
+583,Random Forest,1,0,rent,male single
+584,Random Forest,0,0,for free,female div/dep/mar
+585,Random Forest,1,0,rent,female div/dep/mar
+586,Random Forest,0,0,rent,male single
+587,Random Forest,0,0,own,male single
+588,Random Forest,1,0,own,male mar/wid
+589,Random Forest,1,0,own,male single
+590,Random Forest,0,0,own,female div/dep/mar
+591,Random Forest,0,0,rent,female div/dep/mar
+592,Random Forest,0,0,own,female div/dep/mar
+593,Random Forest,1,1,rent,female div/dep/mar
+594,Random Forest,1,0,own,male single
+595,Random Forest,1,0,own,female div/dep/mar
+596,Random Forest,1,1,rent,female div/dep/mar
+597,Random Forest,1,0,own,male single
+598,Random Forest,1,0,own,male single
+599,Random Forest,0,0,for free,male single
+600,Random Forest,0,0,own,female div/dep/mar
+601,Random Forest,1,0,own,female div/dep/mar
+602,Random Forest,1,1,for free,female div/dep/mar
+603,Random Forest,1,0,own,female div/dep/mar
+604,Random Forest,0,0,own,female div/dep/mar
+605,Random Forest,0,0,own,male single
+606,Random Forest,0,0,own,male single
+607,Random Forest,1,0,for free,female div/dep/mar
+608,Random Forest,0,0,own,male single
+609,Random Forest,0,0,for free,male single
+610,Random Forest,1,1,own,female div/dep/mar
+611,Random Forest,1,0,for free,female div/dep/mar
+612,Random Forest,0,1,own,female div/dep/mar
+613,Random Forest,0,0,rent,female div/dep/mar
+614,Random Forest,1,0,own,female div/dep/mar
+615,Random Forest,0,1,own,male single
+616,Random Forest,0,0,for free,male single
+617,Random Forest,0,0,rent,male single
+618,Random Forest,1,1,rent,female div/dep/mar
+619,Random Forest,0,0,own,male div/sep
+620,Random Forest,0,0,own,male single
+621,Random Forest,1,1,own,male single
+622,Random Forest,1,0,own,male div/sep
+623,Random Forest,0,0,rent,female div/dep/mar
+624,Random Forest,1,0,for free,male single
+625,Random Forest,0,0,own,male single
+626,Random Forest,0,0,own,male single
+627,Random Forest,1,0,own,male single
+628,Random Forest,0,0,own,male single
+629,Random Forest,0,0,own,male single
+630,Random Forest,0,0,own,female div/dep/mar
+631,Random Forest,1,1,own,male single
+632,Random Forest,0,0,own,male single
+633,Random Forest,1,0,rent,female div/dep/mar
+634,Random Forest,1,1,own,female div/dep/mar
+635,Random Forest,0,0,own,male single
+636,Random Forest,0,0,own,female div/dep/mar
+637,Random Forest,0,1,own,male single
+638,Random Forest,0,0,own,female div/dep/mar
+639,Random Forest,1,1,own,male single
+640,Random Forest,1,1,own,female div/dep/mar
+641,Random Forest,0,0,own,male single
+642,Random Forest,1,0,own,male single
+643,Random Forest,0,0,own,male mar/wid
+644,Random Forest,0,0,own,male mar/wid
+645,Random Forest,1,0,rent,male single
+646,Random Forest,0,1,own,male div/sep
+647,Random Forest,1,0,own,female div/dep/mar
+648,Random Forest,1,0,for free,male single
+649,Random Forest,1,0,rent,male single
+650,Random Forest,0,1,for free,male single
+651,Random Forest,1,0,own,male single
+652,Random Forest,1,0,own,male single
+653,Random Forest,1,0,own,male single
+654,Random Forest,0,0,own,male single
+655,Random Forest,0,0,for free,male single
+656,Random Forest,1,1,own,male single
+657,Random Forest,0,0,own,male single
+658,Random Forest,0,1,own,female div/dep/mar
+659,Random Forest,0,0,own,male single
+660,Random Forest,0,0,rent,male mar/wid
+661,Random Forest,1,0,own,male mar/wid
+662,Random Forest,0,0,own,male single
+663,Random Forest,0,1,own,male single
+664,Random Forest,0,0,own,female div/dep/mar
+665,Random Forest,0,1,own,male single
+666,Random Forest,0,0,own,male single
+667,Random Forest,0,0,own,female div/dep/mar
+668,Random Forest,1,0,rent,male single
+669,Random Forest,0,0,own,male single
+670,Random Forest,0,0,own,male single
+671,Random Forest,0,0,own,male single
+672,Random Forest,0,0,own,male single
+673,Random Forest,0,0,own,male mar/wid
+674,Random Forest,1,0,own,male single
+675,Random Forest,0,0,rent,female div/dep/mar
+676,Random Forest,0,0,own,male single
+677,Random Forest,1,1,own,male mar/wid
+678,Random Forest,0,0,rent,male single
+679,Random Forest,0,0,own,female div/dep/mar
+680,Random Forest,0,0,own,female div/dep/mar
+681,Random Forest,0,0,for free,male single
+682,Random Forest,0,0,own,male mar/wid
+683,Random Forest,0,0,for free,male mar/wid
+684,Random Forest,0,1,own,male single
+685,Random Forest,0,0,for free,male single
+686,Random Forest,0,0,own,male single
+687,Random Forest,0,0,for free,male single
+688,Random Forest,0,0,own,male single
+689,Random Forest,0,0,own,male single
+690,Random Forest,0,0,own,male div/sep
+691,Random Forest,0,0,own,female div/dep/mar
+692,Random Forest,0,0,own,male single
+693,Random Forest,0,0,own,male single
+694,Random Forest,0,0,own,male single
+695,Random Forest,0,0,rent,male single
+696,Random Forest,0,0,own,male single
+697,Random Forest,0,0,own,female div/dep/mar
+698,Random Forest,0,0,own,male single
+699,Random Forest,0,0,rent,male single
+700,Random Forest,1,0,rent,female div/dep/mar
+701,Random Forest,1,1,for free,male single
+702,Random Forest,0,0,for free,female div/dep/mar
+703,Random Forest,0,0,own,male single
+704,Random Forest,0,0,own,female div/dep/mar
+705,Random Forest,0,0,for free,female div/dep/mar
+706,Random Forest,1,1,own,male single
+707,Random Forest,1,0,rent,female div/dep/mar
+708,Random Forest,0,0,own,female div/dep/mar
+709,Random Forest,0,0,own,male single
+710,Random Forest,0,0,own,male single
+711,Random Forest,1,1,for free,female div/dep/mar
+712,Random Forest,0,0,own,male single
+713,Random Forest,0,0,own,male single
+714,Random Forest,1,1,own,male single
+715,Random Forest,0,0,own,male single
+716,Random Forest,0,0,own,male single
+717,Random Forest,0,0,for free,male single
+718,Random Forest,0,0,own,male single
+719,Random Forest,0,0,own,male mar/wid
+720,Random Forest,1,0,own,male single
+721,Random Forest,1,1,rent,female div/dep/mar
+722,Random Forest,1,0,own,female div/dep/mar
+723,Random Forest,0,0,own,female div/dep/mar
+724,Random Forest,1,0,rent,female div/dep/mar
+725,Random Forest,0,0,own,female div/dep/mar
+726,Random Forest,0,0,own,male mar/wid
+727,Random Forest,1,1,rent,female div/dep/mar
+728,Random Forest,1,1,rent,female div/dep/mar
+729,Random Forest,0,0,own,male div/sep
+730,Random Forest,0,0,own,male single
+731,Random Forest,1,0,rent,male single
+732,Random Forest,0,0,own,female div/dep/mar
+733,Random Forest,0,0,rent,female div/dep/mar
+734,Random Forest,0,0,own,female div/dep/mar
+735,Random Forest,0,0,own,female div/dep/mar
+736,Random Forest,1,0,rent,female div/dep/mar
+737,Random Forest,0,0,own,male single
+738,Random Forest,0,0,own,male single
+739,Random Forest,1,1,rent,female div/dep/mar
+740,Random Forest,0,1,own,male single
+741,Random Forest,0,0,own,male single
+742,Random Forest,0,0,own,male single
+743,Random Forest,0,0,own,male single
+744,Random Forest,0,1,own,male single
+745,Random Forest,0,0,own,male single
+746,Random Forest,0,0,rent,female div/dep/mar
+747,Random Forest,1,0,own,female div/dep/mar
+748,Random Forest,0,0,own,male single
+749,Random Forest,0,0,own,male single
+750,Random Forest,0,0,own,female div/dep/mar
+751,Random Forest,1,1,own,female div/dep/mar
+752,Random Forest,0,0,rent,female div/dep/mar
+753,Random Forest,0,0,own,female div/dep/mar
+754,Random Forest,1,0,for free,male single
+755,Random Forest,1,1,rent,female div/dep/mar
+756,Random Forest,0,0,own,male single
+757,Random Forest,1,0,for free,male single
+758,Random Forest,0,0,own,male single
+759,Random Forest,1,0,own,male single
+760,Random Forest,0,0,own,female div/dep/mar
+761,Random Forest,1,0,rent,female div/dep/mar
+762,Random Forest,0,0,own,male single
+763,Random Forest,1,0,for free,male single
+764,Random Forest,0,0,own,male mar/wid
+765,Random Forest,0,0,own,male mar/wid
+766,Random Forest,1,0,own,male div/sep
+767,Random Forest,0,0,rent,female div/dep/mar
+768,Random Forest,0,0,rent,male single
+769,Random Forest,0,0,own,male single
+770,Random Forest,0,0,rent,female div/dep/mar
+771,Random Forest,1,1,own,female div/dep/mar
+772,Random Forest,0,0,own,male single
+773,Random Forest,0,0,own,male single
+774,Random Forest,0,0,for free,male single
+775,Random Forest,1,1,rent,female div/dep/mar
+776,Random Forest,0,0,own,male single
+777,Random Forest,0,0,own,female div/dep/mar
+778,Random Forest,0,0,own,male single
+779,Random Forest,0,0,own,female div/dep/mar
+780,Random Forest,1,0,own,male single
+781,Random Forest,0,0,own,male single
+782,Random Forest,0,0,own,male single
+783,Random Forest,1,1,own,female div/dep/mar
+784,Random Forest,0,0,own,male div/sep
+785,Random Forest,0,0,own,male single
+786,Random Forest,0,0,own,male single
+787,Random Forest,0,0,own,male single
+788,Random Forest,1,1,for free,male single
+789,Random Forest,1,1,own,male single
+790,Random Forest,1,0,own,female div/dep/mar
+791,Random Forest,0,0,own,male single
+792,Random Forest,0,0,own,male mar/wid
+793,Random Forest,0,0,for free,male div/sep
+794,Random Forest,0,0,rent,male single
+795,Random Forest,0,0,rent,female div/dep/mar
+796,Random Forest,1,0,for free,male single
+797,Random Forest,0,0,rent,female div/dep/mar
+798,Random Forest,0,0,own,male mar/wid
+799,Random Forest,0,0,own,male single
+800,Random Forest,0,0,for free,male single
+801,Random Forest,0,0,rent,female div/dep/mar
+802,Random Forest,0,0,own,female div/dep/mar
+803,Random Forest,0,0,own,male single
+804,Random Forest,0,0,rent,female div/dep/mar
+805,Random Forest,1,1,own,male single
+806,Random Forest,0,0,own,male mar/wid
+807,Random Forest,0,0,own,male single
+808,Random Forest,0,1,for free,male single
+809,Random Forest,1,0,rent,female div/dep/mar
+810,Random Forest,0,0,own,male mar/wid
+811,Random Forest,0,0,own,male mar/wid
+812,Random Forest,1,1,own,male single
+813,Random Forest,1,1,own,male single
+814,Random Forest,1,1,for free,male single
+815,Random Forest,0,1,rent,female div/dep/mar
+816,Random Forest,0,0,own,male div/sep
+817,Random Forest,0,0,rent,female div/dep/mar
+818,Random Forest,0,1,own,male div/sep
+819,Random Forest,1,0,own,male mar/wid
+820,Random Forest,0,0,own,male mar/wid
+821,Random Forest,0,0,own,male mar/wid
+822,Random Forest,1,1,own,male single
+823,Random Forest,0,0,own,male single
+824,Random Forest,0,0,own,male div/sep
+825,Random Forest,0,0,own,male mar/wid
+826,Random Forest,1,0,rent,female div/dep/mar
+827,Random Forest,1,0,own,male single
+828,Random Forest,1,0,for free,male single
+829,Random Forest,0,1,for free,male single
+830,Random Forest,0,0,own,male single
+831,Random Forest,1,1,rent,female div/dep/mar
+832,Random Forest,1,1,rent,male single
+833,Random Forest,0,0,own,female div/dep/mar
+834,Random Forest,1,0,own,female div/dep/mar
+835,Random Forest,1,1,own,male single
+836,Random Forest,0,0,own,female div/dep/mar
+837,Random Forest,0,0,rent,female div/dep/mar
+838,Random Forest,0,0,own,male single
+839,Random Forest,0,0,own,male mar/wid
+840,Random Forest,1,1,own,male single
+841,Random Forest,0,0,own,male single
+842,Random Forest,1,0,own,female div/dep/mar
+843,Random Forest,0,0,own,male single
+844,Random Forest,0,0,own,male single
+845,Random Forest,0,0,own,male single
+846,Random Forest,1,0,rent,male single
+847,Random Forest,0,0,own,male mar/wid
+848,Random Forest,0,0,own,male single
+849,Random Forest,1,1,own,male single
+850,Random Forest,1,0,rent,male mar/wid
+851,Random Forest,0,0,own,male single
+852,Random Forest,0,0,for free,male single
+853,Random Forest,1,1,for free,male single
+854,Random Forest,0,0,own,male single
+855,Random Forest,0,0,own,male mar/wid
+856,Random Forest,0,0,own,female div/dep/mar
+857,Random Forest,0,0,for free,male single
+858,Random Forest,1,0,own,female div/dep/mar
+859,Random Forest,0,0,rent,male single
+860,Random Forest,0,0,own,male single
+861,Random Forest,1,0,own,male mar/wid
+862,Random Forest,1,0,own,female div/dep/mar
+863,Random Forest,0,0,own,male single
+864,Random Forest,1,0,rent,male single
+865,Random Forest,0,0,rent,female div/dep/mar
+866,Random Forest,0,1,own,female div/dep/mar
+867,Random Forest,0,0,own,male single
+868,Random Forest,0,0,own,male single
+869,Random Forest,0,1,rent,female div/dep/mar
+870,Random Forest,0,0,own,female div/dep/mar
+871,Random Forest,0,0,own,male single
+872,Random Forest,0,0,own,male single
+873,Random Forest,0,0,own,female div/dep/mar
+874,Random Forest,0,0,own,male single
+875,Random Forest,0,0,own,female div/dep/mar
+876,Random Forest,0,1,for free,male single
+877,Random Forest,0,0,own,male single
+878,Random Forest,1,0,for free,male single
+879,Random Forest,0,0,own,male single
+880,Random Forest,0,0,own,male single
+881,Random Forest,0,0,for free,male div/sep
+882,Random Forest,0,0,own,male single
+883,Random Forest,0,0,own,female div/dep/mar
+884,Random Forest,1,0,own,male div/sep
+885,Random Forest,1,0,own,female div/dep/mar
+886,Random Forest,0,0,own,male single
+887,Random Forest,1,1,own,male single
+888,Random Forest,0,0,own,male single
+889,Random Forest,0,0,rent,male single
+890,Random Forest,0,0,own,male single
+891,Random Forest,0,0,own,male single
+892,Random Forest,0,0,own,male single
+893,Random Forest,0,0,own,male single
+894,Random Forest,0,0,own,male single
+895,Random Forest,0,0,own,male single
+896,Random Forest,0,0,rent,female div/dep/mar
+897,Random Forest,0,0,own,female div/dep/mar
+898,Random Forest,0,0,rent,female div/dep/mar
+899,Random Forest,1,0,own,male single
+900,Random Forest,1,0,rent,male single
+901,Random Forest,0,0,own,male div/sep
+902,Random Forest,0,0,for free,male single
+903,Random Forest,0,0,rent,male mar/wid
+904,Random Forest,0,0,own,male single
+905,Random Forest,0,0,rent,male single
+906,Random Forest,0,0,own,male single
+907,Random Forest,0,0,own,male mar/wid
+908,Random Forest,0,0,own,female div/dep/mar
+909,Random Forest,0,0,own,female div/dep/mar
+910,Random Forest,0,0,own,female div/dep/mar
+911,Random Forest,1,0,own,female div/dep/mar
+912,Random Forest,0,0,own,female div/dep/mar
+913,Random Forest,0,0,own,male div/sep
+914,Random Forest,1,0,rent,male single
+915,Random Forest,1,1,own,female div/dep/mar
+916,Random Forest,0,0,own,male single
+917,Random Forest,1,1,own,male single
+918,Random Forest,1,0,own,male div/sep
+919,Random Forest,1,0,rent,male single
+920,Random Forest,0,0,own,female div/dep/mar
+921,Random Forest,0,1,own,male single
+922,Random Forest,1,0,rent,female div/dep/mar
+923,Random Forest,0,0,rent,male single
+924,Random Forest,1,1,own,male div/sep
+925,Random Forest,1,1,own,male single
+926,Random Forest,0,1,rent,female div/dep/mar
+927,Random Forest,1,0,for free,male single
+928,Random Forest,0,0,own,male single
+929,Random Forest,0,0,own,male single
+930,Random Forest,0,0,own,male single
+931,Random Forest,1,0,own,female div/dep/mar
+932,Random Forest,0,0,own,male single
+933,Random Forest,0,0,own,male single
+934,Random Forest,0,0,own,female div/dep/mar
+935,Random Forest,1,0,own,male single
+936,Random Forest,1,0,own,female div/dep/mar
+937,Random Forest,0,0,rent,male mar/wid
+938,Random Forest,1,1,for free,male single
+939,Random Forest,0,0,own,male single
+940,Random Forest,0,0,own,male single
+941,Random Forest,0,0,own,male single
+942,Random Forest,0,0,own,male single
+943,Random Forest,0,0,own,male single
+944,Random Forest,0,0,rent,female div/dep/mar
+945,Random Forest,0,1,own,female div/dep/mar
+946,Random Forest,1,0,for free,male single
+947,Random Forest,0,0,own,male single
+948,Random Forest,1,0,own,male mar/wid
+949,Random Forest,1,0,own,male single
+950,Random Forest,0,0,own,male mar/wid
+951,Random Forest,1,0,own,male single
+952,Random Forest,1,0,rent,female div/dep/mar
+953,Random Forest,1,1,own,female div/dep/mar
+954,Random Forest,0,0,own,female div/dep/mar
+955,Random Forest,0,0,rent,female div/dep/mar
+956,Random Forest,0,0,own,male single
+957,Random Forest,0,0,own,male single
+958,Random Forest,1,1,own,male single
+959,Random Forest,0,0,for free,male single
+960,Random Forest,0,0,rent,male mar/wid
+961,Random Forest,0,0,own,male div/sep
+962,Random Forest,0,0,own,male single
+963,Random Forest,1,0,own,male single
+964,Random Forest,0,0,own,male mar/wid
+965,Random Forest,0,0,own,female div/dep/mar
+966,Random Forest,1,0,own,male single
+967,Random Forest,0,0,rent,female div/dep/mar
+968,Random Forest,0,0,rent,male mar/wid
+969,Random Forest,0,0,own,male single
+970,Random Forest,0,0,own,male single
+971,Random Forest,0,0,own,male single
+972,Random Forest,1,1,rent,female div/dep/mar
+973,Random Forest,1,1,rent,male single
+974,Random Forest,0,0,own,female div/dep/mar
+975,Random Forest,0,0,own,female div/dep/mar
+976,Random Forest,0,0,own,female div/dep/mar
+977,Random Forest,0,0,own,male single
+978,Random Forest,1,0,own,male single
+979,Random Forest,1,1,rent,male mar/wid
+980,Random Forest,1,1,own,male single
+981,Random Forest,1,0,rent,male single
+982,Random Forest,0,0,own,female div/dep/mar
+983,Random Forest,1,0,own,male single
+984,Random Forest,0,0,own,male single
+985,Random Forest,0,0,rent,female div/dep/mar
+986,Random Forest,0,0,own,male div/sep
+987,Random Forest,0,0,own,female div/dep/mar
+988,Random Forest,0,1,for free,male single
+989,Random Forest,0,0,own,male single
+990,Random Forest,0,0,own,male single
+991,Random Forest,0,0,own,male single
+992,Random Forest,0,0,rent,male mar/wid
+993,Random Forest,0,1,own,male single
+994,Random Forest,0,0,own,male single
+995,Random Forest,0,0,own,female div/dep/mar
+996,Random Forest,0,0,own,male div/sep
+997,Random Forest,0,0,own,male single
+998,Random Forest,1,1,for free,male single
+999,Random Forest,0,0,own,male single

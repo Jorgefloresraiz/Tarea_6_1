@@ -1,4 +1,4 @@
-pandas>=2.0
-scikit-learn>=1.4
-matplotlib>=3.7
-pytest>=7.0
+pandas==2.3.3
+scikit-learn==1.9.1
+numpy==2.5.3
+# Pruebas 6.1: unittest (biblioteca estándar). Gráficas SVG sin Matplotlib.

@@ -1,0 +1,21 @@
+modelo,semilla,accuracy
+Árbol,0,0.608
+Árbol,1,0.66
+Árbol,2,0.664
+Árbol,3,0.672
+Árbol,4,0.704
+Árbol,5,0.688
+Árbol,6,0.664
+Árbol,7,0.696
+Árbol,8,0.668
+Árbol,9,0.72
+Random Forest,0,0.744
+Random Forest,1,0.748
+Random Forest,2,0.732
+Random Forest,3,0.772
+Random Forest,4,0.716
+Random Forest,5,0.752
+Random Forest,6,0.792
+Random Forest,7,0.776
+Random Forest,8,0.72
+Random Forest,9,0.768
